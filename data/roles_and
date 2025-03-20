@@ -1,0 +1,18 @@
+## Roles and Tasks Table for Citi Policy Knowledge Assistant Exercise
+
+| **Role**                   | **Responsibilities**                                              | **Key Deliverables**                        |
+|----------------------------|------------------------------------------------------------------|---------------------------------------------|
+| **Document Extractor**      | Convert Citi policy PDFs/DOCs into Markdown (`.md`) using **Docling**. | `Client_Manual.md`, `Code_of_Conduct.md`   |
+| **Text Cleaner**            | Clean up extracted Markdown files: remove unnecessary text, fix formatting. | Structured `.md` files with clean sections |
+| **Token Calculator**        | Extract 300-750 token snippets and validate token count using a tokenizer. | Extracted snippets (~750 tokens max)      |
+| **Q&A Creator**             | Write structured **Fact-based, Reasoning, and Clarification** Q&A pairs. | `qna.yaml` file with diverse Q&A sets     |
+| **Reviewer & Validator**    | Ensure Q&A pairs are **accurate, concise, and within token limits**. | Reviewed & optimized `qna.yaml` file      |
+| **Git Manager**             | Handle **branches, commits, PRs**, and ensure proper version control. | Uploaded `knowledge.yaml` to GitHub       |
+| **InstructLab Tester**      | Submit the YAML file to **InstructLab**, validate model responses. | Verified AI-generated Q&A responses       |
+
+### **Next Steps**
+- Assign roles within the team.
+- Extract and validate tokenized snippets.
+- Create structured Q&A in `qna.yaml`.
+- Upload and test using InstructLab.
+
