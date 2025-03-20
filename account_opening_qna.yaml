@@ -30,15 +30,15 @@ seed_examples:
       - question: |
           What identification may be requested when opening an account?
         answer: |
-          Acceptable types of identification may be requested when opening an account as well as a driver's license or other identifying documents. 
+          Acceptable types of identification such as a driver's license, passport or other identifying documents. 
       - question: |
           What transactions may be delayed for one or more business days after account opening?
         answer: |
-          Certain transactions such as Wire transfers may be delayed, but other transactions may be delayed depending on circumstance.
+          Certain transactions such as Wire transfers may be delayed, but other transactions such as deposits may be delayed depending on circumstance.
       - question: |
-          What is the cut off time for a Checking Account opened via Citibank Branch?
+          What is the cut off time for a Checking Account opened at a Branch?
         answer: |
-          This depends on the Branch Closing Time for example please refer to information posted in the branch.
+          Branch Closing Time will vary by branch please refer to information posted in the branch for specific times.
   - context: |
       Account Errors and Adjustments
 
@@ -57,7 +57,7 @@ seed_examples:
       - question: |
           In what circumstance might an adjustment be made to your account?
         answer: |
-          Adjustments might occur if a deposit amount is entered in an amount that is different than the actual amount of the deposit or items you deposit are returned unpaid.  If this is a deposit error then this may be investigated further.
+          Adjustments might occur for example if a deposit amount is entered in an amount that is different than the actual amount of the deposit or items you deposit are returned unpaid.  If this is a deposit error then this may be investigated further.
       - question: |
           How many days do you have to notify the bank of any errors on your account statement?
         answer: |
@@ -77,7 +77,7 @@ seed_examples:
       - question: |
           What tax certification is required from each account owner?
         answer: |
-          Citibank is required to obtain U.S. tax certification from each account owner.  If U.S. tax certification is not provided, the account will be subject to backup withholding.
+          A U.S. tax certification is required from each account owner.  If U.S. tax certification is not provided, the account will be subject to backup withholding.
       - question: |
           What form is required for U.S. persons to furnish or have on file with Citibank?
         answer: |
@@ -109,9 +109,9 @@ seed_examples:
         answer: |
           Interest received by U.S Persons will be reported on IRS Form 1099-INT for the year received, as required by applicable law.  Interest paid to non-U.S. Persons will be reported on IRS Form 1042-S for the year received.
       - question: |
-          What is FATCA?
+          What are the implications of not complying with FATCA?
         answer: |
-          FATCA is The Foreign Account Tax Compliance Act, a U.S. federal tax law.  Citibank may contact you to request additional information and/or documentation to be compliant with FATCA.
+          Your access to accounts may be restricted or interest payments withheld to cover taxes.
   - context: >
       Consumer Reporting Agency Information
 
