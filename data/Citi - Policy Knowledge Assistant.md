@@ -1,0 +1,15 @@
+Background
+
+Citigroup has been actively integrating generative GenAI into its operations to enhance policy analysis and regulatory compliance. In one instance, the bank's risk and compliance team employed GenAI to analyze a comprehensive 1,089-page document detailing new capital regulations for U.S. banks. The AI system efficiently segmented the extensive proposal and generated concise summaries, enabling the team to swiftly assess the implications of the regulatory changes.
+
+Beyond document analysis, Citigroup is exploring GenAI's potential to modernize legacy systems and automate initial drafts of compliance assessments. Additionally, GenAI assists in summarizing projects and identifying pertinent regulations, streamlining the preliminary stages of compliance reviews and allowing human experts to focus on in-depth analysis.
+
+In 2024, Citi made investments in OpenShift AI as part of their HCS drawdown. While they also expressed interest in Run:ai for an on-prem MLOps platform, we were able to procure BU-funding Consulting Services to accelerate their OpenShift AI adoption. As of early 2025, OpenShift AI is a certified MLOps platform at Citi because of the work completed by RH Services, and is looking for a continuing, paid engagement to advance the services work with Composer AI on OpenShift AI.
+
+In parallel to the Composer AI proposal, an InstructLab POC that shows value for Citi GenAI priorities could accelerate platform adoption further with a seed use case.
+
+Background Info Source: https://online.citi.com/IPB/pdf/client\_manual/ipbclman\_en.pdf
+
+Use Case Justification: Implementing a GenAI at Citi to aggregate and analyze the "Client Manual – Consumer Accounts" offers significant business advantages. This manual, a comprehensive document detailing terms, conditions, and procedures for consumer deposit accounts, is essential for ensuring compliance and providing accurate customer information. Utilizing a LLM to process and summarize this extensive content can enhance internal policy analysis, streamline compliance efforts, and improve customer service. By efficiently parsing complex regulatory information, GenAI enables quicker dissemination of updates to relevant teams, ensuring consistent adherence to policies. This approach not only reduces manual workload but also mitigates the risk of misinterpretation, leading to improved operational efficiency and customer satisfaction. Moreover, as demonstrated in previous applications, such as analyzing extensive regulatory documents, GenAI has proven its capability to handle complex policy content effectively.
+
+Goal of POC: Convey how an LLM trained on  "Client Manual – Consumer Accounts" that contains information on products, services, and policies can generate more searchable knowledge for employee awareness and training.
