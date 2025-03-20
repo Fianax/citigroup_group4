@@ -14,101 +14,93 @@ This manual also contains an arbitration provision that covers all disputes betw
 
 Please review this Client Manual thoroughly - and keep it for future reference. And if you have any questions, or need additional copies, please call us anytime at 1-888-CITIBANK or Text Telephone (TTY): We accept 711 or other Relay Service, visit your local branch or use the search function on citi.com.
 
-<!-- image -->
 
 ## Contents
 
-| Contact Us                                                           |   4 |
-|----------------------------------------------------------------------|-----|
-| General Terms - Consumer Use  Acknowledgment                         |   5 |
-| Important Note to Australian  Resident Clients                       |   5 |
-| Definitions                                                          |   5 |
-| Definitions of Types of Accounts                                     |   8 |
-| Account Opening/Ownership/ Maintenance                               |   9 |
-| Amendments/Changes to This Agreement                                 |   9 |
-| Arbitration                                                          |   9 |
-| Conflicting Demands/Disputes                                         |   9 |
-| Exemplar Signature                                                   |   9 |
-| Governing Law                                                        |   9 |
-| Indemnification                                                      |  10 |
-| Information Sharing                                                  |  10 |
-| Limitation on Time to Sue or Arbitrate                               |  10 |
-| Recording Your Service Requests                                      |  11 |
-| Your Consent for Us to Call You                                      |  11 |
-| Your Consent for Us to Use Your Mobile  Phone Number to Identify You |  11 |
-| Security Interest                                                    |  11 |
-| Severability                                                         |  11 |
-| Account Opening                                                      |  11 |
-| Consumer Reporting Agency Information                                |  12 |
-| Updating Your Account Information                                    |  12 |
-| Transferring Account Ownership                                       |  13 |
-| Language Preference                                                  |  13 |
-| Account Errors and Adjustments                                       |  14 |
-| Assignments                                                          |  14 |
-| Important Tax Information                                            |  14 |
-| Foreign Account Tax Compliance Act                                   |  15 |
-| Account Transactions                                                 |  16 |
-| What This Section Covers                                             |  16 |
-| Checkbooks and Checks                                                |  16 |
-| Deposits                                                             |  16 |
-| Remotely Created Checks                                              |  17 |
-
-| Endorsements                                            |   17 |
-|---------------------------------------------------------|------|
-| Items Sent for Collection                               |   17 |
-| Verification and Collection                             |   18 |
-| ACH Provisional Credits                                 |   18 |
-| Notice of Incoming Transfer                             |   18 |
-| Deposited Transaction Item  Returned Unpaid             |   18 |
-| Reconstructing Lost, Missing,  or Destroyed Deposits    |   18 |
-| Our Right to Refuse Deposits                            |   19 |
-| Account Balance and  Transaction Information            |   19 |
-| External Funds Transfers                                |   19 |
-| Cancellations or Amendments  of Funds Transfer Requests |   21 |
-| Claims                                                  |   22 |
-| Withdrawals                                             |   23 |
-| Account Statements and Notices,  Periodic Statements    |   29 |
-| Cancelled Check Options                                 |   29 |
-| Substitute Checks and Your Rights                       |   29 |
-| Filing a Claim                                          |   30 |
-| Special Circumstances                                   |   31 |
-| Forfeited Accounts                                      |   31 |
-| Death or Legal Determination  of Incompetence           |   31 |
-| Dormant Accounts                                        |   31 |
-| Legal Process                                           |   31 |
-| Right of Setoff                                         |   32 |
-| Restricted Access                                       |   31 |
-| Closing a Deposit Account                               |   31 |
-| Certain Deposit Accounts  with Transactional Features   |   33 |
-| Foreign Currency Exchange                               |   35 |
-| Limitation of Liability                                 |   35 |
-| Electronic Banking                                      |   36 |
-| General                                                 |   36 |
-| Access Devices                                          |   36 |
-
+| Contact Us                                                                                                                                            |    4 |
+| General Terms - Consumer Use  Acknowledgment                                                                                                          |    5 |
+| Important Note to Australian  Resident Clients                                                                                                        |    5 |
+| Definitions                                                                                                                                           |    5 |
+| Definitions of Types of Accounts                                                                                                                      |    8 |
+| Account Opening/Ownership/ Maintenance                                                                                                                |    9 |
+| Amendments/Changes to This Agreement                                                                                                                  |    9 |
+| Arbitration                                                                                                                                           |    9 |
+| Conflicting Demands/Disputes                                                                                                                          |    9 |
+| Exemplar Signature                                                                                                                                    |    9 |
+| Governing Law                                                                                                                                         |    9 |
+| Indemnification                                                                                                                                       |   10 |
+| Information Sharing                                                                                                                                   |   10 |
+| Limitation on Time to Sue or Arbitrate                                                                                                                |   10 |
+| Recording Your Service Requests                                                                                                                       |   11 |
+| Your Consent for Us to Call You                                                                                                                       |   11 |
+| Your Consent for Us to Use Your Mobile  Phone Number to Identify You                                                                                  |   11 |
+| Security Interest                                                                                                                                     |   11 |
+| Severability                                                                                                                                          |   11 |
+| Account Opening                                                                                                                                       |   11 |
+| Consumer Reporting Agency Information                                                                                                                 |   12 |
+| Updating Your Account Information                                                                                                                     |   12 |
+| Transferring Account Ownership                                                                                                                        |   13 |
+| Language Preference                                                                                                                                   |   13 |
+| Account Errors and Adjustments                                                                                                                        |   14 |
+| Assignments                                                                                                                                           |   14 |
+| Important Tax Information                                                                                                                             |   14 |
+| Foreign Account Tax Compliance Act                                                                                                                    |   15 |
+| Account Transactions                                                                                                                                  |   16 |
+| What This Section Covers                                                                                                                              |   16 |
+| Checkbooks and Checks                                                                                                                                 |   16 |
+| Deposits                                                                                                                                              |   16 |
+| Remotely Created Checks                                                                                                                               |   17 |
+| Endorsements                                                                                                                                          |   17 |
+| Items Sent for Collection                                                                                                                             |   17 |
+| Verification and Collection                                                                                                                           |   18 |
+| ACH Provisional Credits                                                                                                                               |   18 |
+| Notice of Incoming Transfer                                                                                                                           |   18 |
+| Deposited Transaction Item  Returned Unpaid                                                                                                           |   18 |
+| Reconstructing Lost, Missing,  or Destroyed Deposits                                                                                                  |   18 |
+| Our Right to Refuse Deposits                                                                                                                          |   19 |
+| Account Balance and  Transaction Information                                                                                                          |   19 |
+| External Funds Transfers                                                                                                                              |   19 |
+| Cancellations or Amendments  of Funds Transfer Requests                                                                                               |   21 |
+| Claims                                                                                                                                                |   22 |
+| Withdrawals                                                                                                                                           |   23 |
+| Account Statements and Notices,  Periodic Statements                                                                                                  |   29 |
+| Cancelled Check Options                                                                                                                               |   29 |
+| Substitute Checks and Your Rights                                                                                                                     |   29 |
+| Filing a Claim                                                                                                                                        |   30 |
+| Special Circumstances                                                                                                                                 |   31 |
+| Forfeited Accounts                                                                                                                                    |   31 |
+| Death or Legal Determination  of Incompetence                                                                                                         |   31 |
+| Dormant Accounts                                                                                                                                      |   31 |
+| Legal Process                                                                                                                                         |   31 |
+| Right of Setoff                                                                                                                                       |   32 |
+| Restricted Access                                                                                                                                     |   31 |
+| Closing a Deposit Account                                                                                                                             |   31 |
+| Certain Deposit Accounts  with Transactional Features                                                                                                 |   33 |
+| Foreign Currency Exchange                                                                                                                             |   35 |
+| Limitation of Liability                                                                                                                               |   35 |
+| Electronic Banking                                                                                                                                    |   36 |
+| General                                                                                                                                               |   36 |
+| Access Devices                                                                                                                                        |   36 |
 | Withdrawal Posting Cut-Off Times                                                                                                                      |   37 |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 | Types of Transactions; Limitations                                                                                                                    |   37 |
 | Error Resolution and Notice Procedures  for Claims or Questions concerning  Consumer International Global Transfers  and International Wire Transfers |   46 |
 | Error Resolution and Notice Procedures  for all other Electronic Fund Transfers                                                                       |   46 |
 | Confidentiality at Citibank                                                                                                                           |   48 |
 | Limitation of Liability                                                                                                                               |   49 |
 | Arbitration                                                                                                                                           |   50 |
-
-| Covered Disputes                                   |   50 |
-|----------------------------------------------------|------|
-| Arbitration Limits                                 |   50 |
-| How Arbitration Works                              |   50 |
-| Paying for Arbitration Fees                        |   51 |
-| The Final Award                                    |   51 |
-| Right to Resort to Provisional  Remedies Preserved |   51 |
-| Survival and Severability of Terms                 |   51 |
-| Rules for Rejecting This  Arbitration Provision    |   51 |
-| Signature Card (Reference Copy)                    |   52 |
+| Covered Disputes                                                                                                                                      |   50 |
+| Arbitration Limits                                                                                                                                    |   50 |
+| How Arbitration Works                                                                                                                                 |   50 |
+| Paying for Arbitration Fees                                                                                                                           |   51 |
+| The Final Award                                                                                                                                       |   51 |
+| Right to Resort to Provisional  Remedies Preserved                                                                                                    |   51 |
+| Survival and Severability of Terms                                                                                                                    |   51 |
+| Rules for Rejecting This  Arbitration Provision                                                                                                       |   51 |
+| Signature Card (Reference Copy)                                                                                                                       |   52 |
 
 ## Contact Us
 
-## CitiPhone Banking®
+## CitiPhone BankingÂ®
 
 Toll-Free (within the U.S.): 1-888-CITIBANK
 
@@ -118,17 +110,17 @@ To call collect from outside the U.S.: 1-210-677-0065
 
 We accept 711 or other Relay Service
 
-- · To report errors or to ask questions about electronic transfers;
-- · To obtain current interest rates and Annual Percentage Yields;
-- · For balance inquiries or other kinds of account information;
-- · To transfer funds between your accounts;
-- · To report a stolen, missing or damaged Citibank® Banking Card;
-- · To order checks;
-- · To request a stop payment on a check
+- Â· To report errors or to ask questions about electronic transfers;
+- Â· To obtain current interest rates and Annual Percentage Yields;
+- Â· For balance inquiries or other kinds of account information;
+- Â· To transfer funds between your accounts;
+- Â· To report a stolen, missing or damaged CitibankÂ® Banking Card;
+- Â· To order checks;
+- Â· To request a stop payment on a check
 
 ## Other Customer Service Telephone Numbers *
 
-Citibank® Online:
+CitibankÂ® Online:
 
 1-800-374-9700
 
@@ -150,7 +142,7 @@ Text Telephone (TTY):
 
 We accept 711 or other Relay Service
 
-Citigold® Customer Service with linked Citi Personal Wealth Management Investment Accounts or for relationships which do not contain a linked Citi Personal Wealth Management
+CitigoldÂ® Customer Service with linked Citi Personal Wealth Management Investment Accounts or for relationships which do not contain a linked Citi Personal Wealth Management
 
 Investment account:
 
@@ -164,7 +156,7 @@ Citi Priority Collect Number
 
 1-210-677-3780
 
-Citibank® MasterCard® or Visa®
+CitibankÂ® MasterCardÂ® or VisaÂ®
 
 1-800-950-5114
 
@@ -172,7 +164,7 @@ Citibank® MasterCard® or Visa®
 
 ## General Terms - Consumer Use Acknowledgment
 
-When you open a Citibank consumer deposit account, you are agreeing that your account will be governed by this Client Manual (sometimes referred to as 'Manual') and any and all accompanying Marketplace Addenda (sometimes referred to as 'Addendum'). Together, the Manual and Addendum are referred to as 'Agreement,' which contain important terms and conditions, details, rules and procedures applicable to each of your accounts. You agree not to use any consumer account for business purposes. Not all products and services described herein may be available to customers of Citi Private Bank, and International Personal Bank U.S. for clients in the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred , and Citi Global Executive Account Packages. These customers may receive other or additional specific terms and conditions.
+When you open a Citibank consumer deposit account, you are agreeing that your account will be governed by this Client Manual (sometimes referred to as 'Manual') and any and all accompanying Marketplace Addenda (sometimes referred to as 'Addendum'). Together, the Manual and Addendum are referred to as 'Agreement,' which contain important terms and conditions, details, rules and procedures applicable to each of your accounts. You agree not to use any consumer account for business purposes. Not all products and services described herein may be available to customers of Citi Private Bank, and International Personal Bank U.S. for clients in the CitigoldÂ® Private Client International, CitigoldÂ® International, Citi International Personal, Citi Global Executive Preferred , and Citi Global Executive Account Packages. These customers may receive other or additional specific terms and conditions.
 
 Unless otherwise expressly agreed in writing, our relationship with you will be that of debtor and creditor. That is, we owe you the amount of your deposit. No fiduciary, quasi-fiduciary or other special relationship exists between you and us. We owe you a duty of ordinary care. Any internal policies or procedures that we may maintain in excess of reasonable commercial standards and general banking usage are solely for our own benefit and shall not impose a higher standard of care than otherwise would apply in their absence.
 
@@ -194,7 +186,7 @@ When used in this Agreement:
 
 ' We , ' ' us , ' ' our , ' and ' Citibank ' mean Citibank, N.A., and ' you ' and ' your ' mean you, the customer.
 
-' Access Device ' means a card or code, or other means of identification and authentication, used to access your account. In this Agreement, it means your ' Citibank® Banking Card ' including your Citibank® ATM Card Citibank® , Debit Card , or other type of device issued by Citibank along with or in lieu of your Citibank® Banking Card. It also includes these account access codes: your Personal Identification Number (PIN), your Telephone Access Code (' TAC '), one time password (OTP) and the User ID and Password you use to access Citibank® Online and CitiMobile®.
+' Access Device ' means a card or code, or other means of identification and authentication, used to access your account. In this Agreement, it means your ' CitibankÂ® Banking Card ' including your CitibankÂ® ATM Card CitibankÂ® , Debit Card , or other type of device issued by Citibank along with or in lieu of your CitibankÂ® Banking Card. It also includes these account access codes: your Personal Identification Number (PIN), your Telephone Access Code (' TAC '), one time password (OTP) and the User ID and Password you use to access CitibankÂ® Online and CitiMobileÂ®.
 
 ' Auto Save ' means a recurring pre-authorized transfer from a consumer checking account to a Citibank savings or money market account.
 
@@ -204,18 +196,18 @@ When used in this Agreement:
 
 Your ' Available Now ' balance is the total amount you can use right now. The Available Now balance amount may be less than your On Deposit balance as it doesn't include the transactions that are still pending and haven't been posted to your account. For example, a recent deposited check may not be included in your Available Now balance.
 
-' Bill Payment ' means an individual or recurring bill payments made through CitiPhone Banking® (including bill payments made using Citibank's Telephone Automated Bill Payment Service and Staff Assisted Bill Payments), Citibank® Online, CitiBusiness® Online and Citi Mobile®. Bill Payments do not include internal transfer payments made to accounts at Citibank or its affiliates.
+' Bill Payment ' means an individual or recurring bill payments made through CitiPhone BankingÂ® (including bill payments made using Citibank's Telephone Automated Bill Payment Service and Staff Assisted Bill Payments), CitibankÂ® Online, CitiBusinessÂ® Online and Citi MobileÂ®. Bill Payments do not include internal transfer payments made to accounts at Citibank or its affiliates.
 
 ## ' Business Day '
 
-- · when referring to Citibank, means any day of the week that is not a Saturday, Sunday or bank holiday. Non-Business Days are considered part of the following Business Day. For purposes of determining the Business Day for requests to open accounts, see the 'Account Opening' section of the Manual. For funds availability purposes, see the 'Funds Availability at Citibank' section of the Marketplace Addendum .
-- · when referring to Citigroup Global Markets Inc., means any day of the week Monday through Friday except days when the New York Stock Exchange is closed. Non-Business Days are considered part of the following Business Day.
+- Â· when referring to Citibank, means any day of the week that is not a Saturday, Sunday or bank holiday. Non-Business Days are considered part of the following Business Day. For purposes of determining the Business Day for requests to open accounts, see the 'Account Opening' section of the Manual. For funds availability purposes, see the 'Funds Availability at Citibank' section of the Marketplace Addendum .
+- Â· when referring to Citigroup Global Markets Inc., means any day of the week Monday through Friday except days when the New York Stock Exchange is closed. Non-Business Days are considered part of the following Business Day.
 
-' Citibank® ATM Card ' means a Citibank® Banking Card that may be used at ATMs and at POS merchants for PIN purchases. (For more information, refer to the 'Electronic Banking' section of this Manual.)
+' CitibankÂ® ATM Card ' means a CitibankÂ® Banking Card that may be used at ATMs and at POS merchants for PIN purchases. (For more information, refer to the 'Electronic Banking' section of this Manual.)
 
-' Citibank® Banking Card ' means any card that may be used at ATMs and at POS merchants, including Citibank ATM cards and Citibank® Debit Cards. We may also refer to this card as a Citibank Card or a Citi Card in promotional and other materials.
+' CitibankÂ® Banking Card ' means any card that may be used at ATMs and at POS merchants, including Citibank ATM cards and CitibankÂ® Debit Cards. We may also refer to this card as a Citibank Card or a Citi Card in promotional and other materials.
 
-' Citibank® Debit Card ' means a Citibank Banking Card bearing a Mastercard Brand Mark on its face that may be used at POS merchants to make purchases and at ATMs to withdraw cash and perform other transactions. Certain Citibank Banking Cards also display a contactless symbol indicating you may use your card to make a contactless payment to a participating merchant by tapping your card on the payment reader.
+' CitibankÂ® Debit Card ' means a Citibank Banking Card bearing a Mastercard Brand Mark on its face that may be used at POS merchants to make purchases and at ATMs to withdraw cash and perform other transactions. Certain Citibank Banking Cards also display a contactless symbol indicating you may use your card to make a contactless payment to a participating merchant by tapping your card on the payment reader.
 
 ' Citigroup Global Markets Inc. ' (' CGMI '), member SIPC, is an investment advisor and broker-dealer registered with the Securities and Exchange Commission. CGMI and Citibank are affiliated companies under the common control of Citigroup Inc.
 
@@ -223,27 +215,27 @@ Your ' Available Now ' balance is the total amount you can use right now. The Av
 
 ' Citi Private Bank ' (' CPB ') is a business of Citigroup Inc. Citi Private Bank provides its clients access to a broad array of products and services available through bank and non-bank affiliates of Citigroup. Not all products and services are provided by all affiliates or are available at all locations. In the U.S., investment products and services are provided by Citigroup Global Markets Inc. ('CGMI'), member SIPC. Investment Management services (including portfolio management) are available through CGMI, Citibank, N.A. and other affiliated advisory businesses.
 
-' Direct Deposit ' means an Automated Clearing House (ACH) credit posted to your account. A Direct Deposit may include payroll, pension, state or federal payments (including social security), from your employer or outside agency. Forms for establishing direct deposits can be obtained at any Citibank branch or through Citibank® Online.
+' Direct Deposit ' means an Automated Clearing House (ACH) credit posted to your account. A Direct Deposit may include payroll, pension, state or federal payments (including social security), from your employer or outside agency. Forms for establishing direct deposits can be obtained at any Citibank branch or through CitibankÂ® Online.
 
 ' Electronic Funds Transfers ' (' EFT ') means any transfer of funds, other than a transaction originated by check, draft or similar paper instrument, or computer or magnetic tape, so as to order, instruct or authorize a financial institution to debit or credit a consumer checking, savings or other asset account (such as brokerage). Examples of EFT transactions are:
 
-- · Citibank® Global Transfers
-- · International wire transfers from a consumer account
-- · Automated Clearing House (ACH)
-- · Instant Payments
-- · Zelle® Transfers
-- · Point-of-Sale ('POS') transactions
-- · ATM transactions
-- · Direct deposit or withdrawal of funds
-- · Transfers initiated by telephone
+- Â· CitibankÂ® Global Transfers
+- Â· International wire transfers from a consumer account
+- Â· Automated Clearing House (ACH)
+- Â· Instant Payments
+- Â· ZelleÂ® Transfers
+- Â· Point-of-Sale ('POS') transactions
+- Â· ATM transactions
+- Â· Direct deposit or withdrawal of funds
+- Â· Transfers initiated by telephone
 
 Non-EFT transactions include: transfers related to bona fide trust and custodial accounts; domestic Fedwire and similar network transactions CHIPS, SWIFT, and telex; and transfers to cover overdrafts such as Safety Check transfers.
 
-' Enhanced Direct Deposit ' is an electronic deposit through the Automated Clearing House (' ACH ') Network of payroll, pension, social security, government benefits and other payments to your checking, savings, or MMA account. An Enhanced Direct Deposit also includes Zelle® incoming payments and other P2P payments when made via ACH using providers such as Venmo or PayPal. Teller deposits, cash deposits, check deposits, wire transfers, transfers between Citibank accounts, ATM transfers and deposits, mobile check deposits, and P2P payments using a debit card do not qualify as an Enhanced Direct Deposit.
+' Enhanced Direct Deposit ' is an electronic deposit through the Automated Clearing House (' ACH ') Network of payroll, pension, social security, government benefits and other payments to your checking, savings, or MMA account. An Enhanced Direct Deposit also includes ZelleÂ® incoming payments and other P2P payments when made via ACH using providers such as Venmo or PayPal. Teller deposits, cash deposits, check deposits, wire transfers, transfers between Citibank accounts, ATM transfers and deposits, mobile check deposits, and P2P payments using a debit card do not qualify as an Enhanced Direct Deposit.
 
 ' Home Branch ' means the Citibank branch in which you opened your account or to which your account was assigned or transferred. You may have several accounts assigned to the same Home Branch and they may be linked together, but one or more of these accounts may be governed by different state laws where no federal law applies and where state law is applicable or not otherwise preempted by federal law.
 
-' International Personal Bank U.S. ' (' IPB U.S. ') is a business of Citigroup Inc. (' Citigroup ') which provides its clients access to a broad array of products and services available through Citigroup, its bank and non-bank affiliates worldwide (collectively, 'Citi'). Through IPB U.S., clients have access to the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred , and Citi Global Executive Account Packages. Banking products and services are provided by Citibank, N.A.
+' International Personal Bank U.S. ' (' IPB U.S. ') is a business of Citigroup Inc. (' Citigroup ') which provides its clients access to a broad array of products and services available through Citigroup, its bank and non-bank affiliates worldwide (collectively, 'Citi'). Through IPB U.S., clients have access to the CitigoldÂ® Private Client International, CitigoldÂ® International, Citi International Personal, Citi Global Executive Preferred , and Citi Global Executive Account Packages. Banking products and services are provided by Citibank, N.A.
 
 ' Linked Accounts ' or ' Linking ' means eligible Citibank deposit and/or credit accounts that are combined for different benefits, which may include pricing, statements, Safety Check and the ability to perform certain transactions between accounts. Certain accounts that you maintain with our affiliates may also be linked. Generally, accounts that you maintain in different geographies cannot be linked.
 
@@ -253,7 +245,7 @@ Non-EFT transactions include: transfers related to bona fide trust and custodial
 
 Your ' On Deposit ' amount reflects all transactions recorded in your account as of today. The On Deposit amount may be greater than the Available Now amount because it's a record of your activity, including transactions that haven't settled and that aren't yet available for you to use.
 
-' Point-of-Sale ' (' POS ') means a Citibank® Banking Card EFT from your primary checking account to purchase goods and services and/or receive cash using your 'Citibank® Debit Card' for Signature or PIN-based EFT transactions or by using your 'Citibank® ATM Card' for PIN-based EFT transactions. (For more information, refer to the 'Electronic Banking' section of this Manual.)
+' Point-of-Sale ' (' POS ') means a CitibankÂ® Banking Card EFT from your primary checking account to purchase goods and services and/or receive cash using your 'CitibankÂ® Debit Card' for Signature or PIN-based EFT transactions or by using your 'CitibankÂ® ATM Card' for PIN-based EFT transactions. (For more information, refer to the 'Electronic Banking' section of this Manual.)
 
 ' Proprietary Citibank ATM ' means an ATM that is owned and operated by Citibank, generally found in Citibank branches.
 
@@ -299,11 +291,11 @@ Citibank may use automated processes to capture a digital image of your signatur
 
 ## Governing Law
 
-Accounts and services are governed by federal laws and regulations and to the extent not preempted by federal law or otherwise inapplicable, by the 'governing state law' determined as follows for accounts opened or services signed up for on or after February 24, 2012: If you open your account or sign up for a service in a branch, by the law of the state where the branch is located, regardless of the state where you reside, or, if you open your account or sign up for a service remotely (for example by Citibank® Online or CitiPhone Banking®), by the law of the state designated in the following chart unless a specific agreement or statute requires otherwise. In either case, state conflict of law provisions will not apply.
+Accounts and services are governed by federal laws and regulations and to the extent not preempted by federal law or otherwise inapplicable, by the 'governing state law' determined as follows for accounts opened or services signed up for on or after February 24, 2012: If you open your account or sign up for a service in a branch, by the law of the state where the branch is located, regardless of the state where you reside, or, if you open your account or sign up for a service remotely (for example by CitibankÂ® Online or CitiPhone BankingÂ®), by the law of the state designated in the following chart unless a specific agreement or statute requires otherwise. In either case, state conflict of law provisions will not apply.
 
 ## Governing State Law
 
-| If you open your account, or sign up for a service remotely  (i.e., Citibank® Online, CitiPhone Banking®) and reside here . . .   | Then the governing state law will be . . .   |
+| If you open your account, or sign up for a service remotely  (i.e., CitibankÂ® Online, CitiPhone BankingÂ®) and reside here . . .   | Then the governing state law will be . . .   |
 |-----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
 | California                                                                                                                        | California                                   |
 | Connecticut                                                                                                                       | Connecticut                                  |
@@ -326,7 +318,7 @@ Except as otherwise set forth in this Agreement, you agree to indemnify, defend 
 
 ## Information Sharing
 
-Our consumer privacy notice describes personal information we may collect about you, including your name, address, telephone number, and other information we receive from you, information about your account and transactions, and information we receive from credit reporting agencies and other sources. You authorize us to disclose this information to affiliates and nonaffiliated third parties as permitted by applicable law except as you or we limit those disclosures under the terms of our consumer privacy notice. A copy of our consumer privacy notice accompanies your Agreement and we will provide it thereafter as required by applicable law. You may obtain a copy of our consumer privacy notice at any branch, by calling us toll-free within the U.S. at 1-888-214-0017, by calling CitiPhone Banking® (see the 'Contact Us' section of this Manual for telephone numbers) or by visiting citibank.com. You may change your privacy preferences at any time by calling the toll free number listed in our privacy notice. We may take as long as thirty (30) days from our receipt of your privacy choices to process your request.
+Our consumer privacy notice describes personal information we may collect about you, including your name, address, telephone number, and other information we receive from you, information about your account and transactions, and information we receive from credit reporting agencies and other sources. You authorize us to disclose this information to affiliates and nonaffiliated third parties as permitted by applicable law except as you or we limit those disclosures under the terms of our consumer privacy notice. A copy of our consumer privacy notice accompanies your Agreement and we will provide it thereafter as required by applicable law. You may obtain a copy of our consumer privacy notice at any branch, by calling us toll-free within the U.S. at 1-888-214-0017, by calling CitiPhone BankingÂ® (see the 'Contact Us' section of this Manual for telephone numbers) or by visiting citibank.com. You may change your privacy preferences at any time by calling the toll free number listed in our privacy notice. We may take as long as thirty (30) days from our receipt of your privacy choices to process your request.
 
 ## Limitation on Time to Sue or Arbitrate
 
@@ -358,27 +350,27 @@ Unless otherwise stated, if any of the provisions of this Agreement are determin
 
 All accounts are opened subject to our ability to verify your identity by requiring acceptable types of identification. To help the government fight the funding of terrorism and money laundering activities, federal law requires us to obtain, verify, and record information that identifies each person who opens an account. When you apply for an account, we will ask for information that will allow us to identify you. We may also ask for your driver's license or other identifying documents. Please note: Your ability to perform or request certain account transactions on a new account, such as wire transfers, may be delayed for one or more business days after account opening.
 
-Account opening transactions that are completed prior to the Cut-off Time on a Business Day 1  are recorded as having occurred on that day. Account opening transactions that complete after the Cut-off Time are recorded as having occurred the next Business Day. 1  The exception to the Business Day 1  rule is Certificates of Deposit opened via Citibank® Online. Please refer to footnote 2 for the rules that apply to Certificates of Deposit opened via Citibank® Online.
+Account opening transactions that are completed prior to the Cut-off Time on a Business Day 1  are recorded as having occurred on that day. Account opening transactions that complete after the Cut-off Time are recorded as having occurred the next Business Day. 1  The exception to the Business Day 1  rule is Certificates of Deposit opened via CitibankÂ® Online. Please refer to footnote 2 for the rules that apply to Certificates of Deposit opened via CitibankÂ® Online.
 
 Some cut-off times are based on Eastern Time and others are based on Central Time. Please review the cut-off times listed in the chart below.
 
 | Account Type            | Opening Channel                 | Account Opening Cut-off Time                                                                        |
 |-------------------------|---------------------------------|-----------------------------------------------------------------------------------------------------|
 | Checking Accounts       | Citibank Branch                 | Branch Closing Time - Please refer to the end of  Business Day 1  information posted in the branch. |
-| Checking Accounts       | CitiPhone Banking®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
-| Checking Accounts       | Citibank® Online & Citi Mobile® | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+| Checking Accounts       | CitiPhone BankingÂ®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+| Checking Accounts       | CitibankÂ® Online & Citi MobileÂ® | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
 | Savings Accounts        | Citibank Branch                 | Branch Closing Time - Please refer to the end of  Business Day 1  information posted in the branch. |
-| Savings Accounts        | CitiPhone Banking®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
-| Savings Accounts        | Citibank® Online & Citi Mobile® | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+| Savings Accounts        | CitiPhone BankingÂ®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+| Savings Accounts        | CitibankÂ® Online & Citi MobileÂ® | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
 | Certificates of Deposit | Citibank Branch                 | Branch Closing Time - Please refer to the end of  Business Day 1  information posted in the branch. |
-| Certificates of Deposit | CitiPhone Banking®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
-| Certificates of Deposit | Citibank® Online                | 11:59 PM Central Time 2                                                                             |
+| Certificates of Deposit | CitiPhone BankingÂ®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+| Certificates of Deposit | CitibankÂ® Online                | 11:59 PM Central Time 2                                                                             |
 
 ## Consumer Reporting Agency Information
 
 You authorize us to obtain a consumer report in connection with the application, update or renewal of any deposit or loan account you apply for and you understand that we may also obtain such reports at any time once you become a customer. You also authorize us to use these consumer reports to consider you for other programs with Citibank.
 
-We may report information, including negative account activity, about you and any joint account owners or authorized signers on the account (including any account closed by Citibank) to a Consumer Reporting Agency. As a result, this may prevent you from obtaining services at other financial institutions, including opening an account. If you believe that we have inaccurately reported information to a Consumer Reporting Agency, you have the right to file a dispute with that Consumer Reporting Agency. You may also file a dispute by calling CitiPhone Banking® (see the 'Contact Us' section of this Manual for telephone numbers) or write to us at Citibank - Consumer Report Inquiry, P.O. Box 769004, San Antonio, TX 78245-9989. We will review our files and respond to you in writing.
+We may report information, including negative account activity, about you and any joint account owners or authorized signers on the account (including any account closed by Citibank) to a Consumer Reporting Agency. As a result, this may prevent you from obtaining services at other financial institutions, including opening an account. If you believe that we have inaccurately reported information to a Consumer Reporting Agency, you have the right to file a dispute with that Consumer Reporting Agency. You may also file a dispute by calling CitiPhone BankingÂ® (see the 'Contact Us' section of this Manual for telephone numbers) or write to us at Citibank - Consumer Report Inquiry, P.O. Box 769004, San Antonio, TX 78245-9989. We will review our files and respond to you in writing.
 
 ## Updating Your Account Information
 
@@ -387,15 +379,15 @@ It is important that your account records be kept up to date. You have a respons
 ## Footnotes:
 
 - 1 When referring to Citibank, 'Business Day' means any day of the week that is not a Saturday, Sunday or bank holiday. Non-Business Days are considered part of the following Business Day. For funds availability purposes, see the 'Funds Availability at Citibank' section of the Marketplace Addendum.
-- 2 Certificates of Deposit opened via the Citibank® Online channel are recorded as opened on the date the opening transaction is completed based on Central Time with a 11:59 PM Central Time cut-off time. Certificates of Deposit opened via the Citibank® Online channel can be recorded as opened on every day of the year including days that are not Business Days. 1
+- 2 Certificates of Deposit opened via the CitibankÂ® Online channel are recorded as opened on the date the opening transaction is completed based on Central Time with a 11:59 PM Central Time cut-off time. Certificates of Deposit opened via the CitibankÂ® Online channel can be recorded as opened on every day of the year including days that are not Business Days. 1
 
 You can update your account information by doing the following:
 
-- · By changing your profile settings on Citi Online or the Citi Mobile App;
-- · By calling CitiPhone Banking®;
-- · At a Citibank branch.
+- Â· By changing your profile settings on Citi Online or the Citi Mobile App;
+- Â· By calling CitiPhone BankingÂ®;
+- Â· At a Citibank branch.
 
-If you meet the required criteria, we will complete your address change request over the phone; however, it may be necessary to have you place your request in writing. Be sure to change the address on each of your accounts. Changing your address will not change the governing state law or the Home Branch of any of your existing accounts or services. If you have changed your address and would like to change your Home Branch or the governing state law of your existing accounts or services, you must either visit a branch or call CitiPhone Banking®.
+If you meet the required criteria, we will complete your address change request over the phone; however, it may be necessary to have you place your request in writing. Be sure to change the address on each of your accounts. Changing your address will not change the governing state law or the Home Branch of any of your existing accounts or services. If you have changed your address and would like to change your Home Branch or the governing state law of your existing accounts or services, you must either visit a branch or call CitiPhone BankingÂ®.
 
 We reserve the right to change your address for both mailing and records purposes if we receive information from the United States Postal Service or any other third party who we believe in our sole discretion is authorized to make such changes or who has actual knowledge of your current address.
 
@@ -413,7 +405,7 @@ English is the controlling language governing your banking relationship with us 
 
 ## Spanish Language
 
-For customers who inform us their preferred language is Spanish, upon your request, Citi can provide you with an unofficial Spanish translation of this Agreement and Spanish versions of your account statement. Although we may send you a Spanish version of your account statements, you can obtain an English version upon request. If you receive both an English and Spanish version of this Agreement or if you request English and Spanish versions of your account statements, you should retain both versions for your records. Many features on Citi Online and Proprietary Citibank ATM, and CitiPhone Banking® are offered in Spanish.
+For customers who inform us their preferred language is Spanish, upon your request, Citi can provide you with an unofficial Spanish translation of this Agreement and Spanish versions of your account statement. Although we may send you a Spanish version of your account statements, you can obtain an English version upon request. If you receive both an English and Spanish version of this Agreement or if you request English and Spanish versions of your account statements, you should retain both versions for your records. Many features on Citi Online and Proprietary Citibank ATM, and CitiPhone BankingÂ® are offered in Spanish.
 
 ## Account Communications
 
@@ -421,11 +413,11 @@ Communications Account communications and certain other notices, disclosures and
 
 ## Availability of Products and Services
 
-Although some products and services provided in our branches may be available only in English, you may be able to speak to a representative at a branch or a Relationship Manager in your preferred language. Not all preferred languages are available in every branch. Please call CitiPhone Banking® to find branches with representatives who speak your preferred language.
+Although some products and services provided in our branches may be available only in English, you may be able to speak to a representative at a branch or a Relationship Manager in your preferred language. Not all preferred languages are available in every branch. Please call CitiPhone BankingÂ® to find branches with representatives who speak your preferred language.
 
 ## Customer Service
 
-You may be able to receive customer service in your preferred language by calling CitiPhone Banking®.
+You may be able to receive customer service in your preferred language by calling CitiPhone BankingÂ®.
 
 ## Account Errors and Adjustments
 
@@ -437,7 +429,7 @@ Note: There are exceptions to this thirty day notice requirement. For claims ass
 
 You also agree that any suit or demand for arbitration that you assert based on an account error, discrepancy, or unauthorized transaction must be brought within one (1) year (two (2) years in Texas) after the date of the first account statement on which the error, discrepancy, or unauthorized transaction appears.
 
-If you think an error has been made or if you need more information about a transaction, call CitiPhone Banking® at the number on the back of your Citibank® Banking Card. If your account is debited with a substitute check that you have received from us and you believe that there is an error or discrepancy or that the transaction is unauthorized, you are entitled to additional rights under the law. Please refer to the 'Substitute Checks and Your Rights' section of this Manual. Please read the 'Error Resolution and Notice Procedures' provisions of the 'Electronic Banking' section of this Manual for additional information about problems with such transactions.
+If you think an error has been made or if you need more information about a transaction, call CitiPhone BankingÂ® at the number on the back of your CitibankÂ® Banking Card. If your account is debited with a substitute check that you have received from us and you believe that there is an error or discrepancy or that the transaction is unauthorized, you are entitled to additional rights under the law. Please refer to the 'Substitute Checks and Your Rights' section of this Manual. Please read the 'Error Resolution and Notice Procedures' provisions of the 'Electronic Banking' section of this Manual for additional information about problems with such transactions.
 
 If funds to which you are not entitled are deposited into your account, we have the right to remove these funds from the account at any time without prior notice to you. If there are insufficient funds in the account, we may charge your other accounts to recoup the funds, as more fully explained in the 'Right of Setoff' section of this Agreement.
 
@@ -483,19 +475,19 @@ For security reasons, we reserve the right to close your account and transfer th
 
 You can make deposits:
 
-- · To qualifying accounts linked to your Citibank® Banking Card 1  at any Proprietary Citibank ATM in the U.S., 24 hours a day, 7 days a week. Simply follow the directions on the ATM screen to insert your check or cash deposit in the appropriate slot. Some instruments such as some money orders or foreign checks cannot be accepted by the ATM terminal and must be deposited with a branch representative. When your transaction is completed, you will receive a transaction record via email or print (which ever option you select), that will provide an image of the check(s) or a breakdown of the cash accepted.
-- · With a teller, during regular banking hours, at any Citibank branch in the United States;
-- · By using our Deposit/Payment Express boxes which are located at select Citibank branch locations;
-- · By mail;
-- · By Mobile Check Deposit;
-- · By Direct Deposit (forms for establishing direct deposits can be obtained at any Citibank branch or through Citibank® Online);
-- · By Citibank® Global Transfer Service (where available);
-- · By an ACH or wire transfer; or
-- · By Inter Institution Transfer Service. For more information about these transfer services, refer to the 'Electronic Banking' section of this Manual.
+- Â· To qualifying accounts linked to your CitibankÂ® Banking Card 1  at any Proprietary Citibank ATM in the U.S., 24 hours a day, 7 days a week. Simply follow the directions on the ATM screen to insert your check or cash deposit in the appropriate slot. Some instruments such as some money orders or foreign checks cannot be accepted by the ATM terminal and must be deposited with a branch representative. When your transaction is completed, you will receive a transaction record via email or print (which ever option you select), that will provide an image of the check(s) or a breakdown of the cash accepted.
+- Â· With a teller, during regular banking hours, at any Citibank branch in the United States;
+- Â· By using our Deposit/Payment Express boxes which are located at select Citibank branch locations;
+- Â· By mail;
+- Â· By Mobile Check Deposit;
+- Â· By Direct Deposit (forms for establishing direct deposits can be obtained at any Citibank branch or through CitibankÂ® Online);
+- Â· By CitibankÂ® Global Transfer Service (where available);
+- Â· By an ACH or wire transfer; or
+- Â· By Inter Institution Transfer Service. For more information about these transfer services, refer to the 'Electronic Banking' section of this Manual.
 
 ## Footnotes:
 
-- 1 To ensure your accounts are properly linked, please stop by a branch or contact CitiPhone Banking® at 1-888-CITIBANK. You may also view a list of eligible accounts types, and link your qualifying Citi® accounts to your Citibank® Banking Card by signing on to citibankonline.com. Select the 'Link/Unlink Other Citi Accounts' option under 'Services' and follow the instructions.
+- 1 To ensure your accounts are properly linked, please stop by a branch or contact CitiPhone BankingÂ® at 1-888-CITIBANK. You may also view a list of eligible accounts types, and link your qualifying CitiÂ® accounts to your CitibankÂ® Banking Card by signing on to citibankonline.com. Select the 'Link/Unlink Other Citi Accounts' option under 'Services' and follow the instructions.
 
 We may accept items payable to you, or to any of you, from any source without questioning the authority of the person making the deposit. We also may give cash back to any authorized account signer(s) or agent(s) in connection with items payable to any owner, whether or not the items have been endorsed by the owner. If you make a deposit or payment that is not accompanied by instructions indicating how or where it is to be credited, we may apply it at our discretion, to any loan or deposit account any of you maintain with us.
 
@@ -507,13 +499,12 @@ If you provide your account number to a third party with instructions to charge 
 
 ## Endorsements
 
-To ensure that your check is processed without delay, you must endorse your check correctly by signing the back of the check. The area reserved for your signature is on the back of the check, within 1 ½ inches from the 'top' edge (as shown in the picture below). Do not make any additional marks or notations on the back of the check.
+To ensure that your check is processed without delay, you must endorse your check correctly by signing the back of the check. The area reserved for your signature is on the back of the check, within 1 Â½ inches from the 'top' edge (as shown in the picture below). Do not make any additional marks or notations on the back of the check.
 
 You will be liable for unpaid checks returned late because your endorsement, a prior endorsement, or information you have printed on the back of the check obscures other endorsements.
 
 We may endorse and/or collect items deposited to your account without your endorsement, but may require your personal endorsement prior to accepting an item for deposit.
 
-<!-- image -->
 
 ## Items Sent for Collection
 
@@ -529,7 +520,7 @@ Credit for an automated clearing house ('ACH') transfer is provisional until fin
 
 ## Notice of Incoming Transfer
 
-We are not required to give you a separate notice of our receipt of an ACH transfer. If we accept ACH credits to your account, you will receive notice of the credit on your next regular periodic statement. Although we may send notice of a non-ACH incoming funds transfer (e.g., a wire), we assume no obligation to do so. Transfers to your account will be reflected on your regular periodic statement. You may also contact your Home Branch during normal business hours to determine if a transfer has been credited to your account. This information is available to you anytime via CitiPhone Banking®, Citi Mobile® or Citibank® Online.
+We are not required to give you a separate notice of our receipt of an ACH transfer. If we accept ACH credits to your account, you will receive notice of the credit on your next regular periodic statement. Although we may send notice of a non-ACH incoming funds transfer (e.g., a wire), we assume no obligation to do so. Transfers to your account will be reflected on your regular periodic statement. You may also contact your Home Branch during normal business hours to determine if a transfer has been credited to your account. This information is available to you anytime via CitiPhone BankingÂ®, Citi MobileÂ® or CitibankÂ® Online.
 
 ## Deposited Transaction Item Returned Unpaid
 
@@ -547,9 +538,9 @@ When you cash or deposit a check or other item with us, we act as your agent to 
 
 You agree to cooperate fully with us to reconstruct such a deposited item by promptly:
 
-- · Providing us with a copy of the front and back of the deposited item from your or the issuer's records;
-- · Asking the issuer of the item to place a stop payment on it (at our expense) and to issue a replacement item to you (if the deposited item has not been paid); and
-- · Reviewing your records and other information to obtain the issuer's identity and any other information about the deposited item.
+- Â· Providing us with a copy of the front and back of the deposited item from your or the issuer's records;
+- Â· Asking the issuer of the item to place a stop payment on it (at our expense) and to issue a replacement item to you (if the deposited item has not been paid); and
+- Â· Reviewing your records and other information to obtain the issuer's identity and any other information about the deposited item.
 
 If you fail to cooperate with us to reconstruct the deposit, we may adjust any credit made to your account for the deposited item.
 
@@ -559,27 +550,27 @@ We may, at our discretion, refuse to accept funds for deposit to your account fo
 
 ## Account Balance and Transaction Information
 
-Although you may view your account information on Citibank® Online, Citi Mobile® or at an ATM and you may receive account information through CitiPhone Banking® and account updates through Citi® Text Banking, the information provided through any of these means may not include recent transactions and may also include funds that are not available for immediate withdrawal.
+Although you may view your account information on CitibankÂ® Online, Citi MobileÂ® or at an ATM and you may receive account information through CitiPhone BankingÂ® and account updates through CitiÂ® Text Banking, the information provided through any of these means may not include recent transactions and may also include funds that are not available for immediate withdrawal.
 
 The end of Business Day cut-off time for the transactions listed in the following chart is 10:30 PM Eastern Time (9:30 PM Central Time, 7:30 PM Pacific Time). The cut-off time impacts the actual day on which these transactions will be effective and reflected in your account balance.
 
 | Type of Transaction Performed                         | Channel Where Transaction is Performed                                                                                                                    |
 |-------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Deposits and Payments 2                               | Proprietary Citibank ATMs                                                                                                                                 |
-| Mobile Check Deposit                                  | Citi Mobile®                                                                                                                                              |
+| Mobile Check Deposit                                  | Citi MobileÂ®                                                                                                                                              |
 | Withdrawals                                           | All ATMs                                                                                                                                                  |
-| Citibank ®  Global Transfers                          | Citibank® Online, Citi Mobile®                                                                                                                            |
-| Internal Transfers to other linked  Citibank Accounts | Proprietary Citibank ATMs Network ATMs (primary account only) 3 Citibank® Online Citi Mobile® Telephone-initiated transfers (automated or staff-assisted) |
+| Citibank Â®  Global Transfers                          | CitibankÂ® Online, Citi MobileÂ®                                                                                                                            |
+| Internal Transfers to other linked  Citibank Accounts | Proprietary Citibank ATMs Network ATMs (primary account only) 3 CitibankÂ® Online Citi MobileÂ® Telephone-initiated transfers (automated or staff-assisted) |
 
 ## External Funds Transfers
 
-The following terms apply to any request to transfer funds from your account to an account maintained at another institution other than those made using an online or mobile person to person transfer service which is subject to a separate agreement. Examples of funds transfers covered by this section include wire transfers and Citibank® Global Transfers. In addition to the information provided here, please refer to any funds transfer agreements you may receive when you initiate such a request. For international funds transfers, you will be provided with certain disclosures required by federal law at the time you initiate your request for that transfer. To the extent the provisions in this section are inconsistent with the disclosures provided to you for an international wire transfer, the provisions of such disclosures shall govern. When you request a funds transfer, you authorize us to debit your account for the amount of the transfer and you also authorize us to charge your account any applicable service fees in accordance with the fee schedule in effect at the time of your request. For international funds transfer requests, you will be given information regarding the fees associated with that transfer on the disclosure you are provided at the time of the transfer request.
+The following terms apply to any request to transfer funds from your account to an account maintained at another institution other than those made using an online or mobile person to person transfer service which is subject to a separate agreement. Examples of funds transfers covered by this section include wire transfers and CitibankÂ® Global Transfers. In addition to the information provided here, please refer to any funds transfer agreements you may receive when you initiate such a request. For international funds transfers, you will be provided with certain disclosures required by federal law at the time you initiate your request for that transfer. To the extent the provisions in this section are inconsistent with the disclosures provided to you for an international wire transfer, the provisions of such disclosures shall govern. When you request a funds transfer, you authorize us to debit your account for the amount of the transfer and you also authorize us to charge your account any applicable service fees in accordance with the fee schedule in effect at the time of your request. For international funds transfer requests, you will be given information regarding the fees associated with that transfer on the disclosure you are provided at the time of the transfer request.
 
 ## Footnotes:
 
 ## Reliance by Citibank
 
-Citibank will rely on the information you provide in making a funds transfer on your behalf. It is your responsibility to provide Citibank® with accurate information regarding that transfer, including the account number of the beneficiary of the funds transfer and where applicable, the number (such as 'BIC' or 'SORT') identifying the beneficiary institution; payment will be processed based on the number(s) provided by you. Should you provide an incorrect account number and/or beneficiary institution identifier, you understand that any losses resulting from the funds being credited to the wrong account will be your responsibility. For international transfers, you may be required at the time you initiate the request to provide Citibank with information regarding the currency in which the beneficiary account is maintained. You understand and acknowledge that Citibank will rely on this information in executing your request in accordance with the provisions set forth in the 'Currency of Transfer' paragraph below.
+Citibank will rely on the information you provide in making a funds transfer on your behalf. It is your responsibility to provide CitibankÂ® with accurate information regarding that transfer, including the account number of the beneficiary of the funds transfer and where applicable, the number (such as 'BIC' or 'SORT') identifying the beneficiary institution; payment will be processed based on the number(s) provided by you. Should you provide an incorrect account number and/or beneficiary institution identifier, you understand that any losses resulting from the funds being credited to the wrong account will be your responsibility. For international transfers, you may be required at the time you initiate the request to provide Citibank with information regarding the currency in which the beneficiary account is maintained. You understand and acknowledge that Citibank will rely on this information in executing your request in accordance with the provisions set forth in the 'Currency of Transfer' paragraph below.
 
 ## Security Procedures
 
@@ -599,7 +590,7 @@ We will not be liable for any delay or failure to execute your funds transfer re
 
 ## Incoming Funds Transfers
 
-Notice of your incoming funds transfers will be deemed to have occurred when you receive your periodic bank statement, or another notice from us, containing a credit to your account for the funds received. Also, to determine if a funds transfer has been credited to your account, you can call CitiPhone Banking®, view your account information on Citibank® Online or Citi Mobile®, or request account updates via Citi® Text Banking.
+Notice of your incoming funds transfers will be deemed to have occurred when you receive your periodic bank statement, or another notice from us, containing a credit to your account for the funds received. Also, to determine if a funds transfer has been credited to your account, you can call CitiPhone BankingÂ®, view your account information on CitibankÂ® Online or Citi MobileÂ®, or request account updates via CitiÂ® Text Banking.
 
 ## Cancellations or Amendments of Funds Transfer Requests
 
@@ -627,10 +618,10 @@ Wire transfers are a fast way to send money to individuals and businesses. Howev
 
 Your financial security is important to us. We encourage you to take the following steps to reduce your risk of fraud when sending wire transfers:
 
-- · Know Who You are Dealing With - Do not send funds to an individual or business you don't know personally.
-- · Verify your Wire Transfer Instruction - Check the information you include on a wire transfer instruction to verify the information is correct.
-- · Verify the legitimacy of what you are paying for - Independently confirm (whether in-person or through a trusted third-party) the legitimacy of what you are paying for.
-- · Be Cautious of any Recipient Claiming Urgency - Don't be rushed into initiating a transfer to anyone claiming an urgent deadline.
+- Â· Know Who You are Dealing With - Do not send funds to an individual or business you don't know personally.
+- Â· Verify your Wire Transfer Instruction - Check the information you include on a wire transfer instruction to verify the information is correct.
+- Â· Verify the legitimacy of what you are paying for - Independently confirm (whether in-person or through a trusted third-party) the legitimacy of what you are paying for.
+- Â· Be Cautious of any Recipient Claiming Urgency - Don't be rushed into initiating a transfer to anyone claiming an urgent deadline.
 
 If you believe you may have been a victim of a wire transfer scam, time is of the essence. Please contact Citibank immediately so that we can attempt to contact the corresponding financial institution that may have received the fraudulent wire transfer.
 
@@ -640,7 +631,7 @@ If you believe you may have been a victim of a wire transfer scam, time is of th
 
 Please refer to the 'Error Resolution and Notice Procedures for Claims or Questions concerning Consumer International Global Transfers and International Wire Transfers' paragraph under 'Electronic Banking' for a description of your rights.
 
-## Applicable to claims or questions with respect to domestic Citibank® Global Transfers
+## Applicable to claims or questions with respect to domestic CitibankÂ® Global Transfers
 
 Please refer to the 'Error Resolution and Notice Procedures for all other Electronic Fund Transfers' paragraph under 'Electronic Banking' for a description of your rights.
 
@@ -662,9 +653,9 @@ You can withdraw up to your available balance by cashing a check or making a wit
 
 ## At a Proprietary Citibank ATM or at an ATM Network Machine
 
-You can use your Citibank® Banking Card to withdraw cash from your eligible linked accounts at a Proprietary Citibank ATM and from primary linked accounts at a Network ATM. Depending on the terms of your account, there may be a Citibank transaction fee for cash withdrawals from a Network ATM other than those which you can use without incurring a surcharge as described in the following paragraph. In addition, the company that owns or operates the machine may charge you a fee for the withdrawal. For more information on ATM withdrawals, refer to the 'Electronic Banking' section of this Manual.
+You can use your CitibankÂ® Banking Card to withdraw cash from your eligible linked accounts at a Proprietary Citibank ATM and from primary linked accounts at a Network ATM. Depending on the terms of your account, there may be a Citibank transaction fee for cash withdrawals from a Network ATM other than those which you can use without incurring a surcharge as described in the following paragraph. In addition, the company that owns or operates the machine may charge you a fee for the withdrawal. For more information on ATM withdrawals, refer to the 'Electronic Banking' section of this Manual.
 
-You can withdraw cash, get information and make transfers between your eligible linked Citibank accounts with no surcharge fee when you use your Citibank Banking Card at ATMs in the U.S. located at Citibank branches, ATMs at select retail store locations, and ATMs participating in the MoneyPass® Network. ATMs in retail stores and at other non-Citi locations are not owned or operated by Citibank. Use the Citi Worldwide ATM/Branch Locator on Citibank Online or the Citi Mobile® App to find the nearest ATMs and branches, including non-Citibank ATMs in the U.S. with surcharge free access.
+You can withdraw cash, get information and make transfers between your eligible linked Citibank accounts with no surcharge fee when you use your Citibank Banking Card at ATMs in the U.S. located at Citibank branches, ATMs at select retail store locations, and ATMs participating in the MoneyPassÂ® Network. ATMs in retail stores and at other non-Citi locations are not owned or operated by Citibank. Use the Citi Worldwide ATM/Branch Locator on Citibank Online or the Citi MobileÂ® App to find the nearest ATMs and branches, including non-Citibank ATMs in the U.S. with surcharge free access.
 
 ## Cash Withdrawals
 
@@ -672,7 +663,7 @@ Cash withdrawals or payments at any Citibank branch may be restricted due to the
 
 ## Writing a Check
 
-You can write a check for any amount up to the Available Now balance (including any Checking Plus® or Safety Check availability) in your checking account or money market account, provided your account offers a check-writing feature, by using one of the personalized checks you receive from us or one of the compliant checks that you have ordered elsewhere. Checks must be written in U.S. dollars.
+You can write a check for any amount up to the Available Now balance (including any Checking PlusÂ® or Safety Check availability) in your checking account or money market account, provided your account offers a check-writing feature, by using one of the personalized checks you receive from us or one of the compliant checks that you have ordered elsewhere. Checks must be written in U.S. dollars.
 
 ## Paying Your Checks
 
@@ -696,7 +687,7 @@ We process most checks by automated means based on information encoded on the ch
 
 You agree not to write post-dated checks. If you do, we may or may not pay the check on the day it is presented.
 
-The following applies to you if the governing state law of your account is in a state other than New York: If you write a post-dated check on your account and intend that the check will not be paid by us until the date written on the check, you must notify us to register it at the time you write the check. In order for your registration notice to be effective, you must call CitiPhone Banking® and provide the number, payee, amount and date of the check. You may also send written notice of your post-dated check request to us at the address printed on your periodic statement. An oral or written request to register a post-dated check is good for six (6) months and may be renewed for additional six (6) month periods by giving written notice to us within the period during which the original notice is in effect. A post-dated check will be registered only if the notice is received at such a time and in such a manner as to afford us a reasonable opportunity to act on it before we take action with respect to the check. We may pay any post-dated check that has not been properly registered with us or not registered in a timely manner. If we re-credit your account after paying a postdated check over a valid and timely postdated check notice, you agree to transfer to us all of your related rights against the payee or other holder of the check, and to assist us in legal action taken against that person.
+The following applies to you if the governing state law of your account is in a state other than New York: If you write a post-dated check on your account and intend that the check will not be paid by us until the date written on the check, you must notify us to register it at the time you write the check. In order for your registration notice to be effective, you must call CitiPhone BankingÂ® and provide the number, payee, amount and date of the check. You may also send written notice of your post-dated check request to us at the address printed on your periodic statement. An oral or written request to register a post-dated check is good for six (6) months and may be renewed for additional six (6) month periods by giving written notice to us within the period during which the original notice is in effect. A post-dated check will be registered only if the notice is received at such a time and in such a manner as to afford us a reasonable opportunity to act on it before we take action with respect to the check. We may pay any post-dated check that has not been properly registered with us or not registered in a timely manner. If we re-credit your account after paying a postdated check over a valid and timely postdated check notice, you agree to transfer to us all of your related rights against the payee or other holder of the check, and to assist us in legal action taken against that person.
 
 ## Stale-Dated Checks
 
@@ -706,7 +697,7 @@ You agree that we may pay or reject a check which is presented to us for payment
 
 ## General
 
-Any signer on the account can instruct us to stop payment on a check that has not been paid by issuing a stop payment order at a Citibank branch, through Citibank® Online or by calling CitiPhone Banking®. For information about stopping payment on an automatic withdrawal or payment from your account (ACH), please refer to 'Stop Payment Orders (Automatic Transfers)' in the 'Electronic Banking' Section of this Manual.
+Any signer on the account can instruct us to stop payment on a check that has not been paid by issuing a stop payment order at a Citibank branch, through CitibankÂ® Online or by calling CitiPhone BankingÂ®. For information about stopping payment on an automatic withdrawal or payment from your account (ACH), please refer to 'Stop Payment Orders (Automatic Transfers)' in the 'Electronic Banking' Section of this Manual.
 
 A stop payment order must be received in a time and manner that gives us a reasonable opportunity to act on it before paying, accepting, certifying, cashing or otherwise becoming obligated to pay the item. Payment cannot be stopped on a check that has already been paid or that is in the process of being paid. At the time that you place a stop payment order, we may not be able to tell you whether the check has been paid or is in the process of being paid. Under certain circumstances, the law may allow the party in possession of the check to enforce payment, despite the stop payment order. You agree to indemnify us against any claim or loss resulting from honoring your stop payment request.
 
@@ -718,11 +709,11 @@ When you place a stop payment order on a check and believe that the check may be
 
 You will need to accurately provide:
 
-- · Your account number;
-- · The date of the check;
-- · The check number;
-- · The exact amount (dollars and cents) of the check; and
-- · The payee's name.
+- Â· Your account number;
+- Â· The date of the check;
+- Â· The check number;
+- Â· The exact amount (dollars and cents) of the check; and
+- Â· The payee's name.
 
 We may use some or all of the information, in our sole discretion, to identify a check. If the information is not exactly correct, the stop payment may not be effective.
 
@@ -756,7 +747,7 @@ First: Deposits made before the cut-off time are added to your account balance.
 
 Second: Fees for services we provide.
 
-Third: Transactions received real-time during the day are deducted as they occur if there is a sufficient available balance in the account to pay for the transaction and any associated fee. Example: ATM, debit PIN or teller withdrawals including cashed checks; transfers or Citibank® Online bill payments initiated by you, debit card purchases at a merchant and most ACH debits that we receive throughout the day.
+Third: Transactions received real-time during the day are deducted as they occur if there is a sufficient available balance in the account to pay for the transaction and any associated fee. Example: ATM, debit PIN or teller withdrawals including cashed checks; transfers or CitibankÂ® Online bill payments initiated by you, debit card purchases at a merchant and most ACH debits that we receive throughout the day.
 
 Fourth: Checks presented for payment and any ACH debit not deducted during the day are deducted from your remaining available balance in the order of lowest to highest dollar amount.
 
@@ -768,7 +759,7 @@ Your deposit account with us is overdrawn if your Available Now balance is less 
 
 In the event of insufficient funds to pay one or more Transaction Items from your Available Now balance, in our sole discretion we may return ('Returned Items') or pay ('Overdraft') one or more Transaction Items.
 
-We will not allow you to overdraw your account in certain circumstances. These may include certain activities, such as branch withdrawals, ATM transactions, and transactions using your Citibank® Debit Card. In addition, accounts in the Access Account Package are designed so that Transaction Items that cause an overdraft will not be authorized. Please review 'Access Account Package' in the Marketplace Addendum for additional information. For certain other account activities, such as a check transaction or ACH payment, in our discretion, we may allow or deny a transaction that would cause an account to be overdrawn.
+We will not allow you to overdraw your account in certain circumstances. These may include certain activities, such as branch withdrawals, ATM transactions, and transactions using your CitibankÂ® Debit Card. In addition, accounts in the Access Account Package are designed so that Transaction Items that cause an overdraft will not be authorized. Please review 'Access Account Package' in the Marketplace Addendum for additional information. For certain other account activities, such as a check transaction or ACH payment, in our discretion, we may allow or deny a transaction that would cause an account to be overdrawn.
 
 ## Insufficient Funds to pay a Transaction item
 
@@ -802,34 +793,33 @@ Safety Check transfers from your Contributing Account will be made in the amount
 
 No more than $99,999.99 per statement period will be transferred from your Contributing Account to cover overdraft amounts or use of uncollected funds in your checking account.
 
-## Checking Plus® (variable rate) Line of Credit
+## Checking PlusÂ® (variable rate) Line of Credit
 
 Checking Plus is a revolving line of credit account linked to your Citibank checking account that provides overdraft protection and allows you to borrow the extra cash you need. Funds are automatically transferred from the Checking Plus line to the checking account to cover overdraft amounts; you can also withdraw cash at any time directly from your Checking Plus account without overdrawing your checking account (up to your available credit limit). The terms of a Checking Plus (variable rate) line of credit account are included in a separate Agreement and Disclosure that you will receive at time of account application or shortly thereafter.
 
-For all Checking Plus® and Checking Plus® (variable rate) Line of Credit customers. Please refer to your Checking Plus or Checking Plus (variable rate) Line of Credit Account Agreement and Disclosure, as applicable, for terms, conditions and fees relating to transfers from Checking Plus Line of Credit or Checking Plus (variable rate) Line of Credit Accounts.
+For all Checking PlusÂ® and Checking PlusÂ® (variable rate) Line of Credit customers. Please refer to your Checking Plus or Checking Plus (variable rate) Line of Credit Account Agreement and Disclosure, as applicable, for terms, conditions and fees relating to transfers from Checking Plus Line of Credit or Checking Plus (variable rate) Line of Credit Accounts.
 
 ## Withdrawal Refusals
 
 In some instances, we may refuse a request for a withdrawal or transfer from an account. The following list includes, but is not limited to, the most common reasons we might refuse such requests:
 
-- · If the funds you wish to withdraw are not yet available; (See the 'Funds Availability at Citibank' section of the Marketplace Addendum .)
-- · If we decide to require seven (7) days advance written notice and we have not received such notice;
-- · If there are insufficient funds in your account;
-- · If you use a type of check not acceptable to us;
-- · If the funds you wish to withdraw are being held to cover a checking account withdrawal under our Safety Check service;
-- · If the funds you wish to withdraw are being held due to cashing of a third party check against the account or for any other reason;
-- · If the withdrawal would consist of money owed to us;
-- · If the withdrawal you are requesting is of the type that is limited by federal regulations, and you have already reached the applicable limit;
-- · If, in the case of a joint account, any account signer gives us written instructions not to permit a withdrawal;
-- · If the account is pledged as collateral for a loan;
-- · If an account owner has died and we have not received all documents required to release funds in the account;
-- · If we have not received documents or identification required to permit access to the account, such as when the account is new and documentation remains missing;
-
-- · If we have been ordered by a court or other legal process not to permit the withdrawal;
-- · If you do not present us with appropriate identification or any other information that we may require;
-- · If we are aware of any dispute relating to the account or funds in the account;
-- · If we have some suspicion of fraud, irregularity, or illegality; or
-- · If we believe that the signature on a check or item drawn on your account and presented for payment does not appear similar to that appearing in our records.
+- Â· If the funds you wish to withdraw are not yet available; (See the 'Funds Availability at Citibank' section of the Marketplace Addendum .)
+- Â· If we decide to require seven (7) days advance written notice and we have not received such notice;
+- Â· If there are insufficient funds in your account;
+- Â· If you use a type of check not acceptable to us;
+- Â· If the funds you wish to withdraw are being held to cover a checking account withdrawal under our Safety Check service;
+- Â· If the funds you wish to withdraw are being held due to cashing of a third party check against the account or for any other reason;
+- Â· If the withdrawal would consist of money owed to us;
+- Â· If the withdrawal you are requesting is of the type that is limited by federal regulations, and you have already reached the applicable limit;
+- Â· If, in the case of a joint account, any account signer gives us written instructions not to permit a withdrawal;
+- Â· If the account is pledged as collateral for a loan;
+- Â· If an account owner has died and we have not received all documents required to release funds in the account;
+- Â· If we have not received documents or identification required to permit access to the account, such as when the account is new and documentation remains missing;
+- Â· If we have been ordered by a court or other legal process not to permit the withdrawal;
+- Â· If you do not present us with appropriate identification or any other information that we may require;
+- Â· If we are aware of any dispute relating to the account or funds in the account;
+- Â· If we have some suspicion of fraud, irregularity, or illegality; or
+- Â· If we believe that the signature on a check or item drawn on your account and presented for payment does not appear similar to that appearing in our records.
 
 ## Withdrawal Notice
 
@@ -839,11 +829,11 @@ We reserve the right to require seven (7) days advance notice before permitting 
 
 ## Your Own Checks
 
-You can cash a check at any Citibank branch, for any amount up to the available balance with your Citibank® Banking Card or other identification that is acceptable to us.
+You can cash a check at any Citibank branch, for any amount up to the available balance with your CitibankÂ® Banking Card or other identification that is acceptable to us.
 
 ## Third Party Checks
 
-In certain instances we may allow you to cash a third party check (i.e., a check originally payable to another person) at a Citibank branch, up to the available balance in your account using your Citibank® Banking Card as identification. If the check is payable to a party other than yourself, we may require that the other party's endorsement be verified or guaranteed before we accept the check. In any case, we may refuse to accept any third party check for encashment for any reason. If you routinely request that we cash third party checks we may require that you enter into a separate agreement with us for that purpose. If we do cash a third party check, a hold may be placed on your account for the amount of the check until the check clears. The amount of the check cashed may also reduce your daily balance or average daily balance for interest and/ or fee calculation purposes for up to the number of days it takes for us to collect the check.
+In certain instances we may allow you to cash a third party check (i.e., a check originally payable to another person) at a Citibank branch, up to the available balance in your account using your CitibankÂ® Banking Card as identification. If the check is payable to a party other than yourself, we may require that the other party's endorsement be verified or guaranteed before we accept the check. In any case, we may refuse to accept any third party check for encashment for any reason. If you routinely request that we cash third party checks we may require that you enter into a separate agreement with us for that purpose. If we do cash a third party check, a hold may be placed on your account for the amount of the check until the check clears. The amount of the check cashed may also reduce your daily balance or average daily balance for interest and/ or fee calculation purposes for up to the number of days it takes for us to collect the check.
 
 ## Payee Check Cashing
 
@@ -855,13 +845,13 @@ You should not use your account to cash checks for others who are not well known
 
 ## Account Statements and Notices, Periodic Statements
 
-We will provide a periodic account statement to you showing all activity for the statement period, all transactions made with your Citibank® Banking Card, all transfers you authorize in advance, and other account information for the statement period. Your periodic statement will include a summary of your linked account balances and an itemized listing of your transactions by date, including information about checks presented against your account, and other notices about your linked accounts. We use postage-paid ordinary postal-mail to send you statements or notices to the postal mail address reflected in our records for the account.
+We will provide a periodic account statement to you showing all activity for the statement period, all transactions made with your CitibankÂ® Banking Card, all transfers you authorize in advance, and other account information for the statement period. Your periodic statement will include a summary of your linked account balances and an itemized listing of your transactions by date, including information about checks presented against your account, and other notices about your linked accounts. We use postage-paid ordinary postal-mail to send you statements or notices to the postal mail address reflected in our records for the account.
 
 Regardless of the number of account owners, we only mail to one owner per account. Notification given to any one account owner is considered notification to all account owners and is considered delivered to you on the date we first place the statement or notice in the U.S. mail or the date that the email notifying you that your statement is available on Citibank Online is first sent, regardless of whether or not you receive it.
 
-If two consecutive statements and/or notices are returned to us for any reason, you agree that we may hold subsequent notices and statements until we receive forwarding information from you. Statements and notices held for you will be deemed delivered to you on the date that they are prepared (for held statements), mailed (for returned statements) or otherwise made available to you. At our discretion, we may destroy mail that is returned to us as determined to be undeliverable. If you have a checking, Checking Plus®, or Checking Plus® (variable rate) line of credit account, you will receive a statement each month and that statement will include information regarding all of your other linked accounts.
+If two consecutive statements and/or notices are returned to us for any reason, you agree that we may hold subsequent notices and statements until we receive forwarding information from you. Statements and notices held for you will be deemed delivered to you on the date that they are prepared (for held statements), mailed (for returned statements) or otherwise made available to you. At our discretion, we may destroy mail that is returned to us as determined to be undeliverable. If you have a checking, Checking PlusÂ®, or Checking PlusÂ® (variable rate) line of credit account, you will receive a statement each month and that statement will include information regarding all of your other linked accounts.
 
-You can arrange to receive separate statements for your linked Citibank accounts by calling CitiPhone Banking® (see the 'Contact Us' section of this Manual for telephone numbers).
+You can arrange to receive separate statements for your linked Citibank accounts by calling CitiPhone BankingÂ® (see the 'Contact Us' section of this Manual for telephone numbers).
 
 Instead of receiving a paper statement through ordinary postal mail, any signer on an account may elect to enroll in our paperless statement service when you are registered on Citibank Online. If you elect to use the paperless statement service, we will notify you via email of the availability of your statement on Citibank Online. The terms and conditions for the paperless statement service are subject to a separate agreement which you will accept when enrolling in the service and can view at any time on Citibank Online.
 
@@ -869,19 +859,19 @@ Instead of receiving a paper statement through ordinary postal mail, any signer 
 
 Unless you have an account package that allows you to elect otherwise and you have done so, we will not send you images of your cancelled checks.
 
-If you have a checking account in the Citigold® Account Package, Citi Priority Account Package, Citibank® Account Package or a Citi Private Bank Account, you may elect to have your check images delivered with your periodic statements. You must speak with an account representative to sign up for this service. Please note that if you receive check images with your statement, included among those images may be some checks which were presented for payment but which were returned unpaid after your statement was prepared and sent to you.
+If you have a checking account in the CitigoldÂ® Account Package, Citi Priority Account Package, CitibankÂ® Account Package or a Citi Private Bank Account, you may elect to have your check images delivered with your periodic statements. You must speak with an account representative to sign up for this service. Please note that if you receive check images with your statement, included among those images may be some checks which were presented for payment but which were returned unpaid after your statement was prepared and sent to you.
 
-Images of your cancelled checks presented within the past 18 months are also available to you through Citibank® Online. Additionally, you may request a copy of any of your cancelled checks by calling CitiPhone Banking®. Please refer to 'Other Fees and Charges for All Accounts' in the Marketplace Addendum for applicable fees.
+Images of your cancelled checks presented within the past 18 months are also available to you through CitibankÂ® Online. Additionally, you may request a copy of any of your cancelled checks by calling CitiPhone BankingÂ®. Please refer to 'Other Fees and Charges for All Accounts' in the Marketplace Addendum for applicable fees.
 
 ## Substitute Checks and Your Rights
 
-## What Is a Substitute Check?
+### What Is a Substitute Check?
 
 A substitute check is a paper reproduction created from a digital image of the front and back of the original check and bears the legend 'This is a legal copy of your check.' You can use it the same way you would use the original check. Federal law allows banks to replace original checks with 'substitute checks.' Under the law, a substitute check is the 'legal equivalent' of the original check. In other words, it can be used in the same way and for all purposes for which you would use the original check.
 
-## Your Rights
+### Your Rights
 
-The following rights apply if you receive a substitute check from us in lieu of the original check. These rights do not apply to original checks or to electronic debits. Your rights as to those transactions remain unchanged and are described in other sections of this Agreement. Please note these rights also do not apply to images of checks furnished to you or viewed through Citibank® Online.
+The following rights apply if you receive a substitute check from us in lieu of the original check. These rights do not apply to original checks or to electronic debits. Your rights as to those transactions remain unchanged and are described in other sections of this Agreement. Please note these rights also do not apply to images of checks furnished to you or viewed through CitibankÂ® Online.
 
 In certain cases, federal law provides a special procedure that allows you to request a refund for losses you incur if you believe a substitute check is incorrectly posted to your account (for example, if you think your account was debited for the wrong amount) and production of the original check is needed to determine the validity of the debit. The losses you may attempt to recover may include the amount that was withdrawn from your account and fees that were charged as a result of the withdrawal (for example, overdraft check fees.) The amount of the refund you may request under this procedure is limited to the amount of your loss or the amount of the substitute check, whichever is less. You are also entitled to interest if your account is an interest-bearing account. If your loss exceeds the amount of the substitute check, you may be able to recover additional amounts under other laws.
 
@@ -889,16 +879,16 @@ Under federal law, you may receive up to $2,500 of your refund (plus interest if
 
 ## Filing a Claim
 
-If you believe a substitute check you have received from us was improperly debited to your account, please call CitiPhone Banking® at the number indicated in the 'Contact Us' section of this Manual. You must contact us within forty (40) calendar days of the date we mailed, or otherwise made available to you, the substitute check in question. We may extend the time period if you were prevented from contacting us for extenuating reasons. In certain situations, such as forgery claims, we may require that you put your claim in writing. If so, we must receive the information in writing within ten (10) Business Days from the day you first notified us of your claim.
+If you believe a substitute check you have received from us was improperly debited to your account, please call CitiPhone BankingÂ® at the number indicated in the 'Contact Us' section of this Manual. You must contact us within forty (40) calendar days of the date we mailed, or otherwise made available to you, the substitute check in question. We may extend the time period if you were prevented from contacting us for extenuating reasons. In certain situations, such as forgery claims, we may require that you put your claim in writing. If so, we must receive the information in writing within ten (10) Business Days from the day you first notified us of your claim.
 
 If you are not able to contact us by telephone, you may also write to us at the following address: Citibank Client Services, P.O. Box 769014, San Antonio, TX 78245-9989.
 
 In investigating your claim, we may request the following information from you:
 
-- · Description of how you suffered a loss;
-- · Amount of your loss;
-- · Explanation as to why the original check is needed to determine the validity of the amount charged to your account; and
-- · A copy of the substitute check and/or information to help us identify the substitute check (such as check number, the amount of the check and payee).
+- Â· Description of how you suffered a loss;
+- Â· Amount of your loss;
+- Â· Explanation as to why the original check is needed to determine the validity of the amount charged to your account; and
+- Â· A copy of the substitute check and/or information to help us identify the substitute check (such as check number, the amount of the check and payee).
 
 ## Special Circumstances
 
@@ -912,15 +902,15 @@ You agree to notify us immediately of the death or court- ordered legal determin
 
 In case of death or legally determined incompetence of an account owner, we will continue to honor checks written on that account as well as other withdrawal instructions until we are notified of the death or the legally determined incompetence. We may continue to honor checks for up to ten (10) days following the death of the account owner unless a validly appointed representative of the decedent or another account owner provides us with stop payment instructions.
 
-Upon notification of death or legal determination of incompetence, we will block individual accounts; joint accounts may remain unblocked for up to thirty (30) days after we have been notified of an account owner's death. Certain documents must be presented to us before funds in such an account can be paid out and the account closed. For more information about which documents are required, please visit your Home Branch or contact CitiPhone Banking® (see the 'Contact Us' section of this Manual for telephone numbers).
+Upon notification of death or legal determination of incompetence, we will block individual accounts; joint accounts may remain unblocked for up to thirty (30) days after we have been notified of an account owner's death. Certain documents must be presented to us before funds in such an account can be paid out and the account closed. For more information about which documents are required, please visit your Home Branch or contact CitiPhone BankingÂ® (see the 'Contact Us' section of this Manual for telephone numbers).
 
 ## Dormant Accounts
 
 Under applicable state abandoned property statutes, your account will be considered dormant (inactive) and we may be required to send to the appropriate state the balances in your deposit account unless you have done at least one of the following during a specified period of time:
 
-- · Deposited or withdrawn funds;
-- · Signed and returned our active account confirmation form; or
-- · Written to us concerning the account.
+- Â· Deposited or withdrawn funds;
+- Â· Signed and returned our active account confirmation form; or
+- Â· Written to us concerning the account.
 
 A certificate of deposit account that has not reached initial maturity will not be considered inactive, but if the account renews automatically, it can become inactive starting after the initial maturity date.
 
@@ -970,44 +960,41 @@ In the event that Citibank fails, you agree to cooperate fully with us and the F
 
 FDIC Format for Account Beneficiary Information (To be completed for each account beneficiary)
 
-|   Field  Number | Field Name     | Description                                                                |
-|-----------------|----------------|----------------------------------------------------------------------------|
-|               1 | Blank          | Blank                                                                      |
-|               2 | Account Number | Account Number at Citibank                                                 |
-|               3 | Blank          | Blank                                                                      |
-|               4 | Blank          | Blank                                                                      |
-|               5 | Tax ID         | Customer's SSN (no hyphens) or Tax ID number                               |
-|               6 | Tax ID Code    | Code indicates corporate (TIN) or personal tax identification number (SSN) |
-|               7 | Name 1         | Full name of owner line 1 as it appears on the account                     |
-|               8 | Name 2         | Full name of owner line 2 as is appears on the account                     |
-|               9 | Address 1      | Address line 1 as it appears on the customer's statement                   |
-|              10 | Address 2      | Address line 2 as it appears on the customer's statement                   |
-|              11 | Address 3      | Address line 3 as it appears on the customer's statement                   |
-|              12 | City           | Address city as it appears on the customer's statement                     |
-|              13 | State          | State postal abbreviation as it appears on the customer's statement        |
-|              14 | Zip            | Address zip as it appears on the customer's statement (no hyphens)         |
-|              15 | Country        | Country code as it appears on the customer's statement                     |
-|              16 | Province       | Province as it appears on the customer's statement                         |
-
-|   Field  Number | Field Name                                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-|-----------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|              17 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|              18 | Principal                                 | Principal balance of the customer's account as of the institution failure date                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|              19 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|              20 | Deposit Account  Ownership Category       | Single, joint, or business account                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-|              21 | Transactional Flag                        | This field indicates whether the account has transactional features. Enter  'Y' if account has transactional features, enter 'N' otherwise. Transactional  features means that the account holder can make transfers or withdrawals from  the deposit account to make payments or transfers to third persons or others  (including another account of the depositor or account holder at the same  institution or at a different institution) by means of a negotiable or transferable  instrument, payment order of withdrawal, check, draft, prepaid account access  device, debit card, or other similar order made by the depositor and payable  to third parties, or by means of a telephonic (including data transmission)  agreement, order or instruction, or by means of an instruction made at an  automated teller machine or similar terminal or unit |
-|              22 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|              23 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|              24 | Account Beneficiary  Full Name            | Account beneficiary's first, middle, and last name or the registered name of  the entity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-|              25 | Account Participant  Type                 | BEN is the type you should use                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|              26 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|              27 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|              28 | Beneficiary's  Government-Issued  ID      | This field shall contain the ID number that identifies the account participant  based on a government issued ID or corporate filing. For a United States  individual - Legal identification number (e.g. SSN, TIN). For a foreign national  individual - where a SSN or TIN does not exist, a foreign passport or other  legal identification number (e.g. Alien Card). For a non-individual - the Tax  identification Number (TIN), or other register entity number. The SSN or TIN  should be used for uniquely identifying the account participant, and is not  intended to be used for aggregation purposes                                                                                                                                                                                                                                                   |
-|              29 | Beneficiary's  Government-Issued  ID Type | The valid account participant identification types, are: SSN = Social Security  Number, TIN = Tax Identification Number, OTH = Other                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|   Field  Number | Field Name                                | Description                                                                                         |
+|-----------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------|
+|               1 | Blank                                     | Blank                                                                                               |
+|               2 | Account Number                            | Account Number at Citibank                                                                          |
+|               3 | Blank                                     | Blank                                                                                               |
+|               4 | Blank                                     | Blank                                                                                               |
+|               5 | Tax ID                                    | Customer's SSN (no hyphens) or Tax ID number                                                        |
+|               6 | Tax ID Code                               | Code indicates corporate (TIN) or personal tax identification number (SSN)                          |
+|               7 | Name 1                                    | Full name of owner line 1 as it appears on the account                                              |
+|               8 | Name 2                                    | Full name of owner line 2 as is appears on the account                                              |
+|               9 | Address 1                                 | Address line 1 as it appears on the customer's statement                                            |
+|              10 | Address 2                                 | Address line 2 as it appears on the customer's statement                                            |
+|              11 | Address 3                                 | Address line 3 as it appears on the customer's statement                                            |
+|              12 | City                                      | Address city as it appears on the customer's statement                                              |
+|              13 | State                                     | State postal abbreviation as it appears on the customer's statement                                 |
+|              14 | Zip                                       | Address zip as it appears on the customer's statement (no hyphens)                                  |
+|              15 | Country                                   | Country code as it appears on the customer's statement                                              |
+|              16 | Province                                  | Province as it appears on the customer's statement                                                  |
+|              17 | Blank                                     | Blank                                                                                               |
+|              18 | Principal                                 | Principal balance of the customer's account as of the failure                                       |
+|              19 | Blank                                     | Blank                                                                                               |
+|              20 | Deposit Account  Ownership Category       | Single, joint, or business account                                                                  |
+|              21 | Transactional Flag                        | This field indicates whether the account has transactional features. Enter  'Y' if account has transactional features, enter 'N' otherwise. Transactional  features means that the account holder can make transfers or withdrawals from  the deposit account to make payments or transfers to third persons or others  (including another account of the depositor or account holder at the same  institution or at a different institution) by means of a negotiable or transferable  instrument, payment order of withdrawal, check, draft, prepaid account access  device, debit card, or other similar order made by the depositor and payable  to third parties, or by means of a telephonic (including data transmission)  agreement, order or instruction, or by means of an instruction made at an  automated teller machine or similar terminal or unit                                                                                                                                            |
+|              22 | Blank                                     | Blank                                                                                               |
+|              23 | Blank                                     | Blank                                                                                               |
+|              24 | Account Beneficiary  Full Name            | Account beneficiary's first, middle, and last name or the registered name of  the entity            |
+|              25 | Account Participant  Type                 | BEN is the type you should use                                                                      |
+|              26 | Blank                                     | Blank                                                                                               |
+|              27 | Blank                                     | Blank                                                                                               |
+|              28 | Beneficiary's  Government-Issued  ID      | This field shall contain the ID number that identifies the account participant  based on a government issued ID or corporate filing. For a United States  individual - Legal identification number (e.g. SSN, TIN). For a foreign national  individual - where a SSN or TIN does not exist, a foreign passport or other  legal identification number (e.g. Alien Card). For a non-individual - the Tax  identification Number (TIN), or other register entity number. The SSN or TIN  should be used for uniquely identifying the account participant, and is not  intended to be used for aggregation purposes|
+|              29 | Beneficiary's  Government-Issued  ID Type | The valid account participant identification types, are: SSN = Social Security  Number, TIN = Tax Identification Number, OTH = Other|
 
 ## Foreign Currency Exchange
 
-Citibank's World Wallet® service offers you the convenience of ordering foreign currency at competitive exchange rates quickly and easily. Foreign currency is available in more than 50 different currencies. You can order foreign currency simply by visiting your local Citibank branch or by calling CitiPhone Banking®. Daily order limits may apply. Delivery of foreign currency can be made to your address on record or an alternate address in the continental United States, for an additional nominal charge. Citibank will not deliver to P.O. Boxes or to locations outside of the continental United States. All orders placed for next business day delivery must be made by 3 PM Central Time. For more information about these services, you may visit citibank.com, call CitiPhone Banking® or 1-800-756-7050 toll-free within the United States. Your account will be automatically charged by us for the amount of your order, plus any applicable service and shipping charges. For redemptions of foreign currency, your account will be credited in U.S. dollars, less any applicable service charges. The exchange rate for a purchase or redemption of foreign currency is the Citibank foreign currency banknote conversion rate in effect at the time you place your purchase order or redeem your currency. This rate includes a commission to Citibank for the conversion service.
+Citibank's World WalletÂ® service offers you the convenience of ordering foreign currency at competitive exchange rates quickly and easily. Foreign currency is available in more than 50 different currencies. You can order foreign currency simply by visiting your local Citibank branch or by calling CitiPhone BankingÂ®. Daily order limits may apply. Delivery of foreign currency can be made to your address on record or an alternate address in the continental United States, for an additional nominal charge. Citibank will not deliver to P.O. Boxes or to locations outside of the continental United States. All orders placed for next business day delivery must be made by 3 PM Central Time. For more information about these services, you may visit citibank.com, call CitiPhone BankingÂ® or 1-800-756-7050 toll-free within the United States. Your account will be automatically charged by us for the amount of your order, plus any applicable service and shipping charges. For redemptions of foreign currency, your account will be credited in U.S. dollars, less any applicable service charges. The exchange rate for a purchase or redemption of foreign currency is the Citibank foreign currency banknote conversion rate in effect at the time you place your purchase order or redeem your currency. This rate includes a commission to Citibank for the conversion service.
 
 ## Limitation of Liability
 
@@ -1015,13 +1002,13 @@ We assume no responsibility and make no representation regarding (a) comparative
 
 ## Electronic Banking
 
-The following terms apply to a) Electronic Fund Transfers (EFT) (e.g., consumer ATM transactions, point-of-sale (POS) transactions, domestic Citibank Global transfers, Zelle® transfers, ACH transfers and Instant Payments) and b) where indicated International Citibank® Global Transfers and consumer international wire transfers designated as remittance transfers under federal law. Any authorized signer on an account may apply for these services on behalf of all authorized signers. Some EFT services are subject to separate terms and conditions (e.g., Citibank Global Transfers and Zelle® transfers) which are provided to you when enrolling in a specific service.
+The following terms apply to a) Electronic Fund Transfers (EFT) (e.g., consumer ATM transactions, point-of-sale (POS) transactions, domestic Citibank Global transfers, ZelleÂ® transfers, ACH transfers and Instant Payments) and b) where indicated International CitibankÂ® Global Transfers and consumer international wire transfers designated as remittance transfers under federal law. Any authorized signer on an account may apply for these services on behalf of all authorized signers. Some EFT services are subject to separate terms and conditions (e.g., Citibank Global Transfers and ZelleÂ® transfers) which are provided to you when enrolling in a specific service.
 
-We shall comply with the requirements of, and you shall be entitled to, the remedies for error resolution for an EFT required in accordance with the federal Electronic Fund Transfer Act, 15 USC 1693 or alternatively, the remedies for error resolution for a remittance transfer in accordance with the Dodd-Frank Wall Street Reform and Consumer Protection Act, 15 USC 1693o-1 and regulations promulgated thereunder. You may be entitled to additional rights and remedies - including different limitations of liability for unauthorized transactions - according to the governing state law of your account. For more information, refer to 'Lost or Stolen Citibank® Banking Cards or Other Access Devices and Unauthorized Electronic Transactions' in this section of the Manual.
+We shall comply with the requirements of, and you shall be entitled to, the remedies for error resolution for an EFT required in accordance with the federal Electronic Fund Transfer Act, 15 USC 1693 or alternatively, the remedies for error resolution for a remittance transfer in accordance with the Dodd-Frank Wall Street Reform and Consumer Protection Act, 15 USC 1693o-1 and regulations promulgated thereunder. You may be entitled to additional rights and remedies - including different limitations of liability for unauthorized transactions - according to the governing state law of your account. For more information, refer to 'Lost or Stolen CitibankÂ® Banking Cards or Other Access Devices and Unauthorized Electronic Transactions' in this section of the Manual.
 
 ## General
 
-Please note that each withdrawal, transfer, purchase and cash advance is limited by the amount available in your account or available to you via an overdraft protection program such as Checking Plus®, Checking Plus® (variable rate) line of credit or Safety Check. Some Network ATM operators may impose lower limits on cash withdrawals.
+Please note that each withdrawal, transfer, purchase and cash advance is limited by the amount available in your account or available to you via an overdraft protection program such as Checking PlusÂ®, Checking PlusÂ® (variable rate) line of credit or Safety Check. Some Network ATM operators may impose lower limits on cash withdrawals.
 
 ## Limitations on Transfers and Withdrawals and Right to Suspend or Discontinue Services
 
@@ -1033,25 +1020,25 @@ You can get a record detailing the transactions you perform at Proprietary Citib
 
 ## Termination of Electronic Banking Services
 
-If you wish to terminate any electronic banking services or no longer wish to use your Citibank® Banking Card, call us at CitiPhone Banking® at 1-888-CITIBANK or write us at P.O. Box 769004, San Antonio, TX 78245-9989.
+If you wish to terminate any electronic banking services or no longer wish to use your CitibankÂ® Banking Card, call us at CitiPhone BankingÂ® at 1-888-CITIBANK or write us at P.O. Box 769004, San Antonio, TX 78245-9989.
 
 ## Access Devices
 
-Generally, you will receive your Citibank® Banking Card when you open your account. If you do not select your Personal Identification Number (PIN) at account opening, you will receive the PIN in a separate mailing. Your PIN is required for all Citibank® Banking Card transactions at Proprietary Citibank ATMs, at Network ATMs or for PIN based POS purchase transactions. You agree to keep your PIN confidential. No bank employee knows your PIN or will ever ask for it. For your protection, we encourage you to periodically change your PIN. You can change your PIN at any time:
+Generally, you will receive your CitibankÂ® Banking Card when you open your account. If you do not select your Personal Identification Number (PIN) at account opening, you will receive the PIN in a separate mailing. Your PIN is required for all CitibankÂ® Banking Card transactions at Proprietary Citibank ATMs, at Network ATMs or for PIN based POS purchase transactions. You agree to keep your PIN confidential. No bank employee knows your PIN or will ever ask for it. For your protection, we encourage you to periodically change your PIN. You can change your PIN at any time:
 
-- · At a Proprietary Citibank ATM;
-- · At any Citibank branch in the United States;
-- · On Citibank® Online or Citi Mobile.
+- Â· At a Proprietary Citibank ATM;
+- Â· At any Citibank branch in the United States;
+- Â· On CitibankÂ® Online or Citi Mobile.
 
-If you are unable to change your PIN at a Proprietary Citibank ATM or through the CitiPhone Banking® automated system, you may contact CitiPhone Banking® to request a PIN mailer. The sealed mailer contains a confidential, preset PIN that is systemically generated and mailed directly to you. When you receive the PIN mailer, you will need to call CitiPhone Banking® to activate the PIN.
+If you are unable to change your PIN at a Proprietary Citibank ATM or through the CitiPhone BankingÂ® automated system, you may contact CitiPhone BankingÂ® to request a PIN mailer. The sealed mailer contains a confidential, preset PIN that is systemically generated and mailed directly to you. When you receive the PIN mailer, you will need to call CitiPhone BankingÂ® to activate the PIN.
 
-The PIN you select must consist of four numbers and cannot begin with a zero. Many international ATMs do not have keys with both letters and numbers. If your PIN contains letters, please learn their corresponding numbers, as letters may not always be noted on the keys. You should also be aware that non-Proprietary Citibank ATMs and international ATMs may limit access to a primary checking account. To initially sign on to Citibank® Online, for additional security, in addition to your Citibank® Banking Card number and your PIN, you will need to choose a Citibank® Online User ID and Password. Together, the User ID and Password you select will be your Access Device for Citibank® Online.
+The PIN you select must consist of four numbers and cannot begin with a zero. Many international ATMs do not have keys with both letters and numbers. If your PIN contains letters, please learn their corresponding numbers, as letters may not always be noted on the keys. You should also be aware that non-Proprietary Citibank ATMs and international ATMs may limit access to a primary checking account. To initially sign on to CitibankÂ® Online, for additional security, in addition to your CitibankÂ® Banking Card number and your PIN, you will need to choose a CitibankÂ® Online User ID and Password. Together, the User ID and Password you select will be your Access Device for CitibankÂ® Online.
 
-To use the CitiPhone Banking® automated service, in addition to your Citibank® Banking Card, you will need a Telephone Access Code (TAC) or other form of permitted Access Device. Once you have received your Citibank® Banking Card, you can set up this code by calling CitiPhone Banking® (at the number on the back of your Citibank® Banking Card) for instructions on how to establish your TAC. To use the Citi Mobile® App or Citibank® Online, in addition to your Citibank® Banking Card, you will need a User ID and Password. If an unauthorized person has obtained access to your Citibank® Banking Card, your PIN, your Citibank® Online User ID and Password or your TAC, notify Citibank immediately. Your rights and obligations in the case of unauthorized use of any of your Access Devices are the same as for lost or stolen Citibank® Banking Cards.
+To use the CitiPhone BankingÂ® automated service, in addition to your CitibankÂ® Banking Card, you will need a Telephone Access Code (TAC) or other form of permitted Access Device. Once you have received your CitibankÂ® Banking Card, you can set up this code by calling CitiPhone BankingÂ® (at the number on the back of your CitibankÂ® Banking Card) for instructions on how to establish your TAC. To use the Citi MobileÂ® App or CitibankÂ® Online, in addition to your CitibankÂ® Banking Card, you will need a User ID and Password. If an unauthorized person has obtained access to your CitibankÂ® Banking Card, your PIN, your CitibankÂ® Online User ID and Password or your TAC, notify Citibank immediately. Your rights and obligations in the case of unauthorized use of any of your Access Devices are the same as for lost or stolen CitibankÂ® Banking Cards.
 
-We will automatically send you a new Citibank® Banking Card before your current card expires. When you receive your new card, you will need to activate the card by following the instructions enclosed with the card. You will need to sign your new card and destroy your old card.
+We will automatically send you a new CitibankÂ® Banking Card before your current card expires. When you receive your new card, you will need to activate the card by following the instructions enclosed with the card. You will need to sign your new card and destroy your old card.
 
-Please note that the Citibank® Banking Card we issue you is and remains the property of Citibank. We have the right to take possession of it, to demand its return, and to cancel it at any time. You may also cancel your Citibank® Banking Card at any time and for any reason. To do so, cut your card in half and notify us through CitiPhone Banking®, Citibank® Online or at a Citibank branch. You agree to return the Citibank® Banking Card to us upon request.
+Please note that the CitibankÂ® Banking Card we issue you is and remains the property of Citibank. We have the right to take possession of it, to demand its return, and to cancel it at any time. You may also cancel your CitibankÂ® Banking Card at any time and for any reason. To do so, cut your card in half and notify us through CitiPhone BankingÂ®, CitibankÂ® Online or at a Citibank branch. You agree to return the CitibankÂ® Banking Card to us upon request.
 
 ## Withdrawal Posting Cut-Off Times
 
@@ -1063,40 +1050,40 @@ For purposes of determining the Business Day for posting of cash withdrawals fro
 
 The cash withdrawal limits outlined in the chart may apply on a per account per Business Day basis or on a per Citibank Banking Card, per Business Day basis. The stated limits apply regardless of the number of signers on an account or Citibank Banking Card.
 
-The number of cards issued to a Citigold® Private Client, Citigold Account Package, Citi Priority or Citi Private Bank account customer does not affect the maximum withdrawal limit per account.
+The number of cards issued to a CitigoldÂ® Private Client, Citigold Account Package, Citi Priority or Citi Private Bank account customer does not affect the maximum withdrawal limit per account.
 
 ## Cash Withdrawal Limits
 
 | Account Package or Tier                                    | Limit                                               |
 |------------------------------------------------------------|-----------------------------------------------------|
-| Citigold ®  Private Client Tier                            | $5,000 per account per Business Day                 |
-| Citigold ®  Account Package 1                              | $2,000/$5,000 per account per Business Day          |
+| Citigold Â®  Private Client Tier                            | $5,000 per account per Business Day                 |
+| Citigold Â®  Account Package 1                              | $2,000/$5,000 per account per Business Day          |
 | Citi Priority Account Package                              | $2,000 per account per Business Day                 |
-| All Other Account Packages                                 | $1,500 per Citibank® Banking Card, per Business Day |
-| Citigold ®  Account Package  for Citi Private Bank Clients | $5,000 per account per Business Day                 |
+| All Other Account Packages                                 | $1,500 per CitibankÂ® Banking Card, per Business Day |
+| Citigold Â®  Account Package  for Citi Private Bank Clients | $5,000 per account per Business Day                 |
 | Citibank Account Package  for Citi Private Bank Clients    | $5,000 per account per Business Day                 |
 
-For all packages, you may be able to place a $50 per Business Day cash withdrawal and point of sale limit on the amount you can access from any or all of your deposit accounts using your Citibank® Banking Card. If you would like to place such a limit, please call us at the number on the back of your card.
+For all packages, you may be able to place a $50 per Business Day cash withdrawal and point of sale limit on the amount you can access from any or all of your deposit accounts using your CitibankÂ® Banking Card. If you would like to place such a limit, please call us at the number on the back of your card.
 
-For International Personal Bank U.S. clients in the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred , and Citi Global Executive Account Packages, please refer to your respective Marketplace Addendum for Citibank® Banking Card cash withdrawal limits.
+For International Personal Bank U.S. clients in the CitigoldÂ® Private Client International, CitigoldÂ® International, Citi International Personal, Citi Global Executive Preferred , and Citi Global Executive Account Packages, please refer to your respective Marketplace Addendum for CitibankÂ® Banking Card cash withdrawal limits.
 
-There is no limit to the number of withdrawals you can make. You can use your Citibank® Banking Card to:
+There is no limit to the number of withdrawals you can make. You can use your CitibankÂ® Banking Card to:
 
-- · Withdraw cash at a Proprietary Citibank ATM from your linked deposit accounts or obtain a cash advance from your linked line of credit and credit card accounts as permitted by the terms of those accounts;
-- · Withdraw cash at a Network ATM.
+- Â· Withdraw cash at a Proprietary Citibank ATM from your linked deposit accounts or obtain a cash advance from your linked line of credit and credit card accounts as permitted by the terms of those accounts;
+- Â· Withdraw cash at a Network ATM.
 
 ## Fees for Cash Withdrawals
 
-There is no charge for making cash withdrawals with a Citibank® Banking Card at Citibank ATM locations in the U.S. Our charges for cash withdrawals at non-Citibank ATM locations will vary based on the account package you selected. When you use a Network ATM other than at a location within our surcharge-free network, you may be charged a fee by the ATM operator or any network used and you may be charged a fee for a balance inquiry even if you do not complete a transaction. For fees imposed due to withdrawing cash from your linked Citibank credit accounts (including credit cards), see your applicable customer agreements.
+There is no charge for making cash withdrawals with a CitibankÂ® Banking Card at Citibank ATM locations in the U.S. Our charges for cash withdrawals at non-Citibank ATM locations will vary based on the account package you selected. When you use a Network ATM other than at a location within our surcharge-free network, you may be charged a fee by the ATM operator or any network used and you may be charged a fee for a balance inquiry even if you do not complete a transaction. For fees imposed due to withdrawing cash from your linked Citibank credit accounts (including credit cards), see your applicable customer agreements.
 
 ## Deposits
 
-- · You can make deposits at a Proprietary Citibank ATM, to your linked checking, savings and money market accounts. ATM deposits received before the cut-off time for that Business Day will be considered deposited on that day. ATM deposits received after the cut-off time for that Business Day will be considered deposited on the next Business Day.
-- · You may have funds sent to your checking, savings and money market accounts by Direct Deposit.
+- Â· You can make deposits at a Proprietary Citibank ATM, to your linked checking, savings and money market accounts. ATM deposits received before the cut-off time for that Business Day will be considered deposited on that day. ATM deposits received after the cut-off time for that Business Day will be considered deposited on the next Business Day.
+- Â· You may have funds sent to your checking, savings and money market accounts by Direct Deposit.
 
 ## Payments to Us and to Our Affiliates
 
-You can make payments at a Proprietary Citibank ATM or through Citibank Online or Citi Mobile directly to qualifying loans linked to your Citibank® Banking Card and Citibank Online/Citi Mobile profile by transferring funds from your checking, money market or savings account to the loan account. 2
+You can make payments at a Proprietary Citibank ATM or through Citibank Online or Citi Mobile directly to qualifying loans linked to your CitibankÂ® Banking Card and Citibank Online/Citi Mobile profile by transferring funds from your checking, money market or savings account to the loan account. 2
 
 ## Footnotes:
 
@@ -1105,104 +1092,104 @@ You can make payments at a Proprietary Citibank ATM or through Citibank Online o
 
 ## Bill Payments
 
-- · You can make payments to third parties by calling CitiPhone Banking® or by using Citibank® Online or Citi Mobile®. When you pay your bills through our bill payment service, your payment is transferred electronically or by an official check. Your account or invoice number can be included with your payment, whether it is made electronically or by check. You can schedule a bill payment up to one year in advance and you can schedule a series of recurring payments.
-- · If you want to cancel a scheduled bill payment, you must do so by 11:59 PM Eastern Time on the day prior to the scheduled payment date. You can cancel a payment via Citibank® Online or by calling CitiPhone Banking® directly at 1-800-374-9700. A CitiPhone Banking® Services representative will be able to assist you whether the bill payment was scheduled via CitiPhone Banking® or via Citibank® Online or Citi Mobile. If you cancel one of a series of recurring payments, all subsequent payments of the series will be cancelled. If a bill payment is made by check, a stop payment order can be accepted under certain circumstances. Stop payment orders cannot be accepted for bill payments made electronically.
-- · Your periodic Citibank account statement will include all bill payment transactions made through our bill payment service. If you suspect any error in these statements, or if you have questions or need help, you should write to us at Citibank Client Services, P.O. Box 769004, San Antonio, Texas 78245-9989, or call CitiPhone Banking®.
-- · A pre-authorized bill payment can be reviewed online or via CitiPhone Banking®. If you believe an unauthorized bill payment has been or might be made, you should call CitiPhone Banking® directly at 1-800-374-9700.
-- · There is no monthly charge or transaction fee for paying your bills using Citibank® Online or Citi Mobile, the Telephone Automated Bill Payment Service or when you schedule a single payment or multiple bill payments with the assistance of a CitiPhone representative.
-- · If we are making a pre-authorized payment to a person or company for you and the amount of that payment will vary from the previous amount, it is the responsibility of that person or company to notify you of that fact. Please contact the payee and/or service provider, and not Citibank, regarding varying payments.
+- Â· You can make payments to third parties by calling CitiPhone BankingÂ® or by using CitibankÂ® Online or Citi MobileÂ®. When you pay your bills through our bill payment service, your payment is transferred electronically or by an official check. Your account or invoice number can be included with your payment, whether it is made electronically or by check. You can schedule a bill payment up to one year in advance and you can schedule a series of recurring payments.
+- Â· If you want to cancel a scheduled bill payment, you must do so by 11:59 PM Eastern Time on the day prior to the scheduled payment date. You can cancel a payment via CitibankÂ® Online or by calling CitiPhone BankingÂ® directly at 1-800-374-9700. A CitiPhone BankingÂ® Services representative will be able to assist you whether the bill payment was scheduled via CitiPhone BankingÂ® or via CitibankÂ® Online or Citi Mobile. If you cancel one of a series of recurring payments, all subsequent payments of the series will be cancelled. If a bill payment is made by check, a stop payment order can be accepted under certain circumstances. Stop payment orders cannot be accepted for bill payments made electronically.
+- Â· Your periodic Citibank account statement will include all bill payment transactions made through our bill payment service. If you suspect any error in these statements, or if you have questions or need help, you should write to us at Citibank Client Services, P.O. Box 769004, San Antonio, Texas 78245-9989, or call CitiPhone BankingÂ®.
+- Â· A pre-authorized bill payment can be reviewed online or via CitiPhone BankingÂ®. If you believe an unauthorized bill payment has been or might be made, you should call CitiPhone BankingÂ® directly at 1-800-374-9700.
+- Â· There is no monthly charge or transaction fee for paying your bills using CitibankÂ® Online or Citi Mobile, the Telephone Automated Bill Payment Service or when you schedule a single payment or multiple bill payments with the assistance of a CitiPhone representative.
+- Â· If we are making a pre-authorized payment to a person or company for you and the amount of that payment will vary from the previous amount, it is the responsibility of that person or company to notify you of that fact. Please contact the payee and/or service provider, and not Citibank, regarding varying payments.
 
 ## Bill Payment Limits
 
 | Account Package or Tier                                                        | Calendar Day Limit   | Limit                           |
 |--------------------------------------------------------------------------------|----------------------|---------------------------------|
-| Citigold ®  Private Client Tier                                                | $50,000              | $50, 000 per individual payment |
-| Citigold ®  Account Package                                                    | $50,000              | $50, 000 per individual payment |
+| Citigold Â®  Private Client Tier                                                | $50,000              | $50, 000 per individual payment |
+| Citigold Â®  Account Package                                                    | $50,000              | $50, 000 per individual payment |
 | Citi Priority Account Package                                                  | $50,000              | $50, 000 per individual payment |
 | All Other Account Packages                                                     | $50,000              | $10, 000 per individual payment |
-| Citigold ®  Account Package  for Citi Private Bank Clients                     | $50,000              | $50,000 per individual payment  |
+| Citigold Â®  Account Package  for Citi Private Bank Clients                     | $50,000              | $50,000 per individual payment  |
 | Citibank Account Package  for Citi Private Bank Clients                        | $50,000              | $10,000 per individual payment  |
-| Citigold ®  Private Client International  for International Personal Bank U.S. | $50,000              | $50,000 per individual payment  |
-| Citigold ®  International  for International Personal Bank U.S.                | $50,000              | $50,000 per individual payment  |
+| Citigold Â®  Private Client International  for International Personal Bank U.S. | $50,000              | $50,000 per individual payment  |
+| Citigold Â®  International  for International Personal Bank U.S.                | $50,000              | $50,000 per individual payment  |
 | Citi International Personal  for International Personal Bank U.S.              | $50,000              | $10,000 per individual payment  |
 | Citi Global Executive  for International Personal Bank U.S.                    | $50,000              | $10,000 per individual payment  |
 | Citi Global Executive  Preferred  for International Personal Bank U.S.         | $50,000              | $50,000 per individual payment  |
 
 ## Electronic Check Conversion
 
-- · You may authorize a merchant or other payee to make a one- time electronic payment from your checking account using information from your check to:
+- Â· You may authorize a merchant or other payee to make a one- time electronic payment from your checking account using information from your check to:
 - i. pay for purchases; or
 - ii. pay bills.
 
 ## Internal Transfers Between Linked Accounts
 
-- · Transfer funds using Citibank® Online, Citi Mobile®, CitiPhone Banking® or at a Proprietary Citibank ATM between your linked checking, savings, money markets, and any linked credit card account. You may also transfer funds between your linked certificate of deposit, checking, savings and money markets accounts on Citibank® Online, Citi Mobile® or CitiPhone Banking®. Transfer funds between your linked checking, savings, money markets or credit card accounts at a Network ATM showing one of the network symbols shown on your Citibank® Banking Card. For transfer limits on your linked Citibank credit accounts (including credit cards) refer to your applicable customer agreements. Transfer funds using Citibank® Online or Citi Mobile between your eligible checking or money market account and a linked Citigroup Global Markets Inc. Account ('CGMI Account'). Transfers to a linked CGMI Account can be done up to $500,000 per Business Day. Transfer requests to a linked CGMI Account placed after 4:00 PM Eastern Time on a Business Day or any time on a non-Business Day will be processed on the following Business Day. To be eligible for this CGMI Account linking, your checking or money market account must be in the same title as your CGMI Account. Your checking or money market account cannot be used as a transaction account for your CGMI Account transactions. Citigroup Global Markets Inc. may have additional linking requirements and terms and conditions. To arrange for this linkage, please contact your Citigroup Global Markets Inc. advisor.
-- · Transfers can be arranged on a weekly, every-other-week or monthly basis, except for transfers to a linked CGMI account which are only permitted on an individual basis. All checking, savings and money market accounts allow making automatic transfer withdrawals and accept automatic transfer deposits from eligible accounts. Examples of these are monthly interest transfers from your savings account to your checking account or monthly transfers to fund your Individual Retirement Account.
+- Â· Transfer funds using CitibankÂ® Online, Citi MobileÂ®, CitiPhone BankingÂ® or at a Proprietary Citibank ATM between your linked checking, savings, money markets, and any linked credit card account. You may also transfer funds between your linked certificate of deposit, checking, savings and money markets accounts on CitibankÂ® Online, Citi MobileÂ® or CitiPhone BankingÂ®. Transfer funds between your linked checking, savings, money markets or credit card accounts at a Network ATM showing one of the network symbols shown on your CitibankÂ® Banking Card. For transfer limits on your linked Citibank credit accounts (including credit cards) refer to your applicable customer agreements. Transfer funds using CitibankÂ® Online or Citi Mobile between your eligible checking or money market account and a linked Citigroup Global Markets Inc. Account ('CGMI Account'). Transfers to a linked CGMI Account can be done up to $500,000 per Business Day. Transfer requests to a linked CGMI Account placed after 4:00 PM Eastern Time on a Business Day or any time on a non-Business Day will be processed on the following Business Day. To be eligible for this CGMI Account linking, your checking or money market account must be in the same title as your CGMI Account. Your checking or money market account cannot be used as a transaction account for your CGMI Account transactions. Citigroup Global Markets Inc. may have additional linking requirements and terms and conditions. To arrange for this linkage, please contact your Citigroup Global Markets Inc. advisor.
+- Â· Transfers can be arranged on a weekly, every-other-week or monthly basis, except for transfers to a linked CGMI account which are only permitted on an individual basis. All checking, savings and money market accounts allow making automatic transfer withdrawals and accept automatic transfer deposits from eligible accounts. Examples of these are monthly interest transfers from your savings account to your checking account or monthly transfers to fund your Individual Retirement Account.
 
-## Citibank® Global Transfer Service
+## CitibankÂ® Global Transfer Service
 
-You can use any eligible Citibank® checking, savings or money market account via Citibank® Online or Citi Mobile to transfer funds to the account of another Citibank customer in the U.S. or in select markets outside the U.S. or receive funds into your account from another Citibank customer in the U.S. The minimum transaction amount is $1, exclusive of the transaction fee. There is no fee for receiving a Citibank® Global Transfer into your account. When you send a Citibank® Global Transfer to the account of another Citibank customer in the U.S., the funds will be debited from your designated eligible account and immediately credited to the recipient's account. Transfers to U.S. accounts will be made in U.S. dollars. When you send a Citibank® Global Transfer to another Citibank account held by you or anyone else outside of the U.S., the funds will be debited from your designated eligible account and credited to the recipient's account. Generally, the transfer will be made in the currency of the foreign recipient's account. Citibank's exchange rate includes a commission for the conversion service. For general terms and conditions regarding external funds transfers, please refer to the 'External Funds Transfer' terms in the Account Balance and Transaction Information section of this Client Manual.
+You can use any eligible CitibankÂ® checking, savings or money market account via CitibankÂ® Online or Citi Mobile to transfer funds to the account of another Citibank customer in the U.S. or in select markets outside the U.S. or receive funds into your account from another Citibank customer in the U.S. The minimum transaction amount is $1, exclusive of the transaction fee. There is no fee for receiving a CitibankÂ® Global Transfer into your account. When you send a CitibankÂ® Global Transfer to the account of another Citibank customer in the U.S., the funds will be debited from your designated eligible account and immediately credited to the recipient's account. Transfers to U.S. accounts will be made in U.S. dollars. When you send a CitibankÂ® Global Transfer to another Citibank account held by you or anyone else outside of the U.S., the funds will be debited from your designated eligible account and credited to the recipient's account. Generally, the transfer will be made in the currency of the foreign recipient's account. Citibank's exchange rate includes a commission for the conversion service. For general terms and conditions regarding external funds transfers, please refer to the 'External Funds Transfer' terms in the Account Balance and Transaction Information section of this Client Manual.
 
 ## Fees
 
-For all account packages, there is no transfer fee for using Citibank® Global Transfer Service to make Account to Account fund transfers to any country.
+For all account packages, there is no transfer fee for using CitibankÂ® Global Transfer Service to make Account to Account fund transfers to any country.
 
-Citibank® Global Transfer Service Limits for Account-to-Account Transfer (transfer limits are stated in U.S. dollars):
+CitibankÂ® Global Transfer Service Limits for Account-to-Account Transfer (transfer limits are stated in U.S. dollars):
 
-| Account Package 3  or Tier                                 | Citibank® Online   | Citi Mobile®   | Weekly Limit   |
+| Account Package 3  or Tier                                 | CitibankÂ® Online   | Citi MobileÂ®   | Weekly Limit   |
 |------------------------------------------------------------|--------------------|----------------|----------------|
-| Citigold ®  Private Client Tier                            | $100,000           | $100,000       | $500,000       |
-| Citigold ®  Account Package                                | $100,000           | $100,000       | $150,000       |
+| Citigold Â®  Private Client Tier                            | $100,000           | $100,000       | $500,000       |
+| Citigold Â®  Account Package                                | $100,000           | $100,000       | $150,000       |
 | Citi Priority Account Package                              | $75,000            | $75,000        | $100,000       |
 | All Other Account Packages                                 | $50,000            | $50,000        | $50,000        |
-| Citigold ®  Account Package  for Citi Private Bank Clients | $100,000           | $100,000       | $500,000       |
+| Citigold Â®  Account Package  for Citi Private Bank Clients | $100,000           | $100,000       | $500,000       |
 | Citibank Account Package  for Citi Private Bank Clients    | $50,000            | $50,000        | $50,000        |
 
 PLEASE NOTE: The transfer limits described in this section may vary at our discretion and without prior notice based on risk factors relevant to this service and your personal transaction activity.
 
 ## Destinations
 
-We may change the permitted destinations for Citibank Global Transfers from time to time based on security issues and other factors. Approved destination countries may change. Information on available countries can be obtained through CitiPhone Banking®, Citi Mobile®, and Citibank® Online.
+We may change the permitted destinations for Citibank Global Transfers from time to time based on security issues and other factors. Approved destination countries may change. Information on available countries can be obtained through CitiPhone BankingÂ®, Citi MobileÂ®, and CitibankÂ® Online.
 
 ## Inter-Institution Transfer (IIT) Service
 
-You can request a transfer of funds through Citibank® Online: (1) from your eligible Citibank account 4  to a verified account you hold at another financial institution in the United States; or (2) from a verified account you hold at another financial institution in the United States to your eligible Citibank account in the United States. Citibank generally uses the ACH Network to execute the Inter-Institution Transfer requests, but other methods of transfer may also be used. All requests must be made through Citibank® Online and are subject to the terms of this Manual, your Inter-Institution Transfer Service agreement, and other agreements and applicable laws and regulations, in each case as in effect from time to time. Currently, there are no fees to send or receive funds using the Inter-Institution Transfer Service. We reserve the right to change the fees charged for the use of the Inter-Institution Transfer Service. A copy of the Fee Schedule for the Inter-Institution Transfer Service is provided with your Inter-Institution Transfer user agreement. Please note that per-transfer and aggregate limits apply to both incoming and outgoing transfers.
+You can request a transfer of funds through CitibankÂ® Online: (1) from your eligible Citibank account 4  to a verified account you hold at another financial institution in the United States; or (2) from a verified account you hold at another financial institution in the United States to your eligible Citibank account in the United States. Citibank generally uses the ACH Network to execute the Inter-Institution Transfer requests, but other methods of transfer may also be used. All requests must be made through CitibankÂ® Online and are subject to the terms of this Manual, your Inter-Institution Transfer Service agreement, and other agreements and applicable laws and regulations, in each case as in effect from time to time. Currently, there are no fees to send or receive funds using the Inter-Institution Transfer Service. We reserve the right to change the fees charged for the use of the Inter-Institution Transfer Service. A copy of the Fee Schedule for the Inter-Institution Transfer Service is provided with your Inter-Institution Transfer user agreement. Please note that per-transfer and aggregate limits apply to both incoming and outgoing transfers.
 
 In addition, minimum available balance requirements apply to both incoming and outgoing transfers. Please refer to your Inter-Institution Transfer user agreement for specific information regarding these restrictions.
 
-## Mastercard® MoneySend
+## MastercardÂ® MoneySend
 
 You can use your Debit Card to send funds person-to-person, or receive funds from a person, business or governmental agency through participating merchants and merchant web sites using Mastercard MoneySend. You can send up to $1,000 per calendar day and $10,000 per month when making a person to person transfer and up to $2,500 per calendar day and $10,000 per month when receiving person to person transfers. You can receive up to $50,000 per calendar month from a business or governmental agency. Payments you receive will appear on your statement as 'MoneySend Credit' and funds you transfer to another person will appear on your statement as 'MoneySend Debit.'
 
 ## Footnotes:
 
-- 3 For Citibank Global Transfer service limits for International Personal Bank U.S. clients in the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred, and Citi Global Executive Account Packages, please refer to your respective Marketplace Addendum.
-- 4 Eligible accounts are Citibank accounts (i.e. deposit accounts) owned by the Citibank® Online user (initiator of the transaction) that accepts ACH transactions. You must own both the Citibank account and the external account in order to make a transfer using Inter Institution Transfer (IIT) Service. Transfers to third parties are not permitted.
+- 3 For Citibank Global Transfer service limits for International Personal Bank U.S. clients in the CitigoldÂ® Private Client International, CitigoldÂ® International, Citi International Personal, Citi Global Executive Preferred, and Citi Global Executive Account Packages, please refer to your respective Marketplace Addendum.
+- 4 Eligible accounts are Citibank accounts (i.e. deposit accounts) owned by the CitibankÂ® Online user (initiator of the transaction) that accepts ACH transactions. You must own both the Citibank account and the external account in order to make a transfer using Inter Institution Transfer (IIT) Service. Transfers to third parties are not permitted.
 
-## Zelle®
+## ZelleÂ®
 
-Zelle® is an easy and fast way to send money to other persons - typically within minutes between enrolled customers with a bank account in the U.S. - with just an email address or U.S. mobile phone number. Zelle® is a digital service available within the Citi Mobile® App and on Citi Online® that can be used by you to send and receive money with your checking account.
+ZelleÂ® is an easy and fast way to send money to other persons - typically within minutes between enrolled customers with a bank account in the U.S. - with just an email address or U.S. mobile phone number. ZelleÂ® is a digital service available within the Citi MobileÂ® App and on Citi OnlineÂ® that can be used by you to send and receive money with your checking account.
 
 You are responsible for using the correct U.S. mobile phone number or email address belonging to your friend or family member or other trusted person as well as any keystroke or other errors you make when sending or requesting money.
 
-For a full description of Zelle® including Frequently Asked Questions, please visit Citi Online. Zelle® is subject to terms, conditions and restrictions in the Citibank with Zelle® Terms and Conditions made available to you upon enrolling in the service or at any time on Citi Online.
+For a full description of ZelleÂ® including Frequently Asked Questions, please visit Citi Online. ZelleÂ® is subject to terms, conditions and restrictions in the Citibank with ZelleÂ® Terms and Conditions made available to you upon enrolling in the service or at any time on Citi Online.
 
-FOR THE PROTECTION OF YOUR ACCOUNT, ZELLE® SHOULD BE USED ONLY TO SEND MONEY TO FRIENDS, FAMILY OR OTHERS YOU TRUST. YOU SHOULD NOT USE THE SERVICE TO SEND MONEY TO RECIPIENTS WITH WHOM YOU ARE NOT FAMILIAR OR YOU DO NOT TRUST. NEITHER CITIBANK NOR ZELLE® OFFER A PROTECTION PROGRAM FOR ANY AUTHORIZED PAYMENTS MADE WITH ZELLE®. FOR EXAMPLE, IF YOU MAKE A PURCHASE USING ZELLE® BUT YOU DO NOT RECEIVE THE ITEM OR THE ITEM IS NOT AS DESCRIBED OR AS YOU EXPECTED.
+FOR THE PROTECTION OF YOUR ACCOUNT, ZELLEÂ® SHOULD BE USED ONLY TO SEND MONEY TO FRIENDS, FAMILY OR OTHERS YOU TRUST. YOU SHOULD NOT USE THE SERVICE TO SEND MONEY TO RECIPIENTS WITH WHOM YOU ARE NOT FAMILIAR OR YOU DO NOT TRUST. NEITHER CITIBANK NOR ZELLEÂ® OFFER A PROTECTION PROGRAM FOR ANY AUTHORIZED PAYMENTS MADE WITH ZELLEÂ®. FOR EXAMPLE, IF YOU MAKE A PURCHASE USING ZELLEÂ® BUT YOU DO NOT RECEIVE THE ITEM OR THE ITEM IS NOT AS DESCRIBED OR AS YOU EXPECTED.
 
 ## Stop Payment Orders (Automatic Transfers)
 
-You may stop an automatic withdrawal or payment, or recurring withdrawals or payments from your account, by visiting a Citibank branch, through Citibank® Online or by calling CitiPhone Banking® (see the 'Contact Us' section of this Manual and your periodic statement for telephone numbers and address). If you request a stop payment by phone, we may ask you to confirm your instructions in writing within two (2) weeks. In order to place a stop payment on an automatic transaction, we must receive your instruction at least three (3) Business Days before the transaction is scheduled to be made. Payment cannot be stopped on an ACH transaction that has already been paid or that is in the process of being paid. If you order us to stop payment on a scheduled transaction in a timely manner and we do not do so, we may be liable for your losses or damages.
+You may stop an automatic withdrawal or payment, or recurring withdrawals or payments from your account, by visiting a Citibank branch, through CitibankÂ® Online or by calling CitiPhone BankingÂ® (see the 'Contact Us' section of this Manual and your periodic statement for telephone numbers and address). If you request a stop payment by phone, we may ask you to confirm your instructions in writing within two (2) weeks. In order to place a stop payment on an automatic transaction, we must receive your instruction at least three (3) Business Days before the transaction is scheduled to be made. Payment cannot be stopped on an ACH transaction that has already been paid or that is in the process of being paid. If you order us to stop payment on a scheduled transaction in a timely manner and we do not do so, we may be liable for your losses or damages.
 
-You may not be able to stop payment of a check that is converted to an electronic transaction (ACH). If you believe your check has been converted to an electronic transaction, you should also place a second stop payment on that electronic transaction. Please contact the CitiPhone Banking® number on the back of this Manual if you wish to stop such a payment.
+You may not be able to stop payment of a check that is converted to an electronic transaction (ACH). If you believe your check has been converted to an electronic transaction, you should also place a second stop payment on that electronic transaction. Please contact the CitiPhone BankingÂ® number on the back of this Manual if you wish to stop such a payment.
 
 If you request a stop payment on all recurring transactions from the same originator (payee), we may require that you confirm, in writing or orally, that you have previously revoked your authorization with the originator (payee). If you fail to provide us with such confirmation, the bank is not obligated to honor your request and may debit your account for subsequent transactions initiated by that originator (payee). Please remember that in order to revoke your authority with that originator (payee) you must notify them at least thirty (30) days prior to the next scheduled transaction.
 
 Contents of Stop Payment Order. You will need to accurately provide:
 
-- · Your account number;
-- · The date of the scheduled deduction or, for recurring transactions, the next scheduled deduction date;
-- · The exact amount (dollars and cents); and
-- · The payee's name.
+- Â· Your account number;
+- Â· The date of the scheduled deduction or, for recurring transactions, the next scheduled deduction date;
+- Â· The exact amount (dollars and cents); and
+- Â· The payee's name.
 
 We may use some or all of the information, in our sole discretion, to identify a transaction. If the information is not exactly correct, a stop payment may not be effective.
 
@@ -1216,60 +1203,60 @@ payee for the exact amount of the transaction or less, you agree that we will ha
 
 ## 'PIN Based' Transactions
 
-You can use your Citibank® ATM Card to purchase goods or services from merchant locations in the United States accepting the Interlink®, Maestro® or Cirrus® network brands by authorizing these transactions using your PIN.
+You can use your CitibankÂ® ATM Card to purchase goods or services from merchant locations in the United States accepting the InterlinkÂ®, MaestroÂ® or CirrusÂ® network brands by authorizing these transactions using your PIN.
 
-You can use your Citibank® Debit Card to purchase goods or services from merchant locations in the United States accepting the Interlink® network brand by authorizing these transactions using your PIN. When making purchases, select 'debit' to ensure these transactions are processed as PIN purchases.
+You can use your CitibankÂ® Debit Card to purchase goods or services from merchant locations in the United States accepting the InterlinkÂ® network brand by authorizing these transactions using your PIN. When making purchases, select 'debit' to ensure these transactions are processed as PIN purchases.
 
 Please note, 'Direct Bill Payment' transactions set up with merchants may be processed as 'PIN-Based' transactions, even though they may not require a PIN.
 
 ## 'Signature-Based' Transactions
 
-If you have a Citibank® Debit Card, you can also use your card to perform an EFT to purchase goods or services and/ or receive cash from locations that accept MasterCard®. These transactions are those for which you do not use your PIN and either you or a merchant designates as a 'credit' transaction (including purchases you sign for, small dollar purchases that do not require a signature), Internet, phone and mail-order transactions.
+If you have a CitibankÂ® Debit Card, you can also use your card to perform an EFT to purchase goods or services and/ or receive cash from locations that accept MasterCardÂ®. These transactions are those for which you do not use your PIN and either you or a merchant designates as a 'credit' transaction (including purchases you sign for, small dollar purchases that do not require a signature), Internet, phone and mail-order transactions.
 
-All POS transactions made with your Citibank® Banking Card are deducted from your linked Citibank primary checking account. You agree to only use your Citibank® Banking Card for lawful transactions. We reserve the right to block or deny certain merchant categories when you attempt to make purchases with your Citibank® Banking Card. These merchants include, but are not limited to, internet gambling sites.
+All POS transactions made with your CitibankÂ® Banking Card are deducted from your linked Citibank primary checking account. You agree to only use your CitibankÂ® Banking Card for lawful transactions. We reserve the right to block or deny certain merchant categories when you attempt to make purchases with your CitibankÂ® Banking Card. These merchants include, but are not limited to, internet gambling sites.
 
-When you use your Citibank® Banking Card for a POS transaction, certain merchants may ask us to authorize the transaction in advance and may estimate its final value. When we authorize the transaction, we commit to make the requested funds available when the transaction finally settles and may place a temporary hold on your account for the amount indicated by the merchant. Until the transaction finally settles or we determine that it is unlikely to be processed, the funds subject to the hold will not be available to you for other purposes. We will only charge your account for the correct amount of the final transaction, however, and we will release any excess amount when the transaction finally settles.
+When you use your CitibankÂ® Banking Card for a POS transaction, certain merchants may ask us to authorize the transaction in advance and may estimate its final value. When we authorize the transaction, we commit to make the requested funds available when the transaction finally settles and may place a temporary hold on your account for the amount indicated by the merchant. Until the transaction finally settles or we determine that it is unlikely to be processed, the funds subject to the hold will not be available to you for other purposes. We will only charge your account for the correct amount of the final transaction, however, and we will release any excess amount when the transaction finally settles.
 
-Your maximum purchase limits on your Citibank® Banking Card per account, per Business Day, are limited by the amount available in your account, whichever is lower.
+Your maximum purchase limits on your CitibankÂ® Banking Card per account, per Business Day, are limited by the amount available in your account, whichever is lower.
 
 ## Citibank Banking Card Maximum Purchase Limits
 
 | Account Package or Tier                                    | Signature Purchase Limit                                                     | PIN Based Purchase Limit                                                     |
 |------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| Citigold ®  Private Client Tier                            | $50,000 per account per Business Day                                         | $50,000 per account per Business Day                                         |
-| Citigold ®  Account Package                                | $10,000 per account per Business Day $25,000 5  per account per Business Day | $10,000 per account per Business Day $25,000 5  per account per Business Day |
+| Citigold Â®  Private Client Tier                            | $50,000 per account per Business Day                                         | $50,000 per account per Business Day                                         |
+| Citigold Â®  Account Package                                | $10,000 per account per Business Day $25,000 5  per account per Business Day | $10,000 per account per Business Day $25,000 5  per account per Business Day |
 | Citi Priority Account Package                              | $10,000 per account per Business Day                                         | $10,000 per account per Business Day                                         |
 | All Other Account Packages                                 | $5,000 per account per Business Day                                          | $5,000 per account per Business Day                                          |
-| Citigold ®  Account Package for  Citi Private Bank Clients | $50,000 per account per Business Day                                         | $50,000 per account per Business Day                                         |
+| Citigold Â®  Account Package for  Citi Private Bank Clients | $50,000 per account per Business Day                                         | $50,000 per account per Business Day                                         |
 | Citibank Account Package for  Citi Private Bank Clients    | $25,000 per account per Business Day                                         | $25,000 per account per Business Day                                         |
 
 ## Footnote:
 
 In addition to our right to change withdrawal limits or to suspend or discontinue operation of certain electronic banking services at any time based on security or other factors, we also reserve the right to set a lower dollar limit for POS transactions occurring during a disruption of the electronic connection between a merchant and Citibank.
 
-For International Personal Bank U.S. clients in the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred, and Citi Global Executive Account Packages, please refer to your respective Marketplace Addendum for purchase limits.
+For International Personal Bank U.S. clients in the CitigoldÂ® Private Client International, CitigoldÂ® International, Citi International Personal, Citi Global Executive Preferred, and Citi Global Executive Account Packages, please refer to your respective Marketplace Addendum for purchase limits.
 
 ## Security Tips
 
 We want you to be safe when you use any ATM or Debit card. You can help prevent unauthorized access to your accounts by following these simple steps:
 
-- · Treat your Citibank® Banking Card and other types of devices used to access your accounts like cash. Do not leave them where others can find them. Do not give them to anyone to hold as 'security' for any reason and do not use them to show another customer how an ATM works.
-- · Keep your Personal Identification Number (PIN), Telephone Access Code (TAC) and other codes used to access your accounts secret. Do not tell them to anyone. Do not write them on your Citibank® Banking Card or keep them in your wallet or purse.
-- · Change your PIN periodically.
-- · Review your account statements regularly and let us know right away of any discrepancies.
-- · Always be alert and aware of your surroundings when using ATMs, particularly later than a half hour after sunset.
-- · Consider having someone accompany you when using an ATM later than a half hour after sunset.
-- · Immediately report crimes and suspicious activity at ATM locations to local law enforcement officials as well as to the owners/operators of the ATMs.
-- · Be sure to completely close the door behind you when you enter or leave an ATM lobby.
-- · Be careful about giving information about your Access Device over the telephone.
-- · Never begin an ATM transaction if there is not enough light or you notice anything suspicious - go to a different location or come back at another time.
-- · Do not permit any unknown person to enter after regular banking hours.
-- · If you notice anything suspicious: Always cancel a transaction-in- progress, end your session, place your Citibank® Banking Card in your pocket and leave the ATM location.
-- · Never display cash at ATM locations. Place cash and your Citibank® Banking Card in your pocket as soon as you complete your transaction. Count cash in a safe location, such as a locked car, home or office.
-- · Always take your ATM receipt with you when you leave - do not leave it near the ATM.
-- · Be aware that many ATM machines record activity by a surveillance camera or cameras.
+- Â· Treat your CitibankÂ® Banking Card and other types of devices used to access your accounts like cash. Do not leave them where others can find them. Do not give them to anyone to hold as 'security' for any reason and do not use them to show another customer how an ATM works.
+- Â· Keep your Personal Identification Number (PIN), Telephone Access Code (TAC) and other codes used to access your accounts secret. Do not tell them to anyone. Do not write them on your CitibankÂ® Banking Card or keep them in your wallet or purse.
+- Â· Change your PIN periodically.
+- Â· Review your account statements regularly and let us know right away of any discrepancies.
+- Â· Always be alert and aware of your surroundings when using ATMs, particularly later than a half hour after sunset.
+- Â· Consider having someone accompany you when using an ATM later than a half hour after sunset.
+- Â· Immediately report crimes and suspicious activity at ATM locations to local law enforcement officials as well as to the owners/operators of the ATMs.
+- Â· Be sure to completely close the door behind you when you enter or leave an ATM lobby.
+- Â· Be careful about giving information about your Access Device over the telephone.
+- Â· Never begin an ATM transaction if there is not enough light or you notice anything suspicious - go to a different location or come back at another time.
+- Â· Do not permit any unknown person to enter after regular banking hours.
+- Â· If you notice anything suspicious: Always cancel a transaction-in- progress, end your session, place your CitibankÂ® Banking Card in your pocket and leave the ATM location.
+- Â· Never display cash at ATM locations. Place cash and your CitibankÂ® Banking Card in your pocket as soon as you complete your transaction. Count cash in a safe location, such as a locked car, home or office.
+- Â· Always take your ATM receipt with you when you leave - do not leave it near the ATM.
+- Â· Be aware that many ATM machines record activity by a surveillance camera or cameras.
 
-Please address any questions or complaints concerning security at Proprietary Citibank ATMs to CitiPhone Banking® at the number on the back of your Citibank® Banking Card or in the 'Contact Us' section of this Client Manual .
+Please address any questions or complaints concerning security at Proprietary Citibank ATMs to CitiPhone BankingÂ® at the number on the back of your CitibankÂ® Banking Card or in the 'Contact Us' section of this Client Manual .
 
 For emergency assistance at any U.S. Citibank or U.S. Network ATM, please call 911.
 
@@ -1279,18 +1266,18 @@ We will apply a foreign exchange fee equal to 3% of the transaction amount (incl
 
 Currency Conversion Methods. Transactions made in foreign currency will be converted into U.S. dollars according to the current policies of the merchant, network or card association that processes the transaction:
 
-- · Transactions processed by Citibank are converted into a U.S. dollar amount using Citibank's procedures in effect at the time the transaction is processed. Currently, the currency conversion rate used to determine the transaction amount in U.S. dollars is based on either (1) a wholesale market rate or (2) a government- mandated rate in effect one day prior to the processing date. Transaction types currently processed by Citibank include ATM withdrawals made at many Proprietary Citibank ATMs outside the United States or Puerto Rico.
-- · Transactions processed by MasterCard® currently use a conversion rate that is either: (a) selected from a range of rates available in the wholesale currency markets on the processing date (Note: this rate may be different from the rate that MasterCard® receives), or (b) the government-mandated rate. Transaction types currently processed by MasterCard® include Signature-based POS transactions and ATM withdrawals (including those at certain Proprietary Citibank ATMs). Please note that PIN-based POS transactions cannot be made at international locations. Citibank® Debit Cards can still be used to make Signature-based POS purchases.
+- Â· Transactions processed by Citibank are converted into a U.S. dollar amount using Citibank's procedures in effect at the time the transaction is processed. Currently, the currency conversion rate used to determine the transaction amount in U.S. dollars is based on either (1) a wholesale market rate or (2) a government- mandated rate in effect one day prior to the processing date. Transaction types currently processed by Citibank include ATM withdrawals made at many Proprietary Citibank ATMs outside the United States or Puerto Rico.
+- Â· Transactions processed by MasterCardÂ® currently use a conversion rate that is either: (a) selected from a range of rates available in the wholesale currency markets on the processing date (Note: this rate may be different from the rate that MasterCardÂ® receives), or (b) the government-mandated rate. Transaction types currently processed by MasterCardÂ® include Signature-based POS transactions and ATM withdrawals (including those at certain Proprietary Citibank ATMs). Please note that PIN-based POS transactions cannot be made at international locations. CitibankÂ® Debit Cards can still be used to make Signature-based POS purchases.
 
 The currency conversion rate in effect on the processing date may differ from the rate in effect on the transaction date or the posting date.
 
-## Lost or Stolen Citibank® Banking Cards or Other Access Devices and Unauthorized Electronic Transactions Consumer Liability for transactions covered by Regulation E
+## Lost or Stolen CitibankÂ® Banking Cards or Other Access Devices and Unauthorized Electronic Transactions Consumer Liability for transactions covered by Regulation E
 
-If any of your Access Devices are lost or stolen, it is your responsibility to notify us immediately. Please call CitiPhone Banking® at the number in the 'Contact Us' section of this Manual.
+If any of your Access Devices are lost or stolen, it is your responsibility to notify us immediately. Please call CitiPhone BankingÂ® at the number in the 'Contact Us' section of this Manual.
 
-Please remember that your Citibank® Banking Card and all of your Access Devices are valuable, and it is important for you to exercise care with them. To protect your personal and account information, be sure to keep your PIN and other Access Devices secure. As a general practice, we recommend that you periodically change your PIN.
+Please remember that your CitibankÂ® Banking Card and all of your Access Devices are valuable, and it is important for you to exercise care with them. To protect your personal and account information, be sure to keep your PIN and other Access Devices secure. As a general practice, we recommend that you periodically change your PIN.
 
-Tell us at once if you believe any of your Access Devices, including but not limited to your Citibank® Banking Card, has been lost or stolen, or if you believe that an electronic fund transfer has been made without your permission using information from your check. Telephoning is the best way of keeping your possible losses down. You could lose all the money in your account (plus your maximum overdraft line of credit). Call CitiPhone Banking® at 1-888-CITIBANK or use the number in the 'Contact Us' section of this Manual. Customer service representatives are available to assist you 24 hours a day, 7 days a week. If you tell us within two (2) Business Days after you learn of the loss or theft of your Access Device, you can lose no more than $50 if someone uses your Access Device without your permission, subject to zero liability protection.
+Tell us at once if you believe any of your Access Devices, including but not limited to your CitibankÂ® Banking Card, has been lost or stolen, or if you believe that an electronic fund transfer has been made without your permission using information from your check. Telephoning is the best way of keeping your possible losses down. You could lose all the money in your account (plus your maximum overdraft line of credit). Call CitiPhone BankingÂ® at 1-888-CITIBANK or use the number in the 'Contact Us' section of this Manual. Customer service representatives are available to assist you 24 hours a day, 7 days a week. If you tell us within two (2) Business Days after you learn of the loss or theft of your Access Device, you can lose no more than $50 if someone uses your Access Device without your permission, subject to zero liability protection.
 
 If you do NOT notify us within two (2) Business Days after you learn of the loss or theft of your Access Device, and we can prove we could have stopped someone from using your Access Device without your permission if you had told us, you could lose as much as $500, subject to zero liability protection.
 
@@ -1304,21 +1291,21 @@ Within this section, the paragraph above describing liability up to $500 shall n
 
 ## New York
 
-Within this section, your liability for the unauthorized use of your Citibank® Banking Card shall not exceed $50.
+Within this section, your liability for the unauthorized use of your CitibankÂ® Banking Card shall not exceed $50.
 
-## Citibank® Banking Card Zero Liability Protection
+## CitibankÂ® Banking Card Zero Liability Protection
 
-If your Citibank® Banking Card is used in conjunction with an unauthorized transaction your liability for unauthorized use as described above, will not exceed:
+If your CitibankÂ® Banking Card is used in conjunction with an unauthorized transaction your liability for unauthorized use as described above, will not exceed:
 
 - i. $0 if
-- · you report the loss or theft of your card promptly upon discovery of such loss or theft; and
-- · you exercised reasonable care in safeguarding your card from the risk of loss or theft; and
-- · the account to which transactions initiated with your card were posted is in good condition; or
+- Â· you report the loss or theft of your card promptly upon discovery of such loss or theft; and
+- Â· you exercised reasonable care in safeguarding your card from the risk of loss or theft; and
+- Â· the account to which transactions initiated with your card were posted is in good condition; or
 - ii. The lesser of $50 or the amount of money, property, labor or services obtained by the unauthorized user before notification to the bank if all conditions listed in section (i) above have not been met.
 
 ## Contact in Event of Unauthorized Transfer
 
-If you believe your Access Device has been lost or stolen call: CitiPhone Banking® at 1-888-CITIBANK or write: Citibank Client Services, P.O. Box 769004, San Antonio, Texas 78245-9989. You should also call the number or write to the address listed above if you believe a transfer has been made using the information from your check without your permission.
+If you believe your Access Device has been lost or stolen call: CitiPhone BankingÂ® at 1-888-CITIBANK or write: Citibank Client Services, P.O. Box 769004, San Antonio, Texas 78245-9989. You should also call the number or write to the address listed above if you believe a transfer has been made using the information from your check without your permission.
 
 ## Error Resolution and Notice Procedures for Claims or Questions concerning Consumer International Global Transfers and International Wire Transfers
 
@@ -1366,8 +1353,8 @@ There may be other exceptions stated in our Agreement with you.
 
 These procedures describe your rights and liability for errors involving unauthorized transactions or those in an incorrect amount to or from your account.
 
-- · You are responsible for resolving any payment or other disputes that you have with other persons to whom you send money to or request money from using a funds transfer service.
-- · You are responsible for keystroke or other errors such as inputting an incorrect account number or mobile phone number or email address associated with a person you send money to or request money from using a funds transfer service.
+- Â· You are responsible for resolving any payment or other disputes that you have with other persons to whom you send money to or request money from using a funds transfer service.
+- Â· You are responsible for keystroke or other errors such as inputting an incorrect account number or mobile phone number or email address associated with a person you send money to or request money from using a funds transfer service.
 
 ## Confidentiality at Citibank
 
@@ -1400,7 +1387,7 @@ You or we may arbitrate any claims, dispute or controversy between you and us ar
 
 If arbitration is chosen by any party, neither you nor we will have the right to litigate that Dispute in court or have a jury trial on that Dispute.
 
-Except as stated below, all Disputes are subject to arbitration no matter what legal theory they are based on or what remedy (damages, or injunctive or declaratory relief) they seek, including claims based on contract, tort (including intentional tort), fraud, agency, your or our negligence, statutory or regulatory provisions, or any other sources of law; claims made as counterclaims, cross-claims, third party claims, interpleaders or otherwise; claims made regarding past, present or future conduct; and claims made independently or with other claims. Disputes include any unresolved claims concerning any services relating to such account, including without limitation, safe deposit box services, wire transfer services, and use of a Citibank® Banking Card or Citibank® Banking Card displaying the MasterCard® Brand Mark. This also includes claims made by or against anyone connected with us or you or claiming through us or you, or by someone making a claim through us or you, such as a joint account owner, account beneficiary, employee, agent, representative, predecessor or successor, heir, assignee, trustee in bankruptcy, or an affiliated/parent/subsidiary company. A party who initiates a proceeding in court may elect arbitration with respect to any dispute advanced in that proceeding by any other party. Disputes include claims made as part of a class action or other representative action, it being expressly understood and agreed to that the arbitration of such claims must proceed on an individual (non-class, non-representative) basis. Disputes also include claims relating to the enforceability or interpretation of any of these arbitration provisions. Any questions about whether Disputes are subject to arbitration shall be resolved by interpreting this arbitration provision in the broadest way the law will allow it to be enforced.
+Except as stated below, all Disputes are subject to arbitration no matter what legal theory they are based on or what remedy (damages, or injunctive or declaratory relief) they seek, including claims based on contract, tort (including intentional tort), fraud, agency, your or our negligence, statutory or regulatory provisions, or any other sources of law; claims made as counterclaims, cross-claims, third party claims, interpleaders or otherwise; claims made regarding past, present or future conduct; and claims made independently or with other claims. Disputes include any unresolved claims concerning any services relating to such account, including without limitation, safe deposit box services, wire transfer services, and use of a CitibankÂ® Banking Card or CitibankÂ® Banking Card displaying the MasterCardÂ® Brand Mark. This also includes claims made by or against anyone connected with us or you or claiming through us or you, or by someone making a claim through us or you, such as a joint account owner, account beneficiary, employee, agent, representative, predecessor or successor, heir, assignee, trustee in bankruptcy, or an affiliated/parent/subsidiary company. A party who initiates a proceeding in court may elect arbitration with respect to any dispute advanced in that proceeding by any other party. Disputes include claims made as part of a class action or other representative action, it being expressly understood and agreed to that the arbitration of such claims must proceed on an individual (non-class, non-representative) basis. Disputes also include claims relating to the enforceability or interpretation of any of these arbitration provisions. Any questions about whether Disputes are subject to arbitration shall be resolved by interpreting this arbitration provision in the broadest way the law will allow it to be enforced.
 
 ## Arbitration Limits
 
@@ -1444,8 +1431,6 @@ You may reject this arbitration provision by sending a written rejection notice 
 
 ## Signature Card (Reference Copy)
 
-<!-- image -->
-
 CITIBANK, N.A. ACCOUNT
 
 Date:
@@ -1476,19 +1461,9 @@ Signature Card (Reference Copy)  |
 
 52
 
-Use your Citibank® Banking Card wherever you see these symbols.
+Use your CitibankÂ® Banking Card wherever you see these symbols.
 
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-<!-- image -->
-
-Citibank® Banking Card with the MasterCard® Brand Mark will be accepted at participating merchants.
-
-<!-- image -->
+CitibankÂ® Banking Card with the MasterCardÂ® Brand Mark will be accepted at participating merchants.
 
 To find the most convenient location, you can call: 1-800-CITI-ATM, 24 hours a day, 7 days a week. Also visit us at citibank.com/locations.
 
@@ -1496,7 +1471,7 @@ Note: Not all accounts are accessible at every ATM network machine. Assistance i
 
 Terms, conditions and fees for accounts, products, programs and services are subject to change.
 
-© 2024 Citibank, N.A., Member FDIC. All rights reserved. Citi, Citi and Arc Design and other marks used herein are service marks of Citigroup Inc. or its affiliates, used and registered throughout the world.
+Â© 2024 Citibank, N.A., Member FDIC. All rights reserved. Citi, Citi and Arc Design and other marks used herein are service marks of Citigroup Inc. or its affiliates, used and registered throughout the world.
 
 Interlink is a U.S. payment network owned and operated by Visa. MasterCard and the MasterCard Brand Mark are registered trademarks of MasterCard International Incorporated.
 
@@ -1506,9 +1481,9 @@ Cirrus is a registered trademark of Cirrus System, LLC, formerly known as Cirrus
 
 MoneyPass is a registered trademark of Fiserv, Inc.
 
-Zelle® and the Zelle® related marks are wholly owned by Early Warning Services, LLC and are used herein under license.
+ZelleÂ® and the ZelleÂ® related marks are wholly owned by Early Warning Services, LLC and are used herein under license.
 
-## Amendments to the Citibank® Client Manual Consumer Accounts, November 14, 2024 Edition
+## Amendments to the CitibankÂ® Client Manual Consumer Accounts, November 14, 2024 Edition
 
 Please read and keep this notice with your important account records.
 
@@ -1518,7 +1493,7 @@ Please read and keep this notice with your important account records.
 
 Effective November 14, 2024, the 'Enhanced Direct Deposit' definition within the 'Definitions' section of the Client Manual - Consumer Accounts is deleted in its entirety and replaced with the following:
 
-' Enhanced Direct Deposit ( EDD )' is an electronic deposit through the Automated Clearing House ('ACH') Network of payroll, pension, social security, government benefits and other payments to your checking or savings account. An EDD also includes Zelle® incoming payments and other funds from person-to-person (P2P) payments when transferred through the ACH Network using providers such as Venmo or PayPal. Teller deposits, cash deposits, check deposits, wire transfers, transfers between Citibank accounts, ATM transfers and deposits, mobile check deposits, debit card funding transfers, and P2P payment transfers sent to a Citibank debit card do not qualify as EDDs. Any funds transferred from another financial institution or P2P provider through an instant transfer service will also not qualify as an EDD.
+' Enhanced Direct Deposit ( EDD )' is an electronic deposit through the Automated Clearing House ('ACH') Network of payroll, pension, social security, government benefits and other payments to your checking or savings account. An EDD also includes ZelleÂ® incoming payments and other funds from person-to-person (P2P) payments when transferred through the ACH Network using providers such as Venmo or PayPal. Teller deposits, cash deposits, check deposits, wire transfers, transfers between Citibank accounts, ATM transfers and deposits, mobile check deposits, debit card funding transfers, and P2P payment transfers sent to a Citibank debit card do not qualify as EDDs. Any funds transferred from another financial institution or P2P provider through an instant transfer service will also not qualify as an EDD.
 
 ## EFFECTIVE DATE: SEPTEMBER 26, 2024
 
@@ -1552,8 +1527,6 @@ The 'Effective Period of Stop Payment Order' section within the 'Types of Transa
 
 Effective Period of Stop Payment Order. A stop payment order on an ACH transaction is permanent. For recurring transactions, this means that your stop payment order will be effective as to subsequent withdrawals/ payments initiated by that originator (payee) for the same amount unless you contact the bank and request that the stop payment order be removed.
 
-<!-- image -->
-
 Last Updated 11/14/2024
 
 ## EFFECTIVE DATE: SEPTEMBER 26, 2024
@@ -1570,8 +1543,6 @@ Please Note: If your transfer is returned by the beneficiary bank to Citibank, a
 
 remain in full force and effect.
 
-All other terms and conditions of the Citibank® Client Manual - Consumer Accounts Terms, conditions and fees for accounts, products, programs and services are subject to change.
+All other terms and conditions of the CitibankÂ® Client Manual - Consumer Accounts Terms, conditions and fees for accounts, products, programs and services are subject to change.
 
-© 2024 Citibank, N.A. Member FDIC. Citi, Citi and Arc Design and other marks used herein are service marks of Citigroup Inc. or its affiliates, used and registered throughout the world. All rights reserved.
-
-<!-- image -->
+Â© 2024 Citibank, N.A. Member FDIC. Citi, Citi and Arc Design and other marks used herein are service marks of Citigroup Inc. or its affiliates, used and registered throughout the world. All rights reserved.

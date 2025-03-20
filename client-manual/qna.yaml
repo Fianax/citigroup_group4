@@ -1,0 +1,121 @@
+created_by: cosme morales picon
+version: 3
+domain: Finalcial Services Banking
+document_outline:
+seed_examples:
+  - context: |
+      ## Account Statements and Notices, Periodic Statements
+
+      We will provide a periodic account statement to you showing all activity for the statement period, all transactions made with your Citibank® Banking Card, all transfers you authorize in advance, and other account information for the statement period. 
+      Your periodic statement will include a summary of your linked account balances and an itemized listing of your transactions by date, including information about checks presented against your account, and other notices about your linked accounts. 
+      We use postage-paid ordinary postal-mail to send you statements or notices to the postal mail address reflected in our records for the account.
+
+      Regardless of the number of account owners, we only mail to one owner per account. 
+      Notification given to any one account owner is considered notification to all account owners and is considered delivered to you on the date we first place the statement or notice in the U.S. mail or the date that the email notifying you that your statement is available on Citibank Online is first sent, regardless of whether or not you receive it.
+
+      If two consecutive statements and/or notices are returned to us for any reason, you agree that we may hold subsequent notices and statements until we receive forwarding information from you. 
+      Statements and notices held for you will be deemed delivered to you on the date that they are prepared (for held statements), mailed (for returned statements) or otherwise made available to you. 
+      At our discretion, we may destroy mail that is returned to us as determined to be undeliverable. 
+      If you have a checking, Checking Plus®, or Checking Plus® (variable rate) line of credit account, you will receive a statement each month and that statement will include information regarding all of your other linked accounts.
+
+      You can arrange to receive separate statements for your linked Citibank accounts by calling CitiPhone Banking® (see the 'Contact Us' section of this Manual for telephone numbers).
+
+      Instead of receiving a paper statement through ordinary postal mail, any signer on an account may elect to enroll in our paperless statement service when you are registered on Citibank Online. 
+      If you elect to use the paperless statement service, we will notify you via email of the availability of your statement on Citibank Online. 
+      The terms and conditions for the paperless statement service are subject to a separate agreement which you will accept when enrolling in the service and can view at any time on Citibank Online.
+    questions_and_answers:
+      - question: |
+          What will your periodic statement include?
+        answer: |
+          Your periodic statement will include a summary of your linked account balances and an itemized listing of your transactions by date, including information about checks presented against your account, and other notices about your linked accounts.
+      - question: |
+          Is notification to one account holder considered notification to all account holders?
+        answer: |
+          Yes, they will be deemed delivered and will also be deemed delivered to you on the date we first send the statement or notice by U.S. mail or on the date the email notifying you that your statement is available on Citibank Online is first sent, whether or not you receive it.
+      - question: |
+          When will statements and notices be deemed to have been delivered?
+        answer: |
+          Statements and notices shall be deemed to be delivered on the date on which they are prepared (in the case of withheld statements), mailed (in the case of returned statements) or otherwise made available to you.
+  - context: |
+      ## Cancelled Check Options
+      Unless you have an account package that allows you to elect otherwise and you have done so, we will not send you images of your cancelled checks.
+      If you have a checking account in the Citigold® Account Package, Citi Priority Account Package, Citibank® Account Package or a Citi Private Bank Account, you may elect to have your check images delivered with your periodic statements. 
+      You must speak with an account representative to sign up for this service. 
+      Please note that if you receive check images with your statement, included among those images may be some checks which were presented for payment but which were returned unpaid after your statement was prepared and sent to you.
+      Images of your cancelled checks presented within the past 18 months are also available to you through Citibank® Online. Additionally, you may request a copy of any of your cancelled checks by calling CitiPhone Banking®. Please refer to 'Other Fees and Charges for All Accounts' in the Marketplace Addendum for applicable fees.
+      
+      ## Substitute Checks and Your Rights
+      ### What Is a Substitute Check?
+      A substitute check is a paper reproduction created from a digital image of the front and back of the original check and bears the legend 'This is a legal copy of your check.' You can use it the same way you would use the original check. Federal law allows banks to replace original checks with 'substitute checks.' Under the law, a substitute check is the 'legal equivalent' of the original check. In other words, it can be used in the same way and for all purposes for which you would use the original check.
+    questions_and_answers:
+      - question: |
+          Will I receive images of my cancelled checks?
+        answer: |
+          No, unless you have an account package that allows you to choose otherwise such as: the Citigold® Account Package, Citi Priority Account Package, Citibank® Account Package or a Citi Private Bank Account.
+      - question: |
+          What Is a Substitute Check?
+        answer: |
+          A substitute check is a paper reproduction created from a digital image of the front and back of the original check and bears the legend 'This is a legal copy of your check.' You can use it the same way you would use the original check.
+      - question: |
+          According to the law, is a substitute check the 'legal equivalent' of the original check?
+        answer: |
+          Yes, it can be used in the same way and for all purposes for which you would use the original check.
+  - context: |
+      ## Substitute Checks and Your Rights
+      ### Your Rights
+
+      The following rights apply if you receive a substitute check from us in lieu of the original check. These rights do not apply to original checks or to electronic debits. Your rights as to those transactions remain unchanged and are described in other sections of this Agreement. Please note these rights also do not apply to images of checks furnished to you or viewed through Citibank® Online.
+
+      In certain cases, federal law provides a special procedure that allows you to request a refund for losses you incur if you believe a substitute check is incorrectly posted to your account (for example, if you think your account was debited for the wrong amount) and production of the original check is needed to determine the validity of the debit. The losses you may attempt to recover may include the amount that was withdrawn from your account and fees that were charged as a result of the withdrawal (for example, overdraft check fees.) The amount of the refund you may request under this procedure is limited to the amount of your loss or the amount of the substitute check, whichever is less. You are also entitled to interest if your account is an interest-bearing account. If your loss exceeds the amount of the substitute check, you may be able to recover additional amounts under other laws.
+
+      Under federal law, you may receive up to $2,500 of your refund (plus interest if you have an interest-bearing account) within ten (10) Business Days after we receive a complete claim from you and the remainder of your refund not later than forty-five (45) calendar days after we receive a complete claim from you. You will not be entitled to a refund if we determine that the substitute check was correctly posted to your account. Alternatively, we may reverse the refund (including any interest on the refund) if we later determine that the substitute check was correctly posted to your account.
+    questions_and_answers:
+      - question: |
+          Can i claim a refund for losses incurred if i believe a substitute checks has been incorrectly debited from my account?
+        answer: |
+          Yes and presentation of the original cheque is necessary to determine the validity of the debit.
+      - question: |
+          Do rights on substitute checks only apply to substitute checks?
+        answer: |
+          Yes, these rights do not apply to original checks or to electronic debits and also do not apply to images of checks furnished to you or viewed through Citibank® Online.
+      - question: |
+          What happens if I ask for a refund of a substitute checks that I have cashed?
+        answer: |
+          You will not be entitled to a refund, also, we may reverse the refund if we later determine that the substitute check was correctly posted to your account.
+  - context: |
+      ## Filing a Claim
+
+      If you believe a substitute check you have received from us was improperly debited to your account, please call CitiPhone Banking® at the number indicated in the 'Contact Us' section of this Manual. 
+      You must contact us within forty (40) calendar days of the date we mailed, or otherwise made available to you, the substitute check in question. 
+      We may extend the time period if you were prevented from contacting us for extenuating reasons. 
+      In certain situations, such as forgery claims, we may require that you put your claim in writing. 
+      If so, we must receive the information in writing within ten (10) Business Days from the day you first notified us of your claim.
+
+      If you are not able to contact us by telephone, you may also write to us at the following address: Citibank Client Services, P.O. Box 769014, San Antonio, TX 78245-9989.
+
+      In investigating your claim, we may request the following information from you:
+      - · Description of how you suffered a loss;
+      - · Amount of your loss;
+      - · Explanation as to why the original check is needed to determine the validity of the amount charged to your account; and
+      - · A copy of the substitute check and/or information to help us identify the substitute check (such as check number, the amount of the check and payee).
+    questions_and_answers:
+      - question: |
+          What should I do if I think I have been issued with a deposited cheque by Citiback?
+        answer: |
+          You must call CitiPhone Banking® at the number 1-888-CITIBANK, also, You must contact us within forty (40) calendar days of the date we mailed, or otherwise made available to you, the substitute check in question.
+      - question: |
+          What happens if I can't contact Citibank?
+        answer: |
+          You may write to the following address: Citibank Client Services, P.O. Box 769014, San Antonio, TX 78245-9989.
+      - question: |
+          What can Citibank request to investigate the claim?
+        answer: |
+          · Description of how you suffered a loss.
+          · Amount of your loss.
+          · Explanation as to why the original check is needed to determine the validity of the amount charged to your account.
+          · A copy of the substitute check and/or information to help us identify the substitute check (such as check number, the amount of the check and payee).
+document:
+  repo: 'https://github.com/Fianax/citigroup_group4.git'
+  commit: 
+  patterns:
+    - ''
