@@ -14,89 +14,94 @@ This manual also contains an arbitration provision that covers all disputes betw
 
 Please review this Client Manual thoroughly - and keep it for future reference. And if you have any questions, or need additional copies, please call us anytime at 1-888-CITIBANK or Text Telephone (TTY): We accept 711 or other Relay Service, visit your local branch or use the search function on citi.com.
 
+![Image](Client Manual - Consumer Accounts_artifacts/image_000000_e02665dad62ec5da7fcad7e8ba60cfb406b99bfbebc9545ab8c5bff0f38ef403.png)
 
 ## Contents
 
-| Contact Us                                                                                                                                            |    4 |
-| General Terms - Consumer Use  Acknowledgment                                                                                                          |    5 |
-| Important Note to Australian  Resident Clients                                                                                                        |    5 |
-| Definitions                                                                                                                                           |    5 |
-| Definitions of Types of Accounts                                                                                                                      |    8 |
-| Account Opening/Ownership/ Maintenance                                                                                                                |    9 |
-| Amendments/Changes to This Agreement                                                                                                                  |    9 |
-| Arbitration                                                                                                                                           |    9 |
-| Conflicting Demands/Disputes                                                                                                                          |    9 |
-| Exemplar Signature                                                                                                                                    |    9 |
-| Governing Law                                                                                                                                         |    9 |
-| Indemnification                                                                                                                                       |   10 |
-| Information Sharing                                                                                                                                   |   10 |
-| Limitation on Time to Sue or Arbitrate                                                                                                                |   10 |
-| Recording Your Service Requests                                                                                                                       |   11 |
-| Your Consent for Us to Call You                                                                                                                       |   11 |
-| Your Consent for Us to Use Your Mobile  Phone Number to Identify You                                                                                  |   11 |
-| Security Interest                                                                                                                                     |   11 |
-| Severability                                                                                                                                          |   11 |
-| Account Opening                                                                                                                                       |   11 |
-| Consumer Reporting Agency Information                                                                                                                 |   12 |
-| Updating Your Account Information                                                                                                                     |   12 |
-| Transferring Account Ownership                                                                                                                        |   13 |
-| Language Preference                                                                                                                                   |   13 |
-| Account Errors and Adjustments                                                                                                                        |   14 |
-| Assignments                                                                                                                                           |   14 |
-| Important Tax Information                                                                                                                             |   14 |
-| Foreign Account Tax Compliance Act                                                                                                                    |   15 |
-| Account Transactions                                                                                                                                  |   16 |
-| What This Section Covers                                                                                                                              |   16 |
-| Checkbooks and Checks                                                                                                                                 |   16 |
-| Deposits                                                                                                                                              |   16 |
-| Remotely Created Checks                                                                                                                               |   17 |
-| Endorsements                                                                                                                                          |   17 |
-| Items Sent for Collection                                                                                                                             |   17 |
-| Verification and Collection                                                                                                                           |   18 |
-| ACH Provisional Credits                                                                                                                               |   18 |
-| Notice of Incoming Transfer                                                                                                                           |   18 |
-| Deposited Transaction Item  Returned Unpaid                                                                                                           |   18 |
-| Reconstructing Lost, Missing,  or Destroyed Deposits                                                                                                  |   18 |
-| Our Right to Refuse Deposits                                                                                                                          |   19 |
-| Account Balance and  Transaction Information                                                                                                          |   19 |
-| External Funds Transfers                                                                                                                              |   19 |
-| Cancellations or Amendments  of Funds Transfer Requests                                                                                               |   21 |
-| Claims                                                                                                                                                |   22 |
-| Withdrawals                                                                                                                                           |   23 |
-| Account Statements and Notices,  Periodic Statements                                                                                                  |   29 |
-| Cancelled Check Options                                                                                                                               |   29 |
-| Substitute Checks and Your Rights                                                                                                                     |   29 |
-| Filing a Claim                                                                                                                                        |   30 |
-| Special Circumstances                                                                                                                                 |   31 |
-| Forfeited Accounts                                                                                                                                    |   31 |
-| Death or Legal Determination  of Incompetence                                                                                                         |   31 |
-| Dormant Accounts                                                                                                                                      |   31 |
-| Legal Process                                                                                                                                         |   31 |
-| Right of Setoff                                                                                                                                       |   32 |
-| Restricted Access                                                                                                                                     |   31 |
-| Closing a Deposit Account                                                                                                                             |   31 |
-| Certain Deposit Accounts  with Transactional Features                                                                                                 |   33 |
-| Foreign Currency Exchange                                                                                                                             |   35 |
-| Limitation of Liability                                                                                                                               |   35 |
-| Electronic Banking                                                                                                                                    |   36 |
-| General                                                                                                                                               |   36 |
-| Access Devices                                                                                                                                        |   36 |
+| Contact Us                                                           |   4 |
+| General Terms - Consumer Use  Acknowledgment                         |   5 |
+| Important Note to Australian  Resident Clients                       |   5 |
+| Definitions                                                          |   5 |
+| Definitions of Types of Accounts                                     |   8 |
+| Account Opening/Ownership/ Maintenance                               |   9 |
+| Amendments/Changes to This Agreement                                 |   9 |
+| Arbitration                                                          |   9 |
+| Conflicting Demands/Disputes                                         |   9 |
+| Exemplar Signature                                                   |   9 |
+| Governing Law                                                        |   9 |
+| Indemnification                                                      |  10 |
+| Information Sharing                                                  |  10 |
+| Limitation on Time to Sue or Arbitrate                               |  10 |
+| Recording Your Service Requests                                      |  11 |
+| Your Consent for Us to Call You                                      |  11 |
+| Your Consent for Us to Use Your Mobile  Phone Number to Identify You |  11 |
+| Security Interest                                                    |  11 |
+| Severability                                                         |  11 |
+| Account Opening                                                      |  11 |
+| Consumer Reporting Agency Information                                |  12 |
+| Updating Your Account Information                                    |  12 |
+| Transferring Account Ownership                                       |  13 |
+| Language Preference                                                  |  13 |
+| Account Errors and Adjustments                                       |  14 |
+| Assignments                                                          |  14 |
+| Important Tax Information                                            |  14 |
+| Foreign Account Tax Compliance Act                                   |  15 |
+| Account Transactions                                                 |  16 |
+| What This Section Covers                                             |  16 |
+| Checkbooks and Checks                                                |  16 |
+| Deposits                                                             |  16 |
+| Remotely Created Checks                                              |  17 |
+| Endorsements                                            |   17 |
+| Items Sent for Collection                               |   17 |
+| Verification and Collection                             |   18 |
+| ACH Provisional Credits                                 |   18 |
+| Notice of Incoming Transfer                             |   18 |
+| Deposited Transaction Item  Returned Unpaid             |   18 |
+| Reconstructing Lost, Missing,  or Destroyed Deposits    |   18 |
+| Our Right to Refuse Deposits                            |   19 |
+| Account Balance and  Transaction Information            |   19 |
+| External Funds Transfers                                |   19 |
+| Cancellations or Amendments  of Funds Transfer Requests |   21 |
+| Claims                                                  |   22 |
+| Withdrawals                                             |   23 |
+| Account Statements and Notices,  Periodic Statements    |   29 |
+| Cancelled Check Options                                 |   29 |
+| Substitute Checks and Your Rights                       |   29 |
+| Filing a Claim                                          |   30 |
+| Special Circumstances                                   |   31 |
+| Forfeited Accounts                                      |   31 |
+| Death or Legal Determination  of Incompetence           |   31 |
+| Dormant Accounts                                        |   31 |
+| Legal Process                                           |   31 |
+| Right of Setoff                                         |   32 |
+| Restricted Access                                       |   31 |
+| Closing a Deposit Account                               |   31 |
+| Certain Deposit Accounts  with Transactional Features   |   33 |
+| Foreign Currency Exchange                               |   35 |
+| Limitation of Liability                                 |   35 |
+| Electronic Banking                                      |   36 |
+| General                                                 |   36 |
+| Access Devices                                          |   36 |
+
 | Withdrawal Posting Cut-Off Times                                                                                                                      |   37 |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------|------|
 | Types of Transactions; Limitations                                                                                                                    |   37 |
 | Error Resolution and Notice Procedures  for Claims or Questions concerning  Consumer International Global Transfers  and International Wire Transfers |   46 |
 | Error Resolution and Notice Procedures  for all other Electronic Fund Transfers                                                                       |   46 |
 | Confidentiality at Citibank                                                                                                                           |   48 |
 | Limitation of Liability                                                                                                                               |   49 |
 | Arbitration                                                                                                                                           |   50 |
-| Covered Disputes                                                                                                                                      |   50 |
-| Arbitration Limits                                                                                                                                    |   50 |
-| How Arbitration Works                                                                                                                                 |   50 |
-| Paying for Arbitration Fees                                                                                                                           |   51 |
-| The Final Award                                                                                                                                       |   51 |
-| Right to Resort to Provisional  Remedies Preserved                                                                                                    |   51 |
-| Survival and Severability of Terms                                                                                                                    |   51 |
-| Rules for Rejecting This  Arbitration Provision                                                                                                       |   51 |
-| Signature Card (Reference Copy)                                                                                                                       |   52 |
+
+| Covered Disputes                                   |   50 |
+|----------------------------------------------------|------|
+| Arbitration Limits                                 |   50 |
+| How Arbitration Works                              |   50 |
+| Paying for Arbitration Fees                        |   51 |
+| The Final Award                                    |   51 |
+| Right to Resort to Provisional  Remedies Preserved |   51 |
+| Survival and Severability of Terms                 |   51 |
+| Rules for Rejecting This  Arbitration Provision    |   51 |
+| Signature Card (Reference Copy)                    |   52 |
 
 ## Contact Us
 
@@ -505,6 +510,7 @@ You will be liable for unpaid checks returned late because your endorsement, a p
 
 We may endorse and/or collect items deposited to your account without your endorsement, but may require your personal endorsement prior to accepting an item for deposit.
 
+![Image](Client Manual - Consumer Accounts_artifacts/image_000001_93cab484ad3c535591c5f2ef590bcde6aa0135fa9c1b7e3646e721022ecbd8a6.png)
 
 ## Items Sent for Collection
 
@@ -815,6 +821,7 @@ In some instances, we may refuse a request for a withdrawal or transfer from an 
 - · If the account is pledged as collateral for a loan;
 - · If an account owner has died and we have not received all documents required to release funds in the account;
 - · If we have not received documents or identification required to permit access to the account, such as when the account is new and documentation remains missing;
+
 - · If we have been ordered by a court or other legal process not to permit the withdrawal;
 - · If you do not present us with appropriate identification or any other information that we may require;
 - · If we are aware of any dispute relating to the account or funds in the account;
@@ -960,37 +967,40 @@ In the event that Citibank fails, you agree to cooperate fully with us and the F
 
 FDIC Format for Account Beneficiary Information (To be completed for each account beneficiary)
 
-|   Field  Number | Field Name                                | Description                                                                                         |
-|-----------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------|
-|               1 | Blank                                     | Blank                                                                                               |
-|               2 | Account Number                            | Account Number at Citibank                                                                          |
-|               3 | Blank                                     | Blank                                                                                               |
-|               4 | Blank                                     | Blank                                                                                               |
-|               5 | Tax ID                                    | Customer's SSN (no hyphens) or Tax ID number                                                        |
-|               6 | Tax ID Code                               | Code indicates corporate (TIN) or personal tax identification number (SSN)                          |
-|               7 | Name 1                                    | Full name of owner line 1 as it appears on the account                                              |
-|               8 | Name 2                                    | Full name of owner line 2 as is appears on the account                                              |
-|               9 | Address 1                                 | Address line 1 as it appears on the customer's statement                                            |
-|              10 | Address 2                                 | Address line 2 as it appears on the customer's statement                                            |
-|              11 | Address 3                                 | Address line 3 as it appears on the customer's statement                                            |
-|              12 | City                                      | Address city as it appears on the customer's statement                                              |
-|              13 | State                                     | State postal abbreviation as it appears on the customer's statement                                 |
-|              14 | Zip                                       | Address zip as it appears on the customer's statement (no hyphens)                                  |
-|              15 | Country                                   | Country code as it appears on the customer's statement                                              |
-|              16 | Province                                  | Province as it appears on the customer's statement                                                  |
-|              17 | Blank                                     | Blank                                                                                               |
-|              18 | Principal                                 | Principal balance of the customer's account as of the failure                                       |
-|              19 | Blank                                     | Blank                                                                                               |
-|              20 | Deposit Account  Ownership Category       | Single, joint, or business account                                                                  |
-|              21 | Transactional Flag                        | This field indicates whether the account has transactional features. Enter  'Y' if account has transactional features, enter 'N' otherwise. Transactional  features means that the account holder can make transfers or withdrawals from  the deposit account to make payments or transfers to third persons or others  (including another account of the depositor or account holder at the same  institution or at a different institution) by means of a negotiable or transferable  instrument, payment order of withdrawal, check, draft, prepaid account access  device, debit card, or other similar order made by the depositor and payable  to third parties, or by means of a telephonic (including data transmission)  agreement, order or instruction, or by means of an instruction made at an  automated teller machine or similar terminal or unit                                                                                                                                            |
-|              22 | Blank                                     | Blank                                                                                               |
-|              23 | Blank                                     | Blank                                                                                               |
-|              24 | Account Beneficiary  Full Name            | Account beneficiary's first, middle, and last name or the registered name of  the entity            |
-|              25 | Account Participant  Type                 | BEN is the type you should use                                                                      |
-|              26 | Blank                                     | Blank                                                                                               |
-|              27 | Blank                                     | Blank                                                                                               |
-|              28 | Beneficiary's  Government-Issued  ID      | This field shall contain the ID number that identifies the account participant  based on a government issued ID or corporate filing. For a United States  individual - Legal identification number (e.g. SSN, TIN). For a foreign national  individual - where a SSN or TIN does not exist, a foreign passport or other  legal identification number (e.g. Alien Card). For a non-individual - the Tax  identification Number (TIN), or other register entity number. The SSN or TIN  should be used for uniquely identifying the account participant, and is not  intended to be used for aggregation purposes|
-|              29 | Beneficiary's  Government-Issued  ID Type | The valid account participant identification types, are: SSN = Social Security  Number, TIN = Tax Identification Number, OTH = Other|
+|   Field  Number | Field Name     | Description                                                                |
+|-----------------|----------------|----------------------------------------------------------------------------|
+|               1 | Blank          | Blank                                                                      |
+|               2 | Account Number | Account Number at Citibank                                                 |
+|               3 | Blank          | Blank                                                                      |
+|               4 | Blank          | Blank                                                                      |
+|               5 | Tax ID         | Customer's SSN (no hyphens) or Tax ID number                               |
+|               6 | Tax ID Code    | Code indicates corporate (TIN) or personal tax identification number (SSN) |
+|               7 | Name 1         | Full name of owner line 1 as it appears on the account                     |
+|               8 | Name 2         | Full name of owner line 2 as is appears on the account                     |
+|               9 | Address 1      | Address line 1 as it appears on the customer's statement                   |
+|              10 | Address 2      | Address line 2 as it appears on the customer's statement                   |
+|              11 | Address 3      | Address line 3 as it appears on the customer's statement                   |
+|              12 | City           | Address city as it appears on the customer's statement                     |
+|              13 | State          | State postal abbreviation as it appears on the customer's statement        |
+|              14 | Zip            | Address zip as it appears on the customer's statement (no hyphens)         |
+|              15 | Country        | Country code as it appears on the customer's statement                     |
+|              16 | Province       | Province as it appears on the customer's statement                         |
+
+|   Field  Number | Field Name                                | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|-----------------|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|              17 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|              18 | Principal                                 | Principal balance of the customer's account as of the institution failure date                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|              19 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|              20 | Deposit Account  Ownership Category       | Single, joint, or business account                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|              21 | Transactional Flag                        | This field indicates whether the account has transactional features. Enter  'Y' if account has transactional features, enter 'N' otherwise. Transactional  features means that the account holder can make transfers or withdrawals from  the deposit account to make payments or transfers to third persons or others  (including another account of the depositor or account holder at the same  institution or at a different institution) by means of a negotiable or transferable  instrument, payment order of withdrawal, check, draft, prepaid account access  device, debit card, or other similar order made by the depositor and payable  to third parties, or by means of a telephonic (including data transmission)  agreement, order or instruction, or by means of an instruction made at an  automated teller machine or similar terminal or unit |
+|              22 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|              23 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|              24 | Account Beneficiary  Full Name            | Account beneficiary's first, middle, and last name or the registered name of  the entity                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|              25 | Account Participant  Type                 | BEN is the type you should use                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|              26 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|              27 | Blank                                     | Blank                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|              28 | Beneficiary's  Government-Issued  ID      | This field shall contain the ID number that identifies the account participant  based on a government issued ID or corporate filing. For a United States  individual - Legal identification number (e.g. SSN, TIN). For a foreign national  individual - where a SSN or TIN does not exist, a foreign passport or other  legal identification number (e.g. Alien Card). For a non-individual - the Tax  identification Number (TIN), or other register entity number. The SSN or TIN  should be used for uniquely identifying the account participant, and is not  intended to be used for aggregation purposes                                                                                                                                                                                                                                                   |
+|              29 | Beneficiary's  Government-Issued  ID Type | The valid account participant identification types, are: SSN = Social Security  Number, TIN = Tax Identification Number, OTH = Other                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 
 ## Foreign Currency Exchange
 
@@ -1431,6 +1441,8 @@ You may reject this arbitration provision by sending a written rejection notice 
 
 ## Signature Card (Reference Copy)
 
+![Image](Client Manual - Consumer Accounts_artifacts/image_000002_ac105e47ae4b95fae0ba921297a477981e6d36c4b08caba042eac89aebf4ea89.png)
+
 CITIBANK, N.A. ACCOUNT
 
 Date:
@@ -1463,7 +1475,17 @@ Signature Card (Reference Copy)  |
 
 Use your Citibank® Banking Card wherever you see these symbols.
 
+![Image](Client Manual - Consumer Accounts_artifacts/image_000003_ff23937aa56b834653c20257fdd33734d27ef5bbd1b4e3049485a2ed62361c07.png)
+
+![Image](Client Manual - Consumer Accounts_artifacts/image_000004_f30de36f9fda7c447ed55255a6de2113e29d46d1049a70b5a7a5dca444757016.png)
+
+![Image](Client Manual - Consumer Accounts_artifacts/image_000005_44361b514cd9a6b4892ffc78765ebac2f6bfbca57d04978009e593bc809486b8.png)
+
+![Image](Client Manual - Consumer Accounts_artifacts/image_000006_4aec2dc3dadd9f56882b37bc0f3023c57b38fe4d32b0ac8146b149ae01539d21.png)
+
 Citibank® Banking Card with the MasterCard® Brand Mark will be accepted at participating merchants.
+
+![Image](Client Manual - Consumer Accounts_artifacts/image_000007_4836d4756d35673718d7c4321092fac223543451d7cd6bb25d82a5ce58d4cdbd.png)
 
 To find the most convenient location, you can call: 1-800-CITI-ATM, 24 hours a day, 7 days a week. Also visit us at citibank.com/locations.
 
@@ -1527,6 +1549,8 @@ The 'Effective Period of Stop Payment Order' section within the 'Types of Transa
 
 Effective Period of Stop Payment Order. A stop payment order on an ACH transaction is permanent. For recurring transactions, this means that your stop payment order will be effective as to subsequent withdrawals/ payments initiated by that originator (payee) for the same amount unless you contact the bank and request that the stop payment order be removed.
 
+![Image](Client Manual - Consumer Accounts_artifacts/image_000008_1c689abb18a3591682d4ebecc865c117a3716f16472b5583e203b9ff1b763693.png)
+
 Last Updated 11/14/2024
 
 ## EFFECTIVE DATE: SEPTEMBER 26, 2024
@@ -1546,3 +1570,5 @@ remain in full force and effect.
 All other terms and conditions of the Citibank® Client Manual - Consumer Accounts Terms, conditions and fees for accounts, products, programs and services are subject to change.
 
 © 2024 Citibank, N.A. Member FDIC. Citi, Citi and Arc Design and other marks used herein are service marks of Citigroup Inc. or its affiliates, used and registered throughout the world. All rights reserved.
+
+![Image](Client Manual - Consumer Accounts_artifacts/image_000009_1c689abb18a3591682d4ebecc865c117a3716f16472b5583e203b9ff1b763693.png)

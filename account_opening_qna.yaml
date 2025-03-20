@@ -1,0 +1,138 @@
+version: 3
+domain: Financial Services Banking
+created_by: Sion-Artingstall
+document_outline: |
+    Section on Account Opening / Ownership & Maintenance from The CitiBank Client Manual for Consumer Accounts 
+seed_examples:
+  - context: |
+      Account Opening
+
+      All accounts are opened subject to our ability to verify your identity by requiring acceptable types of identification. To help the government fight the funding of terrorism and money laundering activities, federal law requires us to obtain, verify, and record information that identifies each person who opens an account. When you apply for an account, we will ask for information that will allow us to identify you. We may also ask for your driver's license or other identifying documents. Please note: Your ability to perform or request certain account transactions on a new account, such as wire transfers, may be delayed for one or more business days after account opening.
+
+      Account opening transactions that are completed prior to the Cut-off Time on a Business Day 1 are recorded as having occurred on that day. Account opening transactions that complete after the Cut-off Time are recorded as having occurred the next Business Day. 1  The exception to the Business Day 1  rule is Certificates of Deposit opened via Citibank® Online. Please refer to footnote 2 for the rules that apply to Certificates of Deposit opened via Citibank® Online.
+
+      Some cut-off times are based on Eastern Time and others are based on Central Time. Please review the cut-off times listed in the chart below.
+
+      | Account Type            | Opening Channel                 | Account Opening Cut-off Time                                                                        |
+      |-------------------------|---------------------------------|-----------------------------------------------------------------------------------------------------|
+      | Checking Accounts       | Citibank Branch                 | Branch Closing Time - Please refer to the end of  Business Day 1  information posted in the branch. |
+      | Checking Accounts       | CitiPhone Banking®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+      | Checking Accounts       | Citibank® Online & Citi Mobile® | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+      | Savings Accounts        | Citibank Branch                 | Branch Closing Time - Please refer to the end of  Business Day 1  information posted in the branch. |
+      | Savings Accounts        | CitiPhone Banking®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+      | Savings Accounts        | Citibank® Online & Citi Mobile® | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+      | Certificates of Deposit | Citibank Branch                 | Branch Closing Time - Please refer to the end of  Business Day 1  information posted in the branch. |
+      | Certificates of Deposit | CitiPhone Banking®              | 10:30 PM Eastern Time (9:30 PM Central Time,  7:30 PM Pacific Time)                                 |
+      | Certificates of Deposit | Citibank® Online                | 11:59 PM Central Time 2                                                                             |
+      | Certificates of Deposit | Citi Mobile®                    | 11:59 PM Central Time 2                                                                             |
+    
+    questions_and_answers:
+      - question: |
+          What identification may be requested when opening an account?
+        answer: |
+          Acceptable types of identification may be requested when opening an account as well as a driver's license or other identifying documents. 
+      - question: |
+          What transactions may be delayed for one or more business days after account opening?
+        answer: |
+          Certain transactions such as Wire transfers may be delayed, but other transactions may be delayed depending on circumstance.
+      - question: |
+          What is the cut off time for a Checking Account opened via Citibank Branch?
+        answer: |
+          This depends on the Branch Closing Time for example please refer to information posted in the branch.
+  - context: |
+      Account Errors and Adjustments
+
+      We may make adjustments to your account whenever a correction or change is required. Adjustments might occur, for example, if a deposit amount is entered in an amount that is different than the actual amount of the deposit or items you deposit are returned unpaid. In the case of a deposit error where the deposit amount is entered in the wrong amount, we will either investigate the discrepancy and make an adjustment (debit or credit) to your account or alternatively, credit your account for the full amount of the discrepancy without investigation.
+
+      You have a responsibility to review your account statement in a timely manner and to notify us promptly of any errors. Within thirty (30) days after we send or make available to you your account statement and accompanying items, you must notify us in writing of any errors, discrepancies, or unauthorized transactions not involving an electronic funds transfer. If you fail to do so, we will not be liable for debits or charges to your account resulting from such errors, discrepancies or lack of authorization, or for losses resulting from subsequent related occurrences.
+
+      Note: There are exceptions to this thirty day notice requirement. For claims asserting forged, missing, or unauthorized endorsements or a material alteration, you must notify us within the period specified by the state law applicable to your accounts.
+
+      You also agree that any suit or demand for arbitration that you assert based on an account error, discrepancy, or unauthorized transaction must be brought within one (1) year (two (2) years in Texas) after the date of the first account statement on which the error, discrepancy, or unauthorized transaction appears.
+
+      If you think an error has been made or if you need more information about a transaction, call CitiPhone Banking® at the number on the back of your Citibank® Banking Card. If your account is debited with a substitute check that you have received from us and you believe that there is an error or discrepancy or that the transaction is unauthorized, you are entitled to additional rights under the law. Please refer to the 'Substitute Checks and Your Rights' section of this Manual. Please read the 'Error Resolution and Notice Procedures' provisions of the 'Electronic Banking' section of this Manual for additional information about problems with such transactions.
+
+      If funds to which you are not entitled are deposited into your account, we have the right to remove these funds from the account at any time without prior notice to you. If there are insufficient funds in the account, we may charge your other accounts to recoup the funds, as more fully explained in the 'Right of Setoff' section of this Agreement.
+    questions_and_answers:
+      - question: |
+          In what circumstance might an adjustment be made to your account?
+        answer: |
+          Adjustments might occur if a deposit amount is entered in an amount that is different than the actual amount of the deposit or items you deposit are returned unpaid.  If this is a deposit error then this may be investigated further.
+      - question: |
+          How many days do you have to notify the bank of any errors on your account statement?
+        answer: |
+          You have thirty (30) days to notify the bank of any errors, discrepancies, or unauthorized transactions not involving an electronic funds transfer.  Failure to do so may result in the bank not being liable for debits or charges to your account.
+      - question: |
+          What exceptions are there to the thirty day notice requirement?
+        answer: |
+          The exceptions to the thirty day notice requirement are for claims asserting forged, missing, or unauthorized endorsements or a material alteration, you must notify us within the period specified by the state law applicable to your accounts.
+  - context: |
+      Important Tax Information
+
+      When you apply to open an account, Citibank is required to obtain U.S. tax certification from each account owner. If U.S. tax certification is not provided, the account will be subject to backup withholding. An account must not be subject to backup withholding to be eligible to participate in most account promotions; please refer to the separate promotion terms and conditions, if applicable.
+
+      U.S. persons are required to furnish or have a valid Form W-9 (Request for Taxpayer Identification Number and Certification) on file with Citibank. Foreign individuals are required to furnish or have a valid Form W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals) on file with Citibank, and foreign entities are required to furnish or have a valid Form W-8BEN-E (Certificate of Status of Beneficial Owner for United States Tax Withholding and Reporting (Entities) on file with Citibank.
+
+    questions_and_answers:
+      - question: |
+          What tax certification is required from each account owner?
+        answer: |
+          Citibank is required to obtain U.S. tax certification from each account owner.  If U.S. tax certification is not provided, the account will be subject to backup withholding.
+      - question: |
+          What form is required for U.S. persons to furnish or have on file with Citibank?
+        answer: |
+          U.S. persons are required to furnish or have a valid Form W-9 (Request for Taxpayer Identification Number and Certification) on file with Citibank.  Foreign individuals are required to furnish or have a valid Form W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals) on file with Citibank.
+      - question: |
+          When is Citibank required to obtain U.S. tax certification from each account owner?
+        answer: |
+          Citibank is required to obtain U.S. tax certification from each account owner when you apply to open an account.  If U.S. tax certification is not provided, the account will be subject to backup withholding.
+  - context: |
+        ## Footnotes:
+
+        Citibank will apply backup withholding to income payments (e.g., interest) if you: (a) fail to provide a correct Taxpayer Identification Number (TIN), or (b) the U.S. Internal Revenue Service (IRS) notifies us that you furnished an incorrect TIN, or (c) you or we are notified by the IRS that you are subject to backup withholding. Additionally, the IRS may charge you a $50 penalty for failing to provide Citibank with your correct Name/TIN combination. In some cases, a state and local tax authority may also require that we apply state and local backup withholding on income paid to your account when we are required to apply Federal backup withholding.
+
+        Interest received by U.S Persons will be reported on IRS Form 1099-INT for the year received, as required by applicable law. Interest paid to non-U.S. Persons will be reported on IRS Form 1042-S for the year received. If 1099 reporting is required, Citibank will issue a 1099 to the first titled owner on the account. For jointly owned accounts that include both a U.S. owner and a foreign owner, we will issue the 1099 to the U.S. owner.
+
+        Please review the separate IRA and other tax-qualified retirement account disclosures for additional requirements that may apply.
+
+        ## Foreign Account Tax Compliance Act:
+
+        In order for Citibank to be compliant with the provisions of The Foreign Account Tax Compliance Act (commonly known as 'FATCA'), a U.S. federal tax law, Citibank may contact you to request additional information and/or documentation. Please understand that Citibank does not and will not in any way support any attempt by you to evade U.S. taxes or any request by you for help in avoiding detection under FATCA. Furthermore, since Citibank is not in the business of providing tax advice, you should not rely upon Citibank to determine the impact of FATCA on your own business activities or what your own compliance obligations are under FATCA. We encourage you to seek the advice of experienced tax advisors to determine what actions you need to take to become FATCA compliant. Your failure to comply with FATCA may result in restricted access or withholding of taxes from interest payments due to you.
+
+    questions_and_answers:
+      - question: |
+          When is backup withholding applied to income payments such as interest?
+        answer: |
+          Backup withholding is applied to income payments such as interest if you fail to provide a correct Taxpayer Identification Number (TIN), or the U.S. Internal Revenue Service (IRS) notifies us that you furnished an incorrect TIN, or you or we are notified by the IRS that you are subject to backup withholding.
+      - question: |
+          Which form is interest received by U.S. Persons reported on?
+        answer: |
+          Interest received by U.S Persons will be reported on IRS Form 1099-INT for the year received, as required by applicable law.  Interest paid to non-U.S. Persons will be reported on IRS Form 1042-S for the year received.
+      - question: |
+          What is FATCA?
+        answer: |
+          FATCA is The Foreign Account Tax Compliance Act, a U.S. federal tax law.  Citibank may contact you to request additional information and/or documentation to be compliant with FATCA.
+  - context: >
+      Consumer Reporting Agency Information
+
+      You authorize us to obtain a consumer report in connection with the application, update or renewal of any deposit or loan account you apply for and you understand that we may also obtain such reports at any time once you become a customer. You also authorize us to use these consumer reports to consider you for other programs with Citibank.
+
+      We may report information, including negative account activity, about you and any joint account owners or authorized signers on the account (including any account closed by Citibank) to a Consumer Reporting Agency. As a result, this may prevent you from obtaining services at other financial institutions, including opening an account. If you believe that we have inaccurately reported information to a Consumer Reporting Agency, you have the right to file a dispute with that Consumer Reporting Agency. You may also file a dispute by calling CitiPhone Banking® (see the 'Contact Us' section of this Manual for telephone numbers) or write to us at Citibank - Consumer Report Inquiry, P.O. Box 769004, San Antonio, TX 78245-9989. We will review our files and respond to you in writing.
+    questions_and_answers:
+      - question: >
+          When is Citibank authorised to obtain a consumer report?
+        answer: >
+          Citibank is authorised to obtain a consumer report in connection with the application, update or renewal of any deposit or loan account you apply for and you understand that we may also obtain such reports at any time once you become a customer.
+      - question: >
+          What information may be reported to a Consumer Reporting Agency?
+        answer: >
+          Information, including negative account activity, about you and any joint account owners or authorized signers on the account (including any account closed by Citibank) may be reported to a Consumer Reporting Agency.
+      - question: >
+          What action should be taken if a customer believes that Citibank has inaccurately reported information to a Consumer Reporting Agency?
+        answer: >
+          If you believe that Citibank has inaccurately reported information to a Consumer Reporting Agency, you have the right to file a dispute with that Consumer Reporting Agency.  You may also file a dispute by calling CitiPhone Banking® or write to us at Citibank - Consumer Report Inquiry, P.O. Box 769004, San Antonio, TX 78245-9989.
+document:
+  repo: 'https://github.com/Fianax/citigroup_group4.git'
+  commit:
+  patterns:
+    - 'data/Client Manual - Consumer Accounts.pdf'
