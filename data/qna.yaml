@@ -1,0 +1,60 @@
+seed_examples:
+  - context: |
+      Citi’s Overdraft Protection policy allows customers to link eligible accounts to cover overdrafts. 
+      This service is designed to help prevent declined transactions or returned checks due to insufficient funds. 
+      Fees may apply, and the coverage is subject to the bank’s discretion. Customers can enable overdraft protection 
+      through online banking or by visiting a branch. The bank may limit the number of transfers per month, and 
+      overdraft fees vary depending on the account type. In some cases, Citi may offer grace periods for overdraft 
+      repayment before applying penalties.
+
+      Customers who enroll in overdraft protection should carefully review their linked accounts to ensure sufficient 
+      balances. If the linked account does not have enough funds, the overdraft transaction may still be declined. 
+      Citi provides notifications via email and mobile banking when an account is overdrawn, giving customers an 
+      opportunity to deposit funds. 
+
+      Overdraft protection does not guarantee approval of all transactions. If an account remains negative beyond 
+      a certain period, additional penalties may apply, and continued negative balances may lead to account 
+      restrictions or closure. Customers should monitor their accounts regularly and use budgeting tools to manage 
+      their balances effectively.
+      
+    questions_and_answers:
+      - question: |
+          What is Citi’s overdraft protection policy?
+        answer: |
+          Citi’s Overdraft Protection policy allows customers to link eligible accounts to cover overdrafts. 
+          It helps prevent declined transactions due to insufficient funds. Fees may apply, and approval is 
+          at the bank’s discretion. Customers can enable it through online banking or a Citi branch.
+        type: fact
+
+      - question: |
+          How does Citi notify customers when their account is overdrawn?
+        answer: |
+          Citi notifies customers via email and mobile banking alerts when an account is overdrawn. 
+          These alerts allow customers to take action, such as depositing funds, to avoid further 
+          penalties or declined transactions.
+        type: fact
+
+      - question: |
+          Why does Citi enforce limits on overdraft protection transfers?
+        answer: |
+          Citi enforces limits on overdraft protection transfers to comply with banking regulations 
+          and manage financial risk. Additionally, these limits prevent excessive reliance on 
+          overdraft services and encourage responsible money management.
+        type: reasoning
+
+      - question: |
+          What happens if an account remains overdrawn for an extended period?
+        answer: |
+          If an account remains negative beyond a certain period, Citi may impose additional penalties, 
+          restrict transactions, or even close the account. Customers are encouraged to monitor their 
+          balances regularly and maintain sufficient funds to avoid such consequences.
+        type: reasoning
+
+      - question: |
+          What does ‘overdraft protection’ mean?
+        answer: |
+          Overdraft protection is a banking service that allows customers to link accounts to cover 
+          transactions exceeding their available balance. It helps prevent declined transactions 
+          and may involve fees or transfer limits.
+        type: clarification
+
