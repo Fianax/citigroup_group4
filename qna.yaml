@@ -1,0 +1,281 @@
+version: 3
+domain: CitiGroup General Terms
+created_by: joshrose
+document_outline: The general terms and conditions, along with consumer use acknowledgment, for managing consumer accounts as outlined in the CitiGroup Client Manual.
+seed_examples:
+  - context: |
+      When you open a Citibank consumer deposit account, you are agreeing that your account will be governed by this Client Manual (sometimes referred to as 'Manual') and any and all accompanying Marketplace Addenda (sometimes referred to as 'Addendum'). Together, the Manual and Addendum are referred to as 'Agreement,' which contain important terms and conditions, details, rules and procedures applicable to each of your accounts. You agree not to use any consumer account for business purposes. Not all products and services described herein may be available to customers of Citi Private Bank, and International Personal Bank U.S. for clients in the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred , and Citi Global Executive Account Packages. These customers may receive other or additional specific terms and conditions.
+      Unless otherwise expressly agreed in writing, our relationship with you will be that of debtor and creditor. That is, we owe you the amount of your deposit. No fiduciary, quasi-fiduciary or other special relationship exists between you and us. We owe you a duty of ordinary care. Any internal policies or procedures that we may maintain in excess of reasonable commercial standards and general banking usage are solely for our own benefit and shall not impose a higher standard of care than otherwise would apply in their absence.
+      If your country of residence is other than the United States or the Commonwealth of Puerto Rico, you acknowledge that you are responsible for, and agree that you will comply with, all laws, regulations, and rules applicable to your accounts, products and services with us, including any tax, foreign exchange, or capital controls, and for all payments, reporting or filing requirements that may apply as a result of your country of citizenship, domicile, or residence.
+      This Manual provides information about financial services provided by Citibank in the United States and its territories. It is not, and should not be construed as, an offer, invitation or solicitation of services to individuals outside of the United States. Your eligibility for a particular product and service is subject to a final determination by Citibank.
+      
+    questions_and_answers:
+      - question: |
+          What documents govern my Citibank consumer deposit account?
+        answer: |
+          Your Citibank consumer deposit account is governed by the Client Manual and any applicable Marketplace Addenda, collectively referred to as the "Agreement."
+
+      - question: |
+          Can I use my Citibank consumer account for business purposes?
+        answer: |
+          No, Citibank consumer accounts are strictly for personal use and may not be used for business purposes.
+
+      - question: |
+          Does Citibank have any fiduciary responsibilities to its customers?
+        answer: |
+          No, Citibank does not act as a fiduciary. The bank's only obligation is to exercise ordinary care in handling accounts.
+
+  - context: |
+      When you open a Citibank consumer deposit account, you are agreeing that your account will be governed by this Client Manual (sometimes referred to as 'Manual') and any and all accompanying Marketplace Addenda (sometimes referred to as 'Addendum'). Together, the Manual and Addendum are referred to as 'Agreement,' which contain important terms and conditions, details, rules and procedures applicable to each of your accounts. You agree not to use any consumer account for business purposes. Not all products and services described herein may be available to customers of Citi Private Bank, and International Personal Bank U.S. for clients in the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred , and Citi Global Executive Account Packages. These customers may receive other or additional specific terms and conditions.
+      Unless otherwise expressly agreed in writing, our relationship with you will be that of debtor and creditor. That is, we owe you the amount of your deposit. No fiduciary, quasi-fiduciary or other special relationship exists between you and us. We owe you a duty of ordinary care. Any internal policies or procedures that we may maintain in excess of reasonable commercial standards and general banking usage are solely for our own benefit and shall not impose a higher standard of care than otherwise would apply in their absence.
+      If your country of residence is other than the United States or the Commonwealth of Puerto Rico, you acknowledge that you are responsible for, and agree that you will comply with, all laws, regulations, and rules applicable to your accounts, products and services with us, including any tax, foreign exchange, or capital controls, and for all payments, reporting or filing requirements that may apply as a result of your country of citizenship, domicile, or residence.
+      This Manual provides information about financial services provided by Citibank in the United States and its territories. It is not, and should not be construed as, an offer, invitation or solicitation of services to individuals outside of the United States. Your eligibility for a particular product and service is subject to a final determination by Citibank.
+      
+    questions_and_answers:
+      - question: |
+          What kind of relationship does Citibank have with its customers?
+        answer: |
+          The relationship between Citibank and its customers is that of debtor and creditor, meaning the bank owes the customer the amount of their deposits.
+
+      - question: |
+          What responsibilities do non-U.S. residents have regarding their Citibank accounts?
+        answer: |
+          Non-U.S. residents must comply with all applicable laws, regulations, and tax obligations in their country of residence.
+
+      - question: |
+          Are all Citibank products and services available to every customer?
+        answer: |
+          No, some services may not be available to clients of Citi Private Bank, International Personal Bank U.S., or other specialized account packages.
+
+  - context: |
+      Complaints and Inquiries
+      In the event you were referred by a Citi affiliated company or other parties to open an account with Citibank, you agree to contact us for any complaints or inquiries related to your Citibank accounts.
+      Important Note to Australian Resident Clients
+      Please note that Citibank N.A.: (i) is exempt from the requirement to hold an Australian financial services license under the Australian Corporations Act 2001 in respect of its provision of financial services to you; and (ii) is regulated by the Federal Reserve, the Consumer Financial Protection Bureau and the Office of the Comptroller of the Currency of the U.S. under U.S. laws, which differ from Australian laws.
+
+    questions_and_answers:
+      - question: |
+          What should I do if I have a complaint about my Citibank account?
+        answer: |
+          You should contact Citibank directly for any complaints or inquiries related to your Citibank accounts, even if you were referred by a Citi affiliated company or other parties.
+
+      - question: |
+          Is Citibank required to hold an Australian financial services license?
+        answer: |
+          No, Citibank N.A. is exempt from holding an Australian financial services license under the Australian Corporations Act 2001 when providing financial services to you.
+
+      - question: |
+          Who regulates Citibank N.A. in relation to Australian residents?
+        answer: |
+          Citibank N.A. is regulated by the Federal Reserve, the Consumer Financial Protection Bureau, and the Office of the Comptroller of the Currency under U.S. laws, which differ from Australian laws.
+
+  - context: |
+      When used in this Agreement:
+      'We', 'us', 'our', and 'Citibank' mean Citibank, N.A., and 'you' and 'your' mean you, the customer.
+      'Access Device' means a card or code, or other means of identification and authentication, used to access your account. In this Agreement, it means your 'Citibank® Banking Card' including your Citibank® ATM Card, Citibank® Debit Card, or other type of device issued by Citibank along with or in lieu of your Citibank® Banking Card. It also includes these account access codes: your Personal Identification Number (PIN), your Telephone Access Code ('TAC'), one time password (OTP), and the User ID and Password you use to access Citibank® Online and CitiMobile®.
+      'Auto Save' means a recurring pre-authorized transfer from a consumer checking account to a Citibank savings or money market account.
+      'Automated Clearing House or ACH' debits are received electronically through a merchant you have instructed to bill your checking account (e.g., for your utility or phone bill).
+      'Automated Clearing House Network' ('ACH Network') means an electronic funds transfer system governed by the rules of a clearing house association, such as NACHA (National Automated Clearing House Association) or The Clearing House, that provides funds transfer services to participating financial institutions.
+      Your 'Available Now' balance is the total amount you can use right now. The Available Now balance amount may be less than your On Deposit balance as it doesn't include the transactions that are still pending and haven't been posted to your account. For example, a recent deposited check may not be included in your Available Now balance.
+      'Bill Payment' means an individual or recurring bill payment made through CitiPhone Banking® (including bill payments made using Citibank's Telephone Automated Bill Payment Service and Staff Assisted Bill Payments), Citibank® Online, CitiBusiness® Online, and Citi Mobile®. Bill Payments do not include internal transfer payments made to accounts at Citibank or its affiliates.
+
+    questions_and_answers:
+      - question: |
+          What does the term "Access Device" refer to in this agreement?
+        answer: |
+          "Access Device" refers to any card, code, or other means used to access your account, such as a Citibank® Banking Card, ATM Card, Debit Card, and includes account access codes like your PIN, Telephone Access Code (TAC), OTP, and the User ID and Password for Citibank® Online and CitiMobile®.
+
+      - question: |
+          What is "Auto Save" in the context of Citibank accounts?
+        answer: |
+          "Auto Save" refers to a recurring, pre-authorized transfer from a consumer checking account to a Citibank savings or money market account.
+
+      - question: |
+          What does "Available Now" balance mean?
+        answer: |
+          The "Available Now" balance is the total amount you can use immediately, excluding pending transactions such as deposited checks that have not yet been posted to your account.
+
+  - context: |
+      ' Business Day '
+      - When referring to Citibank, means any day of the week that is not a Saturday, Sunday, or bank holiday. Non-Business Days are considered part of the following Business Day. For purposes of determining the Business Day for requests to open accounts, see the 'Account Opening' section of the Manual. For funds availability purposes, see the 'Funds Availability at Citibank' section of the Marketplace Addendum.
+      - When referring to Citigroup Global Markets Inc., means any day of the week Monday through Friday except days when the New York Stock Exchange is closed. Non-Business Days are considered part of the following Business Day.
+      'Citibank® ATM Card' means a Citibank® Banking Card that may be used at ATMs and at POS merchants for PIN purchases. (For more information, refer to the 'Electronic Banking' section of this Manual.)
+      'Citibank® Banking Card' means any card that may be used at ATMs and at POS merchants, including Citibank ATM cards and Citibank® Debit Cards. We may also refer to this card as a Citibank Card or a Citi Card in promotional and other materials.
+      'Citibank® Debit Card' means a Citibank Banking Card bearing a Mastercard Brand Mark on its face that may be used at POS merchants to make purchases and at ATMs to withdraw cash and perform other transactions. Certain Citibank Banking Cards also display a contactless symbol indicating you may use your card to make a contactless payment to a participating merchant by tapping your card on the payment reader.
+
+    questions_and_answers:
+      - question: |
+          What is considered a "Business Day" for Citibank?
+        answer: |
+          For Citibank, a "Business Day" is any day of the week that is not a Saturday, Sunday, or bank holiday. Non-Business Days are considered part of the following Business Day.
+
+      - question: |
+          How does Citigroup Global Markets Inc. define a "Business Day"?
+        answer: |
+          For Citigroup Global Markets Inc., a "Business Day" is any day of the week Monday through Friday, except when the New York Stock Exchange is closed.
+
+      - question: |
+          What is the difference between a Citibank® ATM Card and a Citibank® Debit Card?
+        answer: |
+          A Citibank® ATM Card is used for ATM transactions and PIN purchases at POS merchants, while a Citibank® Debit Card, which bears a Mastercard Brand Mark, can also be used for purchases at POS merchants and for ATM withdrawals. Some Debit Cards also offer contactless payment options.
+
+  - context: |
+      'Citigroup Global Markets Inc.' ('CGMI'), member SIPC, is an investment advisor and broker-dealer registered with the Securities and Exchange Commission. CGMI and Citibank are affiliated companies under the common control of Citigroup Inc.
+      'Citi Personal Wealth Management' ('CPWM') is a business of Citigroup Inc., offering investment products through Citigroup Global Markets Inc. ('CGMI'), member SIPC.
+      'Citi Private Bank' ('CPB') is a business of Citigroup Inc. Citi Private Bank provides its clients access to a broad array of products and services available through bank and non-bank affiliates of Citigroup. Not all products and services are provided by all affiliates or are available at all locations. In the U.S., investment products and services are provided by Citigroup Global Markets Inc. ('CGMI'), member SIPC. Investment Management services (including portfolio management) are available through CGMI, Citibank, N.A. and other affiliated advisory businesses.
+      'Direct Deposit' means an Automated Clearing House (ACH) credit posted to your account. A Direct Deposit may include payroll, pension, state or federal payments (including social security), from your employer or outside agency. Forms for establishing direct deposits can be obtained at any Citibank branch or through Citibank® Online.
+
+    questions_and_answers:
+      - question: |
+          What is Citigroup Global Markets Inc. (CGMI) and how is it related to Citibank?
+        answer: |
+          Citigroup Global Markets Inc. (CGMI) is an investment advisor and broker-dealer registered with the Securities and Exchange Commission (SEC). It is an affiliated company of Citibank under the common control of Citigroup Inc.
+
+      - question: |
+          What services does Citi Personal Wealth Management (CPWM) offer?
+        answer: |
+          Citi Personal Wealth Management (CPWM) offers investment products through Citigroup Global Markets Inc. (CGMI), member SIPC, to help clients manage and grow their wealth.
+
+      - question: |
+          What is a Direct Deposit and how can I set it up?
+        answer: |
+          A Direct Deposit is an Automated Clearing House (ACH) credit posted to your account, such as payroll, pension, or state and federal payments. You can establish Direct Deposit by obtaining the required forms at any Citibank branch or through Citibank® Online.
+
+  - context: |
+      'Electronic Funds Transfers' ('EFT') means any transfer of funds, other than a transaction originated by check, draft or similar paper instrument, or computer or magnetic tape, so as to order, instruct or authorize a financial institution to debit or credit a consumer checking, savings or other asset account (such as brokerage). Examples of EFT transactions are:
+      - Citibank® Global Transfers
+      - International wire transfers from a consumer account
+      - Automated Clearing House (ACH)
+      - Instant Payments
+      - Zelle® Transfers
+      - Point-of-Sale ('POS') transactions
+      - ATM transactions
+      - Direct deposit or withdrawal of funds
+      - Transfers initiated by telephone
+      Non-EFT transactions include: transfers related to bona fide trust and custodial accounts; domestic Fedwire and similar network transactions CHIPS, SWIFT, and telex; and transfers to cover overdrafts such as Safety Check transfers.
+      'Enhanced Direct Deposit' is an electronic deposit through the Automated Clearing House ('ACH') Network of payroll, pension, social security, government benefits and other payments to your checking, savings, or MMA account. An Enhanced Direct Deposit also includes Zelle® incoming payments and other P2P payments when made via ACH using providers such as Venmo or PayPal. Teller deposits, cash deposits, check deposits, wire transfers, transfers between Citibank accounts, ATM transfers and deposits, mobile check deposits, and P2P payments using a debit card do not qualify as an Enhanced Direct Deposit.
+      'Home Branch' means the Citibank branch in which you opened your account or to which your account was assigned or transferred. You may have several accounts assigned to the same Home Branch and they may be linked together, but one or more of these accounts may be governed by different state laws where no federal law applies and where state law is applicable or not otherwise preempted by federal law.
+
+    questions_and_answers:
+      - question: |
+          What types of transactions are considered Electronic Funds Transfers (EFT)?
+        answer: |
+          Electronic Funds Transfers (EFT) include transactions such as Citibank® Global Transfers, international wire transfers, ACH, Zelle® Transfers, Point-of-Sale (POS) transactions, ATM transactions, direct deposits, and transfers initiated by telephone, among others.
+
+      - question: |
+          What is an Enhanced Direct Deposit?
+        answer: |
+          An Enhanced Direct Deposit is an electronic deposit made through the ACH Network, including payroll, pension, social security, government benefits, and payments from providers like Venmo or PayPal. It does not include teller deposits, ATM transfers, or mobile check deposits.
+
+      - question: |
+          What is meant by the term 'Home Branch'?
+        answer: |
+          A 'Home Branch' refers to the Citibank branch where you opened your account or the branch to which your account was assigned or transferred. It may be linked to other accounts, but different state laws may apply to some of those accounts.
+
+  - context: |
+      'International Personal Bank U.S.' ('IPB U.S.') is a business of Citigroup Inc. ('Citigroup') which provides its clients access to a broad array of products and services available through Citigroup, its bank and non-bank affiliates worldwide (collectively, 'Citi'). Through IPB U.S., clients have access to the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred, and Citi Global Executive Account Packages. Banking products and services are provided by Citibank, N.A.
+      'Linked Accounts' or 'Linking' means eligible Citibank deposit and/or credit accounts that are combined for different benefits, which may include pricing, statements, Safety Check, and the ability to perform certain transactions between accounts. Certain accounts that you maintain with our affiliates may also be linked. Generally, accounts that you maintain in different geographies cannot be linke
+      'Mobile Check Deposit' means a service whereby you can make a deposit of eligible checks to your accounts using a camera on a compatible smartphone or other device, as described in the separate terms and conditions for this servic
+      'Network ATM' means an ATM other than a Proprietary Citibank ATM that is operated by or on behalf of a financial institution or other operator that is a participating member of an automated teller machine network which accepts Citibank Banking Cards, including terminals bearing the Mastercard, Maestro, or Cirrus mark
+      Your 'On Deposit' amount reflects all transactions recorded in your account as of today. The On Deposit amount may be greater than the Available Now amount because it's a record of your activity, including transactions that haven't settled and that aren't yet available for you to use.
+      
+    questions_and_answers:
+      - question: |
+          What types of banking products are available through International Personal Bank U.S. (IPB U.S.)?
+        answer: |
+          Through IPB U.S., clients have access to various account packages, including the Citigold® Private Client International, Citigold® International, Citi International Personal, Citi Global Executive Preferred, and Citi Global Executive Account Packages. Banking services are provided by Citibank, N.A.
+
+      - question: |
+          What is the benefit of linking accounts at Citibank?
+        answer: |
+          Linking eligible Citibank deposit and/or credit accounts allows for benefits such as pricing, consolidated statements, access to Safety Check, and the ability to perform transactions between linked accounts. Some accounts with Citibank affiliates may also be linked, although accounts in different geographies generally cannot be linked.
+
+      - question: |
+          How does Mobile Check Deposit work?
+        answer: |
+          Mobile Check Deposit allows you to deposit eligible checks into your accounts using a compatible smartphone or device with a camera. The service is subject to separate terms and conditions, and eligible checks must meet the specific criteria for this service.
+
+  - context: |
+      'Point-of-Sale' ('POS') means a Citibank® Banking Card EFT from your primary checking account to purchase goods and services and/or receive cash using your 'Citibank® Debit Card' for Signature or PIN-based EFT transactions or by using your 'Citibank® ATM Card' for PIN-based EFT transactions. (For more information, refer to the 'Electronic Banking' section of this Manual.)
+      'Proprietary Citibank ATM' means an ATM that is owned and operated by Citibank, generally found in Citibank branches.
+      'Remotely Created Check(s)' means an item not bearing the drawer's (your) actual signature, but purporting to be authorized by the drawer (you).
+      
+    questions_and_answers:
+      - question: |
+          What is the Point-of-Sale (POS) transaction process for Citibank Banking Cards?
+        answer: |
+          A Point-of-Sale (POS) transaction involves using a Citibank® Banking Card, such as a Citibank® Debit Card or Citibank® ATM Card, for electronic funds transfer (EFT) from your primary checking account. You can use your Debit Card for Signature or PIN-based EFT transactions, or your ATM Card for PIN-based EFT transactions to purchase goods and services and/or receive cash.
+
+      - question: |
+          What is a Proprietary Citibank ATM?
+        answer: |
+          A Proprietary Citibank ATM is an ATM that is owned and operated by Citibank, typically found at Citibank branch locations. These ATMs allow you to access your Citibank accounts for various banking transactions.
+
+      - question: |
+          What are Remotely Created Checks (RCCs)?
+        answer: |
+          Remotely Created Checks (RCCs) are checks that do not bear the drawer's (your) actual signature but are intended to appear as if they were authorized by you. These checks are created by a third party and are typically used in situations where the drawer’s signature is not physically present.
+
+  - context: |
+      'Estate Account' means an account opened by a fiduciary on behalf of a formal estate. The estate will have its own Taxpayer Identification Number issued by the Internal Revenue Service (IRS). Additional documentation is required to open the account.
+      'Individual Account' means an account owned in the name of one person only.
+      'Joint Account' means an account owned in the names of more than one person in joint tenancy. If one owner dies, ownership of the account will automatically pass to the surviving joint owner(s). Unless you designate otherwise on your signature card, application, or other bank documentation, we will assume that personal accounts opened by two or more individuals are intended to be joint tenancy accounts with the right of survivorship. We can act on the instruction of any one or more of the joint account owners. In the event of conflicting instructions or a dispute among you, we may require all joint account owners to act together in giving us instructions or performing transactions. Any joint account owner may close a joint account.
+      Each account owner is jointly and severally responsible for all activity related to the joint account, including responsibility for paying overdrafts created by any authorized signer(s) or party to the account, whether or not they participate in the transaction or benefit from its proceeds. We may be required by legal process to pay all the funds in a joint account to satisfy a judgment against any or all account owners.
+    
+    questions_and_answers:
+      - question: |
+          What is an Estate Account, and how is it different from other accounts?
+        answer: |
+          An Estate Account is an account opened by a fiduciary on behalf of a formal estate. The estate is issued its own Taxpayer Identification Number (TIN) by the IRS. Unlike individual or joint accounts, this account is intended to manage the financial affairs of the estate and requires additional documentation for its opening.
+
+      - question: |
+          What defines an Individual Account?
+        answer: |
+          An Individual Account is owned solely by one person. It is not shared with any other individual, and all decisions and responsibilities regarding the account rest with the account holder.
+
+      - question: |
+          How does a Joint Account work, and what happens if one account holder dies?
+        answer: |
+          A Joint Account is shared between two or more individuals, and it operates under joint tenancy. If one account holder dies, the ownership of the account automatically passes to the surviving account holder(s). All joint account holders are jointly responsible for the account's activity, including any overdrafts. If there's a dispute, Citibank may require all account holders to act together for any instructions or transactions.
+
+  - context: |
+      Applicable to accounts opened on or after April 23, 2021
+      All Joint Accounts must have at least one adult owner. Minors age 13 to 17 may qualify to open a Joint Account. Please refer to the governing state law of your account for information about legal rights and obligations of minors. When at least one owner of a Joint Account is a minor in the Basic Banking Package, the adult owner should serve as the primary signer which means the adult owner will receive communications and statements regarding the account according to the Client Manual - Consumers Accounts and Marketplace Addendum (for instance, see 'Account Statements and Notices,' 'Periodic Statements'). Unless expressly limited, the Joint Account rules explained in the Client Manual - Consumer Accounts and Marketplace Addendum otherwise remain unchanged.
+      'In-Trust-For ('ITF') Account' means an account where you designate another person as beneficiary of the account. You can open an individual or joint ITF account as long as it is not a checking account. The beneficiary receives the funds in the account only upon the death of all account owners and cannot make any withdrawals or account changes before that time. If more than one beneficiary is named in our records, they will share equally in the account proceeds. During the lifetime of one or more of the account owners, this account will be treated as an individual account or joint account, as applicable. To change the beneficiary, all account owners must sign our documentation naming the new beneficiary.
+    
+    questions_and_answers:
+      - question: |
+          Can minors open a Joint Account at Citibank?
+        answer: |
+          Yes, minors aged 13 to 17 may qualify to open a Joint Account, but at least one adult owner must also be listed. The adult owner will serve as the primary signer and will receive account communications and statements. State law governs the legal rights and obligations of minors regarding such accounts.
+
+      - question: |
+          What is an In-Trust-For (ITF) Account, and how does it work?
+        answer: |
+          An ITF Account is an account where you designate a beneficiary who will receive the funds after all account owners pass away. The beneficiary cannot make withdrawals or changes to the account during the owners' lifetimes. If multiple beneficiaries are named, they will share the account proceeds equally. The account is treated as an individual or joint account while the owners are alive.
+
+      - question: |
+          How can I change the beneficiary on my In-Trust-For (ITF) Account?
+        answer: |
+          To change the beneficiary on your ITF Account, all account owners must sign the necessary documentation naming the new beneficiary. This ensures that the new beneficiary will receive the account funds after the death of the account owners.
+
+  - context: |
+      Applicable to accounts opened on or after April 23, 2021
+      'Trust Account' means an account owned by a trust. In some cases, the trust must have its own Taxpayer Identification Number issued by the Internal Revenue Service (IRS). Additional documentation is required to open the account.
+      'Uniform Transfers to Minors Account' ('UTMA Account') means an account where, pursuant to state law, an adult makes an irrevocable gift of the funds to a minor individual. The adult, as custodian, controls and manages the account for the benefit of the minor until adulthood. The definition of a minor varies by state; however, generally, one custodian and one minor are allowed per account, unless the account is established under Maryland's UTMA rules. We act only upon the custodian's instructions. Citibank may, in its sole discretion, opt to block or close the UTMA account if it determines or has reason to believe that the minor has attained the age at which the UTMA terminates under applicable state law. Although Citibank may terminate the UTMA in this circumstance, Citibank is not responsible to monitor age or eligibility for an UTMA account, even though our records may include the minor's date of birth. It is the custodian's responsibility to properly distribute the funds in the account upon the minor's death or attainment of age at which the UTMA terminates under applicable state law. You may wish to consult your tax advisor or attorney before opening a UTMA Account.
+    
+    questions_and_answers:
+      - question: |
+          What is a Trust Account at Citibank, and how is it different from other types of accounts?
+        answer: |
+          A Trust Account is owned by a trust, and in some cases, the trust must have its own Taxpayer Identification Number (TIN) issued by the IRS. Additional documentation is required to open a Trust Account, and it is distinct from personal or business accounts as it holds assets for the benefit of beneficiaries according to the terms of the trust.
+
+      - question: |
+          What is a Uniform Transfers to Minors Account (UTMA), and who manages the funds?
+        answer: |
+          A UTMA Account allows an adult to make an irrevocable gift of funds to a minor, with the adult acting as the custodian. The custodian controls and manages the account for the minor until they reach adulthood. The minor cannot control the account until the legal age defined by state law.
+
+      - question: |
+          What happens if a minor reaches the age at which a UTMA Account terminates under state law?
+        answer: |
+          If the minor reaches the age at which the UTMA Account terminates under applicable state law, Citibank may close or block the account. However, it is the custodian's responsibility to properly distribute the funds and ensure compliance with state law. Citibank is not responsible for monitoring the minor’s age or eligibility for the UTMA account.
