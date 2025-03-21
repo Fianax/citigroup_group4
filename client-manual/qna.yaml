@@ -1,7 +1,8 @@
 created_by: cosme morales picon
 version: 3
 domain: Finalcial Services Banking
-document_outline:
+document_outline: |
+  Information on account statements and periodic statements, check cancellation, check replacement, check replacement law and check replacement claim
 seed_examples:
   - context: |
       ## Account Statements and Notices, Periodic Statements
@@ -46,7 +47,8 @@ seed_examples:
       
       ## Substitute Checks and Your Rights
       ### What Is a Substitute Check?
-      A substitute check is a paper reproduction created from a digital image of the front and back of the original check and bears the legend 'This is a legal copy of your check.' You can use it the same way you would use the original check. Federal law allows banks to replace original checks with 'substitute checks.' Under the law, a substitute check is the 'legal equivalent' of the original check. In other words, it can be used in the same way and for all purposes for which you would use the original check.
+      A substitute check is a paper reproduction created from a digital image of the front and back of the original check and bears the legend 'This is a legal copy of your check.' You can use it the same way you would use the original check. 
+      Federal law allows banks to replace original checks with 'substitute checks.' Under the law, a substitute check is the 'legal equivalent' of the original check. In other words, it can be used in the same way and for all purposes for which you would use the original check.
     questions_and_answers:
       - question: |
           Will I receive images of my cancelled checks?
@@ -110,12 +112,13 @@ seed_examples:
       - question: |
           What can Citibank request to investigate the claim?
         answer: |
-          · Description of how you suffered a loss.
-          · Amount of your loss.
-          · Explanation as to why the original check is needed to determine the validity of the amount charged to your account.
-          · A copy of the substitute check and/or information to help us identify the substitute check (such as check number, the amount of the check and payee).
+          Citibank may request the following items to investigate the claim:
+            · Description of how you suffered a loss.
+            · Amount of your loss.
+            · Explanation as to why the original check is needed to determine the validity of the amount charged to your account.
+            · A copy of the substitute check and/or information to help us identify the substitute check (such as check number, the amount of the check and payee).
 document:
   repo: 'https://github.com/Fianax/citigroup_group4.git'
-  commit: 
+  commit: b1e5a77d488379060fd8c8a0406889c061e9a3b4
   patterns:
-    - ''
+    - 'client-manual/Client Manual - Consumer Accounts.md'
